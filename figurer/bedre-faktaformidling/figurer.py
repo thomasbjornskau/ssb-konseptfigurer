@@ -996,9 +996,91 @@ F2C = dict(
     badges=[(552, 296), (560, 741), (552, 800), (812, 800), (1072, 800)])
 
 
+# ---------- F4a Søk med KI-støtte: forutsetninger og tidshorisont ----------
+def f4a():
+    f = Fig(None)
+    frame(f, "Søk med KI-støtte: hva endres, og når?", "Fokus på F4: hvordan KI flytter arbeid fra redaksjonelt til maskinelt, trinn for trinn", "Fokus F4a",
+          "Slik leses figuren",
+          [("Forutsetning først, tid etterpå", ["Hver horisont starter når", "forutsetningen er på plass.", "Årstallene er antatt."]),
+           ("KI flytter arbeid, ikke ansvar", ["Punktet i hver celle glir mot", "maskinelt. I trinn 4 og 5 stopper", "det ved grensen for faglig ansvar."]),
+           ("Størst gevinst i trinn 2 og 3", ["Fra brukerord til begrep og", "nærliggende statistikk kan KI", "gjøre mye, og tidlig."]),
+           ("Her møtes søk og assistent", ["På lang sikt glir søk over i", "dialog. Da gjelder rammene i F5."]),
+           ("Alt er forslag", ["Horisontene er et diskusjons-", "grunnlag, ikke en plan."])],
+          [("forslag", "Horisont, forslag"), ("uavklart", "Tidshorisont antatt")],
+          status="Forslag til diskusjon, ikke kvalitetssikret")
+    X0, CW = 300, 220
+    steps = ["Treffliste", "Ord til begrep", "Nærliggende statistikk", "Forklare forskjeller", "Anbefalt inngang"]
+    for j, s_ in enumerate(steps):
+        x = X0 + j * CW
+        f.rect("_", x + 4, 184, CW - 8, 52, C["purplep"], C["purplep"], 0, 8)
+        f.badge(x + 26, 210, j + 1)
+        ln = [s_] if len(s_) <= 16 else s_.split(" ", 1)
+        f.lines("_", x + 50, 206 if len(ln) == 2 else 216, ln, 15, PT, 700, lh=18)
+    # rader
+    rows = [("I dag", None, None, 250, 58),
+            ("Kort sikt", ["Krever: dagens innhold,", "godt indeksert"], "typisk 0–1 år · antatt", 318, 170),
+            ("Mellomlang sikt", ["Krever: maskinlesbare", "begreper og relasjoner (F3)"], "typisk 1–3 år · antatt", 498, 170),
+            ("Lang sikt", ["Krever: hele autoritets-", "kjeden maskinlesbar"], "typisk 3+ år · antatt", 678, 170)]
+    pos = {0: [0.10, 0.45, 0.30, 0.80, 0.90], 1: [0.08, 0.28, 0.25, 0.80, 0.90],
+           2: [0.08, 0.14, 0.12, 0.62, 0.72], 3: [0.06, 0.08, 0.08, 0.50, 0.50]}
+    txt = {1: [["Bedre rangering", "av treff"], ["Semantisk søk foreslår", "begrep for brukerens ord"], ["Enkle forslag fra", "eksisterende lenker"], ["Ingen endring"], ["Ingen endring"]],
+           2: [["Som før"], ["Forslag kontrolleres", "mot begrepsregisteret"], ["Nærliggende statistikk", "fra maskinlesbare", "relasjoner"], ["KI skriver utkast til", "forklaringer, fag", "godkjenner"], ["Forslag til inngang,", "fag godkjenner"]],
+           3: [["Glir inn i dialog"], ["Løses i dialog med", "oppfølgingsspørsmål"], ["Assistenten viser", "sammenhenger"], ["Forklaringer i dialog,", "bygget på godkjent", "innhold"], ["Anbefaling i dialog,", "innenfor faglig ansvar"]]}
+    for r, (name, req, tid, y, h) in enumerate(rows):
+        today = r == 0
+        f.rect("_", 60, y, 232, h, C["white"] if today else "#faf9ff", C["dark"] if today else C["purple"], 1.8, 10, dash=None if today else "7 5")
+        f.text("_", 76, y + (36 if today else 32), name, 18, C["ink"] if today else PT, 700)
+        if req:
+            f.lines("_", 76, y + 58, req, 13.5, C["dark"], 600, lh=18)
+            w = len(tid) * 6.9 + 22
+            f.rect("_", 76, y + h - 42, w, 26, C["white"], C["grey"], 1.3, 13, dash=U)
+            f.text("_", 76 + w / 2, y + h - 24, tid, 12.5, C["grey"], 700, "middle")
+        for j in range(5):
+            x = X0 + j * CW
+            f.rect("_", x + 4, y, CW - 8, h, C["white"], C["line"] if today else "#e3dcfb", 1.2, 8)
+            if not today:
+                t = txt[r][j]
+                muted = t[0] in ("Ingen endring", "Som før")
+                f.lines("_", x + 18, y + 30, t, 13.5, C["grey"] if muted else C["ink"], 600 if not muted else 400, lh=18)
+            # skala
+            sy = y + h - 22 if not today else y + 30
+            x1, x2 = x + 18, x + CW - 22
+            f.add(f'<line x1="{x1}" y1="{sy}" x2="{x2}" y2="{sy}" stroke="{C["line"]}" stroke-width="4" stroke-linecap="round"/>')
+            px = x1 + (x2 - x1) * pos[r][j]
+            if today:
+                f.add(f'<circle cx="{px}" cy="{sy}" r="8" fill="{C["white"]}" stroke="{C["grey"]}" stroke-width="2.5"/>')
+            else:
+                px0 = x1 + (x2 - x1) * pos[r - 1][j]
+                if abs(px0 - px) > 12:
+                    f.arrow("_", [(px0, sy), (px + 10, sy)], C["purplel"], 2.5, hs=8)
+                f.add(f'<circle cx="{px}" cy="{sy}" r="8" fill="{C["purple"]}"/>')
+    # grense for faglig ansvar i trinn 4 og 5
+    for j in (3, 4):
+        x = X0 + j * CW
+        gx = x + 18 + (CW - 40) * 0.5
+        for yy in (280, 466, 646, 826):
+            f.add(f'<line x1="{gx}" y1="{yy-18}" x2="{gx}" y2="{yy+18}" stroke="{C["purple"]}" stroke-width="3"/>')
+        f.add(f'<line x1="{gx}" y1="844" x2="{gx}" y2="858" stroke="{C["purple"]}" stroke-width="2" stroke-dasharray="3 3"/>')
+    f.rect("_", X0 + 3 * CW + 40, 858, 2 * CW - 80, 28, C["white"], C["purple"], 1.4, 14)
+    f.text("_", X0 + 4 * CW, 877, "grense for faglig ansvar", 14, PT, 700, "middle")
+    # møtepunkt med F5
+    f.rect("_", X0 + 4, 858, 3 * CW - 48, 28, C["white"], C["dark"], 1.3, 14)
+    f.text("_", X0 + (3 * CW - 40) / 2, 877, "lang sikt: her møtes søk og assistent (se F5)", 14, C["dark"], 700, "middle")
+    # forklaring skala
+    f.rect("_", 60, 904, 1340, 80, "#f8fbfb", C["line"], 1.2, 10)
+    f.add(f'<circle cx="{90}" cy="{944}" r="8" fill="{C["white"]}" stroke="{C["grey"]}" stroke-width="2.5"/>')
+    f.text("_", 106, 950, "i dag (fra F4)", 15, C["dark"])
+    f.add(f'<circle cx="{250}" cy="{944}" r="8" fill="{C["purple"]}"/>')
+    f.text("_", 266, 950, "horisonten", 15, C["dark"])
+    f.text("_", 380, 940, "Punktet på linjen: venstre = kan gjøres maskinelt, høyre = krever faglig og redaksjonelt skjønn.", 15, C["dark"])
+    f.text("_", 380, 964, "Plasseringene er et forslag til diskusjon, ikke en vurdering av verktøy.", 15, C["grey"], 600)
+    save(f, "ff-F4a-sok-med-ki.svg")
+
+
 if __name__ == "__main__":
     for fn in (intro, f1, f3, f4, f5, f6, f7, f8, f9, f10, f11, f12):
         fn()
     f2()
     f2(F2C)
+    f4a()
     print("ok")
