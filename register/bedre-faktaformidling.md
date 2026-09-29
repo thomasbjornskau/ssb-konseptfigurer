@@ -12,6 +12,7 @@ Utkast per 29.09.2026. Storyboard: dokumentet «Figursamling for Bedre faktaform
 | F2c | Tilgangsregimer | Personvern, juridisk, informasjonssikkerhet | Fokus | Utkast |
 | F3 | Autoritetskjeden bak et tall | Metadata- og dataforvaltning | Oversikt | Utkast |
 | F4 | Bedre søk er mer enn treffliste | Formidling og kommunikasjon | Oversikt | Utkast |
+| F4a | Søk med KI-støtte: forutsetninger og tidshorisont | Formidling og kommunikasjon | Fokus | Utkast, forslag |
 | F5 | KI-assistent som veiviser | Strategisk ledelse | Diskusjon | Utkast |
 | F6 | Fleksibilitet innenfor faglige rammer | Fagmiljøer | Oversikt | Utkast |
 | F7 | Dataportalen: sandkasse eller autoritativ tjeneste | Metadata- og dataforvaltning | Diskusjon | Utkast |
@@ -36,3 +37,4 @@ Mulige fokusvarianter senere: F2a (per brukergruppe), F2b (metadataflyt), F1a–
 - [ ] F9: foreslått rekkefølge; status og beslutter per spørsmål
 - [ ] F10: balanse mellom scenarioene – test med noen som heller mot plattformsiden
 - [ ] F12: avhengigheter per kandidat
+- [ ] F4a: plassering per horisont, grensen for faglig ansvar i trinn 4–5, og de antatte årstallene
