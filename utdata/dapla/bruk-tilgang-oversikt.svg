@@ -1,0 +1,100 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080">
+<rect x="0" y="0" width="1920" height="1080" fill="#ffffff"/>
+<text x="60" y="92" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="46" font-weight="700" fill="#1e3a3f" text-anchor="start">Min tilgang på Dapla</text>
+<text x="60" y="136" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="24" font-weight="400" fill="#5e787a" text-anchor="start">Hva du ser, hva du ikke ser, og hvem du spør for å få mer</text>
+<rect x="1690" y="62" width="170" height="40" rx="20" fill="#ffffff" stroke="#274246" stroke-width="2"/>
+<text x="1775" y="89" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="19" font-weight="700" fill="#274246" text-anchor="middle">Oversikt</text>
+<line x1="60" y1="160" x2="1860" y2="160" stroke="#cdd3d4" stroke-width="2"/>
+<rect x="60" y="180" width="1340" height="96" rx="12" fill="#f1f1fe" stroke="#7d5fea" stroke-width="1.5"/>
+<circle cx="112" cy="214.2" r="13.5" fill="#274246"/>
+<path d="M87.7,259.2 C87.7,232.2 97.6,230.4 112,230.4 C126.4,230.4 136.3,232.2 136.3,259.2 Z" fill="#274246"/>
+<text x="160" y="220" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="22" font-weight="700" fill="#4b2fb0" text-anchor="start">Tilgangen din følger teamet, ikke deg</text>
+<text x="160" y="250" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#274246" text-anchor="start">Når du starter en tjeneste i Dapla Lab, velger du hvilket team du jobber for. Da får du det teamet har tilgang til.</text>
+<rect x="60" y="300" width="433" height="570" rx="12" fill="#ffffff" stroke="#00824d" stroke-width="2"/>
+<rect x="60" y="300" width="433" height="62" rx="12" fill="#00824d" stroke="#00824d" stroke-width="0"/>
+<rect x="60" y="340" width="433" height="22" rx="0" fill="#00824d" stroke="#00824d" stroke-width="0"/>
+<text x="84" y="341" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="22" font-weight="700" fill="#ffffff" text-anchor="start">Dette ser du</text>
+<path d="M84,406 L84,448 A32.0,14 0 0 0 148,448 L148,406" fill="#b6e9b8" stroke="#00824d" stroke-width="2"/>
+<ellipse cx="116.0" cy="406" rx="32.0" ry="14" fill="#b6e9b8" stroke="#00824d" stroke-width="2"/>
+<text x="166" y="418" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="19" font-weight="700" fill="#1e3a3f" text-anchor="start">Produktbøtta i teamet ditt</text>
+<text x="166" y="444" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="400" fill="#274246" text-anchor="start">inndata, klargjorte data, statistikk</text>
+<text x="166" y="464" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="400" fill="#274246" text-anchor="start">og utdata · lese og skrive</text>
+<path d="M84,556 L84,598 A32.0,14 0 0 0 148,598 L148,556" fill="#ecfeed" stroke="#00824d" stroke-width="2"/>
+<ellipse cx="116.0" cy="556" rx="32.0" ry="14" fill="#ecfeed" stroke="#00824d" stroke-width="2"/>
+<text x="166" y="568" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="19" font-weight="700" fill="#1e3a3f" text-anchor="start">Delt-bøtter fra andre team</text>
+<text x="166" y="594" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="400" fill="#274246" text-anchor="start">det andre team har valgt å dele</text>
+<text x="166" y="614" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="400" fill="#274246" text-anchor="start">med teamet ditt · kun lese</text>
+<path d="M84,706 L84,748 A32.0,14 0 0 0 148,748 L148,706" fill="#ecfeed" stroke="#00824d" stroke-width="2"/>
+<ellipse cx="116.0" cy="706" rx="32.0" ry="14" fill="#ecfeed" stroke="#00824d" stroke-width="2"/>
+<text x="166" y="718" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="19" font-weight="700" fill="#1e3a3f" text-anchor="start">Dapla Felles</text>
+<text x="166" y="744" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="400" fill="#274246" text-anchor="start">felles team for alle ansatte</text>
+<text x="166" y="764" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="400" fill="#274246" text-anchor="start">åpne data og kursmateriell</text>
+<rect x="513" y="300" width="433" height="570" rx="12" fill="#f3f5f5" stroke="#b9c5c6" stroke-width="2"/>
+<text x="537" y="341" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="22" font-weight="700" fill="#1e3a3f" text-anchor="start">Dette ser du ikke</text>
+<line x1="513" y1="362" x2="946" y2="362" stroke="#b9c5c6" stroke-width="1.5"/>
+<path d="M552,408 L552,403 A7,7 0 0 1 566,403 L566,408" fill="none" stroke="#5e787a" stroke-width="3"/>
+<rect x="547" y="408" width="24" height="18" rx="3" fill="#5e787a"/>
+<text x="597" y="418" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="19" font-weight="700" fill="#1e3a3f" text-anchor="start">Kildedata</text>
+<text x="597" y="444" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="400" fill="#274246" text-anchor="start">heller ikke i ditt eget team.</text>
+<text x="597" y="464" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="400" fill="#274246" text-anchor="start">Du møter dataene først som</text>
+<text x="597" y="484" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="400" fill="#274246" text-anchor="start">inndata, etter Kildomaten.</text>
+<path d="M552,558 L552,553 A7,7 0 0 1 566,553 L566,558" fill="none" stroke="#5e787a" stroke-width="3"/>
+<rect x="547" y="558" width="24" height="18" rx="3" fill="#5e787a"/>
+<text x="597" y="568" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="19" font-weight="700" fill="#1e3a3f" text-anchor="start">Andre teams produktbøtter</text>
+<text x="597" y="594" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="400" fill="#274246" text-anchor="start">bare det de legger i en</text>
+<text x="597" y="614" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="400" fill="#274246" text-anchor="start">delt-bøtte og deler med deg.</text>
+<path d="M552,708 L552,703 A7,7 0 0 1 566,703 L566,708" fill="none" stroke="#5e787a" stroke-width="3"/>
+<rect x="547" y="708" width="24" height="18" rx="3" fill="#5e787a"/>
+<text x="597" y="718" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="19" font-weight="700" fill="#1e3a3f" text-anchor="start">Data i team du ikke er med i</text>
+<text x="597" y="744" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="400" fill="#274246" text-anchor="start">uansett hvilken seksjon</text>
+<text x="597" y="764" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="400" fill="#274246" text-anchor="start">du tilhører.</text>
+<rect x="966" y="300" width="433" height="570" rx="12" fill="#ffffff" stroke="#7d5fea" stroke-width="2"/>
+<rect x="966" y="300" width="433" height="62" rx="12" fill="#7d5fea" stroke="#7d5fea" stroke-width="0"/>
+<rect x="966" y="340" width="433" height="22" rx="0" fill="#7d5fea" stroke="#7d5fea" stroke-width="0"/>
+<text x="990" y="341" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="22" font-weight="700" fill="#ffffff" text-anchor="start">Slik får du mer</text>
+<text x="990" y="404" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" fill="#1e3a3f" text-anchor="start">Jobbe i et annet team</text>
+<rect x="990" y="418" width="170" height="28" rx="14" fill="#c3baff" stroke="#7d5fea" stroke-width="1.5"/>
+<text x="1075" y="437" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#4b2fb0" text-anchor="middle">Seksjonslederen</text>
+<text x="1172" y="437" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="400" fill="#274246" text-anchor="start">legger deg til i Dapla Ctrl</text>
+<line x1="990" y1="486" x2="1375" y2="486" stroke="#cdd3d4" stroke-width="1"/>
+<text x="990" y="522" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" fill="#1e3a3f" text-anchor="start">Data fra et annet team</text>
+<rect x="990" y="536" width="170" height="28" rx="14" fill="#c3baff" stroke="#7d5fea" stroke-width="1.5"/>
+<text x="1075" y="555" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#4b2fb0" text-anchor="middle">Eierteamet</text>
+<text x="1172" y="555" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="400" fill="#274246" text-anchor="start">deler via delt-bøtte</text>
+<line x1="990" y1="604" x2="1375" y2="604" stroke="#cdd3d4" stroke-width="1"/>
+<text x="990" y="640" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" fill="#1e3a3f" text-anchor="start">Se kildedata i klartekst</text>
+<rect x="990" y="654" width="170" height="28" rx="14" fill="#c3baff" stroke="#7d5fea" stroke-width="1.5"/>
+<text x="1075" y="673" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#4b2fb0" text-anchor="middle">Bare data-admins</text>
+<text x="1172" y="673" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="400" fill="#274246" text-anchor="start">tidsavgrenset, med begrunnelse</text>
+<line x1="990" y1="722" x2="1375" y2="722" stroke="#cdd3d4" stroke-width="1"/>
+<text x="990" y="758" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" fill="#1e3a3f" text-anchor="start">Bli data-admin</text>
+<rect x="990" y="772" width="170" height="28" rx="14" fill="#c3baff" stroke="#7d5fea" stroke-width="1.5"/>
+<text x="1075" y="791" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#4b2fb0" text-anchor="middle">Seksjonslederen</text>
+<text x="1172" y="791" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="400" fill="#274246" text-anchor="start">2–3 per team</text>
+<rect x="60" y="890" width="1340" height="92" rx="12" fill="#ffffff" stroke="#274246" stroke-width="1.5"/>
+<text x="80" y="926" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="19" font-weight="700" fill="#1e3a3f" text-anchor="start">Tilgang gis aldri direkte til deg som person</text>
+<text x="80" y="956" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#274246" text-anchor="start">Alt går via gruppene i teamet. Når du slutter i et team, forsvinner tilgangen til teamets data.</text>
+<rect x="1440" y="180" width="420" height="802" rx="16" fill="#eff8fa" stroke="#eff8fa" stroke-width="0"/>
+<text x="1466" y="226" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="25" font-weight="700" fill="#1e3a3f" text-anchor="start">Tre ting å huske</text>
+<circle cx="1485" cy="268" r="19" fill="#1e3a3f" stroke="#ffffff" stroke-width="3"/>
+<text x="1485" y="276" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="22" font-weight="700" fill="#ffffff" text-anchor="middle">1</text>
+<text x="1516" y="276" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="20" font-weight="700" fill="#1e3a3f" text-anchor="start">Velg riktig team</text>
+<text x="1516" y="303" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#274246" text-anchor="start">Hvilke data du ser, avhenger av</text>
+<text x="1516" y="326" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#274246" text-anchor="start">teamet du velger når du starter</text>
+<text x="1516" y="349" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#274246" text-anchor="start">en tjeneste i Dapla Lab.</text>
+<circle cx="1485" cy="390" r="19" fill="#1e3a3f" stroke="#ffffff" stroke-width="3"/>
+<text x="1485" y="398" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="22" font-weight="700" fill="#ffffff" text-anchor="middle">2</text>
+<text x="1516" y="398" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="20" font-weight="700" fill="#1e3a3f" text-anchor="start">Kildedata er skjermet</text>
+<text x="1516" y="425" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#274246" text-anchor="start">Det daglige arbeidet starter</text>
+<text x="1516" y="448" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#274246" text-anchor="start">fra inndata og videre.</text>
+<circle cx="1485" cy="489" r="19" fill="#1e3a3f" stroke="#ffffff" stroke-width="3"/>
+<text x="1485" y="497" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="22" font-weight="700" fill="#ffffff" text-anchor="middle">3</text>
+<text x="1516" y="497" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="20" font-weight="700" fill="#1e3a3f" text-anchor="start">Spør riktig person</text>
+<text x="1516" y="524" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#274246" text-anchor="start">Seksjonslederen om medlemskap.</text>
+<text x="1516" y="547" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#274246" text-anchor="start">Eierteamet om data. Data-admins</text>
+<text x="1516" y="570" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#274246" text-anchor="start">om kildedata.</text>
+<text x="1466" y="930" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="400" fill="#5e787a" text-anchor="start">Mer detaljer: se orienterings- og</text>
+<text x="1466" y="952" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="400" fill="#5e787a" text-anchor="start">teknisk utgave av tilgangsfiguren.</text>
+<line x1="60" y1="1010" x2="1860" y2="1010" stroke="#cdd3d4" stroke-width="1"/>
+<text x="1860" y="1046" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="400" fill="#5e787a" text-anchor="end">Utkast 28.09.2026 · Kilde: manual.dapla.ssb.no</text>
+</svg>

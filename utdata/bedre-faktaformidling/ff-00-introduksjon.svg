@@ -1,0 +1,251 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080">
+<rect x="0" y="0" width="1920" height="1080" fill="#ffffff"/>
+<text x="60" y="92" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="46" font-weight="700" fill="#1e3a3f" text-anchor="start">Tolv figurer for Bedre faktaformidling</text>
+<text x="60" y="136" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="24" font-weight="400" fill="#5e787a" text-anchor="start">Én figur, ett spørsmål, én primær målgruppe</text>
+<rect x="1690" y="62" width="170" height="40" rx="20" fill="#ffffff" stroke="#274246" stroke-width="2"/>
+<text x="1775" y="89" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="19" font-weight="700" fill="#274246" text-anchor="middle">Introduksjon</text>
+<line x1="60" y1="160" x2="1860" y2="160" stroke="#cdd3d4" stroke-width="2"/>
+<text x="60" y="196" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="18" font-weight="400" fill="#274246" text-anchor="start">Mange miljøer ser hver sin del av samme sak. Figursamlingen gir hver målgruppe figurer som svarer på ett spørsmål</text>
+<text x="60" y="222" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="18" font-weight="400" fill="#274246" text-anchor="start">om gangen. Tolv figurer dekker de viktigste cellene. Tomme celler er bevisste.</text>
+<rect x="290" y="244" width="133" height="72" rx="8" fill="#274246" stroke="#274246" stroke-width="0"/>
+<text x="302" y="274" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#ffffff" text-anchor="start">Verdi og bruker-</text>
+<text x="302" y="293" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#ffffff" text-anchor="start">opplevelse</text>
+<rect x="429" y="244" width="133" height="72" rx="8" fill="#274246" stroke="#274246" stroke-width="0"/>
+<text x="441" y="274" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#ffffff" text-anchor="start">Autoritet og</text>
+<text x="441" y="293" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#ffffff" text-anchor="start">faglig ansvar</text>
+<rect x="568" y="244" width="133" height="72" rx="8" fill="#274246" stroke="#274246" stroke-width="0"/>
+<text x="580" y="274" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#ffffff" text-anchor="start">Informasjons-</text>
+<text x="580" y="293" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#ffffff" text-anchor="start">økosystem</text>
+<rect x="707" y="244" width="133" height="72" rx="8" fill="#274246" stroke="#274246" stroke-width="0"/>
+<text x="719" y="274" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#ffffff" text-anchor="start">Metadata og</text>
+<text x="719" y="293" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#ffffff" text-anchor="start">sporbarhet</text>
+<rect x="846" y="244" width="133" height="72" rx="8" fill="#274246" stroke="#274246" stroke-width="0"/>
+<text x="858" y="274" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#ffffff" text-anchor="start">Flyt og</text>
+<text x="858" y="293" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#ffffff" text-anchor="start">grenseflater</text>
+<rect x="985" y="244" width="133" height="72" rx="8" fill="#274246" stroke="#274246" stroke-width="0"/>
+<text x="997" y="274" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#ffffff" text-anchor="start">KI og maskin-</text>
+<text x="997" y="293" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#ffffff" text-anchor="start">lesbarhet</text>
+<rect x="1124" y="244" width="133" height="72" rx="8" fill="#274246" stroke="#274246" stroke-width="0"/>
+<text x="1136" y="274" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#ffffff" text-anchor="start">Risiko og</text>
+<text x="1136" y="293" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#ffffff" text-anchor="start">avgrensning</text>
+<rect x="1263" y="244" width="133" height="72" rx="8" fill="#274246" stroke="#274246" stroke-width="0"/>
+<text x="1275" y="274" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#ffffff" text-anchor="start">Startpunkter</text>
+<text x="1275" y="293" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#ffffff" text-anchor="start">og piloter</text>
+<rect x="60" y="324" width="222" height="76" rx="8" fill="#f1f1fe" stroke="#f1f1fe" stroke-width="0"/>
+<text x="74" y="357.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="700" fill="#4b2fb0" text-anchor="start">Strategisk</text>
+<text x="74" y="377.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="700" fill="#4b2fb0" text-anchor="start">ledelse</text>
+<rect x="290" y="324" width="133" height="76" rx="6" fill="#f7f9f9" stroke="#e8eded" stroke-width="1"/>
+<rect x="429" y="324" width="133" height="76" rx="6" fill="#ffffff" stroke="#274246" stroke-width="1.8"/>
+<rect x="439" y="332" width="46" height="26" rx="13.0" fill="#00824d" stroke="#00824d" stroke-width="1.5"/>
+<text x="462.0" y="350" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle">F10</text>
+<text x="439" y="374" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#1e3a3f" text-anchor="start">To scenarioer</text>
+<text x="439" y="389" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#1e3a3f" text-anchor="start">for 2050</text>
+<rect x="568" y="324" width="133" height="76" rx="6" fill="#ffffff" stroke="#dfe5e5" stroke-width="1.2"/>
+<rect x="578" y="335" width="30" height="20" rx="10.0" fill="#ffffff" stroke="#b9c5c6" stroke-width="1.2"/>
+<text x="593.0" y="349" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#5e787a" text-anchor="middle">F2</text>
+<rect x="707" y="324" width="133" height="76" rx="6" fill="#f7f9f9" stroke="#e8eded" stroke-width="1"/>
+<rect x="846" y="324" width="133" height="76" rx="6" fill="#f7f9f9" stroke="#e8eded" stroke-width="1"/>
+<rect x="985" y="324" width="133" height="76" rx="6" fill="#ffffff" stroke="#274246" stroke-width="1.8"/>
+<rect x="995" y="332" width="46" height="26" rx="13.0" fill="#00824d" stroke="#00824d" stroke-width="1.5"/>
+<text x="1018.0" y="350" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle">F5</text>
+<text x="995" y="374" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#1e3a3f" text-anchor="start">KI-assistent</text>
+<text x="995" y="389" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#1e3a3f" text-anchor="start">som veiviser</text>
+<rect x="1124" y="324" width="133" height="76" rx="6" fill="#ffffff" stroke="#274246" stroke-width="1.8"/>
+<rect x="1134" y="332" width="46" height="26" rx="13.0" fill="#00824d" stroke="#00824d" stroke-width="1.5"/>
+<text x="1157.0" y="350" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle">F9</text>
+<text x="1134" y="374" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#1e3a3f" text-anchor="start">Avklaringskart</text>
+<rect x="1263" y="324" width="133" height="76" rx="6" fill="#ffffff" stroke="#dfe5e5" stroke-width="1.2"/>
+<rect x="1273" y="335" width="30" height="20" rx="10.0" fill="#ffffff" stroke="#b9c5c6" stroke-width="1.2"/>
+<text x="1288.0" y="349" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#5e787a" text-anchor="middle">F12</text>
+<rect x="60" y="404" width="222" height="76" rx="8" fill="#f1f1fe" stroke="#f1f1fe" stroke-width="0"/>
+<text x="74" y="447.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="700" fill="#4b2fb0" text-anchor="start">Prosjektgruppen</text>
+<rect x="290" y="404" width="133" height="76" rx="6" fill="#ffffff" stroke="#274246" stroke-width="1.8"/>
+<rect x="300" y="412" width="46" height="26" rx="13.0" fill="#00824d" stroke="#00824d" stroke-width="1.5"/>
+<text x="323.0" y="430" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle">F1</text>
+<text x="300" y="454" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#1e3a3f" text-anchor="start">Fra spørsmål til svar</text>
+<rect x="429" y="404" width="133" height="76" rx="6" fill="#f7f9f9" stroke="#e8eded" stroke-width="1"/>
+<rect x="568" y="404" width="133" height="76" rx="6" fill="#ffffff" stroke="#dfe5e5" stroke-width="1.2"/>
+<rect x="578" y="415" width="30" height="20" rx="10.0" fill="#ffffff" stroke="#b9c5c6" stroke-width="1.2"/>
+<text x="593.0" y="429" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#5e787a" text-anchor="middle">F9</text>
+<rect x="707" y="404" width="133" height="76" rx="6" fill="#f7f9f9" stroke="#e8eded" stroke-width="1"/>
+<rect x="846" y="404" width="133" height="76" rx="6" fill="#f7f9f9" stroke="#e8eded" stroke-width="1"/>
+<rect x="985" y="404" width="133" height="76" rx="6" fill="#ffffff" stroke="#274246" stroke-width="1.8"/>
+<rect x="995" y="412" width="46" height="26" rx="13.0" fill="#00824d" stroke="#00824d" stroke-width="1.5"/>
+<text x="1018.0" y="430" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle">F11</text>
+<text x="995" y="454" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#1e3a3f" text-anchor="start">Styrer, påvirker,</text>
+<text x="995" y="469" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#1e3a3f" text-anchor="start">styrer ikke</text>
+<rect x="1124" y="404" width="133" height="76" rx="6" fill="#f7f9f9" stroke="#e8eded" stroke-width="1"/>
+<rect x="1263" y="404" width="133" height="76" rx="6" fill="#ffffff" stroke="#274246" stroke-width="1.8"/>
+<rect x="1273" y="412" width="46" height="26" rx="13.0" fill="#00824d" stroke="#00824d" stroke-width="1.5"/>
+<text x="1296.0" y="430" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle">F12</text>
+<text x="1273" y="454" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#1e3a3f" text-anchor="start">Startpunkter</text>
+<text x="1273" y="469" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#1e3a3f" text-anchor="start">og piloter</text>
+<rect x="60" y="484" width="222" height="76" rx="8" fill="#f1f1fe" stroke="#f1f1fe" stroke-width="0"/>
+<text x="74" y="527.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="700" fill="#4b2fb0" text-anchor="start">Fagmiljøer</text>
+<rect x="290" y="484" width="133" height="76" rx="6" fill="#f7f9f9" stroke="#e8eded" stroke-width="1"/>
+<rect x="429" y="484" width="133" height="76" rx="6" fill="#ffffff" stroke="#274246" stroke-width="1.8"/>
+<rect x="439" y="492" width="46" height="26" rx="13.0" fill="#00824d" stroke="#00824d" stroke-width="1.5"/>
+<text x="462.0" y="510" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle">F6</text>
+<rect x="491" y="495" width="30" height="20" rx="10.0" fill="#ffffff" stroke="#b9c5c6" stroke-width="1.2"/>
+<text x="506.0" y="509" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#5e787a" text-anchor="middle">F10</text>
+<text x="439" y="534" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#1e3a3f" text-anchor="start">Fleksibilitet</text>
+<text x="439" y="549" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#1e3a3f" text-anchor="start">innenfor rammer</text>
+<rect x="568" y="484" width="133" height="76" rx="6" fill="#f7f9f9" stroke="#e8eded" stroke-width="1"/>
+<rect x="707" y="484" width="133" height="76" rx="6" fill="#ffffff" stroke="#dfe5e5" stroke-width="1.2"/>
+<rect x="717" y="495" width="30" height="20" rx="10.0" fill="#ffffff" stroke="#b9c5c6" stroke-width="1.2"/>
+<text x="732.0" y="509" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#5e787a" text-anchor="middle">F3</text>
+<rect x="846" y="484" width="133" height="76" rx="6" fill="#f7f9f9" stroke="#e8eded" stroke-width="1"/>
+<rect x="985" y="484" width="133" height="76" rx="6" fill="#f7f9f9" stroke="#e8eded" stroke-width="1"/>
+<rect x="1124" y="484" width="133" height="76" rx="6" fill="#f7f9f9" stroke="#e8eded" stroke-width="1"/>
+<rect x="1263" y="484" width="133" height="76" rx="6" fill="#f7f9f9" stroke="#e8eded" stroke-width="1"/>
+<rect x="60" y="564" width="222" height="76" rx="8" fill="#f1f1fe" stroke="#f1f1fe" stroke-width="0"/>
+<text x="74" y="597.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="700" fill="#4b2fb0" text-anchor="start">Formidling og</text>
+<text x="74" y="617.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="700" fill="#4b2fb0" text-anchor="start">kommunikasjon</text>
+<rect x="290" y="564" width="133" height="76" rx="6" fill="#ffffff" stroke="#274246" stroke-width="1.8"/>
+<rect x="300" y="572" width="46" height="26" rx="13.0" fill="#00824d" stroke="#00824d" stroke-width="1.5"/>
+<text x="323.0" y="590" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle">F4</text>
+<rect x="352" y="575" width="30" height="20" rx="10.0" fill="#ffffff" stroke="#b9c5c6" stroke-width="1.2"/>
+<text x="367.0" y="589" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#5e787a" text-anchor="middle">F1</text>
+<rect x="386" y="575" width="30" height="20" rx="10.0" fill="#ffffff" stroke="#b9c5c6" stroke-width="1.2"/>
+<text x="401.0" y="589" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#5e787a" text-anchor="middle">F8</text>
+<text x="300" y="614" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#1e3a3f" text-anchor="start">Søk som</text>
+<text x="300" y="629" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#1e3a3f" text-anchor="start">veivisning</text>
+<rect x="429" y="564" width="133" height="76" rx="6" fill="#f7f9f9" stroke="#e8eded" stroke-width="1"/>
+<rect x="568" y="564" width="133" height="76" rx="6" fill="#f7f9f9" stroke="#e8eded" stroke-width="1"/>
+<rect x="707" y="564" width="133" height="76" rx="6" fill="#f7f9f9" stroke="#e8eded" stroke-width="1"/>
+<rect x="846" y="564" width="133" height="76" rx="6" fill="#f7f9f9" stroke="#e8eded" stroke-width="1"/>
+<rect x="985" y="564" width="133" height="76" rx="6" fill="#ffffff" stroke="#dfe5e5" stroke-width="1.2"/>
+<rect x="995" y="575" width="30" height="20" rx="10.0" fill="#ffffff" stroke="#b9c5c6" stroke-width="1.2"/>
+<text x="1010.0" y="589" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#5e787a" text-anchor="middle">F11</text>
+<rect x="1124" y="564" width="133" height="76" rx="6" fill="#f7f9f9" stroke="#e8eded" stroke-width="1"/>
+<rect x="1263" y="564" width="133" height="76" rx="6" fill="#f7f9f9" stroke="#e8eded" stroke-width="1"/>
+<rect x="60" y="644" width="222" height="76" rx="8" fill="#f1f1fe" stroke="#f1f1fe" stroke-width="0"/>
+<text x="74" y="677.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="700" fill="#4b2fb0" text-anchor="start">IT-arkitektur</text>
+<text x="74" y="697.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="700" fill="#4b2fb0" text-anchor="start">og plattform</text>
+<rect x="290" y="644" width="133" height="76" rx="6" fill="#f7f9f9" stroke="#e8eded" stroke-width="1"/>
+<rect x="429" y="644" width="133" height="76" rx="6" fill="#f7f9f9" stroke="#e8eded" stroke-width="1"/>
+<rect x="568" y="644" width="133" height="76" rx="6" fill="#ffffff" stroke="#274246" stroke-width="1.8"/>
+<rect x="578" y="652" width="46" height="26" rx="13.0" fill="#00824d" stroke="#00824d" stroke-width="1.5"/>
+<text x="601.0" y="670" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle">F2</text>
+<text x="578" y="694" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#1e3a3f" text-anchor="start">Formidlings-</text>
+<text x="578" y="709" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#1e3a3f" text-anchor="start">økosystemet</text>
+<rect x="707" y="644" width="133" height="76" rx="6" fill="#f7f9f9" stroke="#e8eded" stroke-width="1"/>
+<rect x="846" y="644" width="133" height="76" rx="6" fill="#ffffff" stroke="#dfe5e5" stroke-width="1.2"/>
+<rect x="856" y="655" width="30" height="20" rx="10.0" fill="#ffffff" stroke="#b9c5c6" stroke-width="1.2"/>
+<text x="871.0" y="669" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#5e787a" text-anchor="middle">F2</text>
+<rect x="890" y="655" width="30" height="20" rx="10.0" fill="#ffffff" stroke="#b9c5c6" stroke-width="1.2"/>
+<text x="905.0" y="669" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#5e787a" text-anchor="middle">F3</text>
+<rect x="985" y="644" width="133" height="76" rx="6" fill="#f7f9f9" stroke="#e8eded" stroke-width="1"/>
+<rect x="1124" y="644" width="133" height="76" rx="6" fill="#ffffff" stroke="#dfe5e5" stroke-width="1.2"/>
+<rect x="1134" y="655" width="30" height="20" rx="10.0" fill="#ffffff" stroke="#b9c5c6" stroke-width="1.2"/>
+<text x="1149.0" y="669" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#5e787a" text-anchor="middle">F7</text>
+<rect x="1263" y="644" width="133" height="76" rx="6" fill="#f7f9f9" stroke="#e8eded" stroke-width="1"/>
+<rect x="60" y="724" width="222" height="76" rx="8" fill="#f1f1fe" stroke="#f1f1fe" stroke-width="0"/>
+<text x="74" y="757.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="700" fill="#4b2fb0" text-anchor="start">Metadata- og</text>
+<text x="74" y="777.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="700" fill="#4b2fb0" text-anchor="start">dataforvaltning</text>
+<rect x="290" y="724" width="133" height="76" rx="6" fill="#f7f9f9" stroke="#e8eded" stroke-width="1"/>
+<rect x="429" y="724" width="133" height="76" rx="6" fill="#f7f9f9" stroke="#e8eded" stroke-width="1"/>
+<rect x="568" y="724" width="133" height="76" rx="6" fill="#ffffff" stroke="#dfe5e5" stroke-width="1.2"/>
+<rect x="578" y="735" width="30" height="20" rx="10.0" fill="#ffffff" stroke="#b9c5c6" stroke-width="1.2"/>
+<text x="593.0" y="749" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#5e787a" text-anchor="middle">F2</text>
+<rect x="707" y="724" width="133" height="76" rx="6" fill="#ffffff" stroke="#274246" stroke-width="1.8"/>
+<rect x="717" y="732" width="46" height="26" rx="13.0" fill="#00824d" stroke="#00824d" stroke-width="1.5"/>
+<text x="740.0" y="750" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle">F3</text>
+<text x="717" y="774" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#1e3a3f" text-anchor="start">Autoritetskjeden</text>
+<rect x="846" y="724" width="133" height="76" rx="6" fill="#ffffff" stroke="#dfe5e5" stroke-width="1.2"/>
+<rect x="856" y="735" width="30" height="20" rx="10.0" fill="#ffffff" stroke="#b9c5c6" stroke-width="1.2"/>
+<text x="871.0" y="749" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#5e787a" text-anchor="middle">F3</text>
+<rect x="985" y="724" width="133" height="76" rx="6" fill="#f7f9f9" stroke="#e8eded" stroke-width="1"/>
+<rect x="1124" y="724" width="133" height="76" rx="6" fill="#ffffff" stroke="#274246" stroke-width="1.8"/>
+<rect x="1134" y="732" width="46" height="26" rx="13.0" fill="#00824d" stroke="#00824d" stroke-width="1.5"/>
+<text x="1157.0" y="750" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle">F7</text>
+<text x="1134" y="774" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#1e3a3f" text-anchor="start">Dataportalen:</text>
+<text x="1134" y="789" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#1e3a3f" text-anchor="start">sandkasse?</text>
+<rect x="1263" y="724" width="133" height="76" rx="6" fill="#f7f9f9" stroke="#e8eded" stroke-width="1"/>
+<rect x="60" y="804" width="222" height="76" rx="8" fill="#f1f1fe" stroke="#f1f1fe" stroke-width="0"/>
+<text x="74" y="837.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="700" fill="#4b2fb0" text-anchor="start">Personvern, juridisk,</text>
+<text x="74" y="857.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="700" fill="#4b2fb0" text-anchor="start">informasjonssikkerhet</text>
+<rect x="290" y="804" width="133" height="76" rx="6" fill="#f7f9f9" stroke="#e8eded" stroke-width="1"/>
+<rect x="429" y="804" width="133" height="76" rx="6" fill="#ffffff" stroke="#dfe5e5" stroke-width="1.2"/>
+<rect x="439" y="815" width="30" height="20" rx="10.0" fill="#ffffff" stroke="#b9c5c6" stroke-width="1.2"/>
+<text x="454.0" y="829" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#5e787a" text-anchor="middle">F6</text>
+<rect x="568" y="804" width="133" height="76" rx="6" fill="#f7f9f9" stroke="#e8eded" stroke-width="1"/>
+<rect x="707" y="804" width="133" height="76" rx="6" fill="#f7f9f9" stroke="#e8eded" stroke-width="1"/>
+<rect x="846" y="804" width="133" height="76" rx="6" fill="#ffffff" stroke="#274246" stroke-width="1.8"/>
+<rect x="856" y="812" width="46" height="26" rx="13.0" fill="#00824d" stroke="#00824d" stroke-width="1.5"/>
+<text x="879.0" y="830" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle">F2</text>
+<text x="856" y="854" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#5e787a" text-anchor="start">fokus:</text>
+<text x="856" y="869" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#5e787a" text-anchor="start">tilgangsregimer</text>
+<rect x="985" y="804" width="133" height="76" rx="6" fill="#ffffff" stroke="#dfe5e5" stroke-width="1.2"/>
+<rect x="995" y="815" width="30" height="20" rx="10.0" fill="#ffffff" stroke="#b9c5c6" stroke-width="1.2"/>
+<text x="1010.0" y="829" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#5e787a" text-anchor="middle">F5</text>
+<rect x="1124" y="804" width="133" height="76" rx="6" fill="#f7f9f9" stroke="#e8eded" stroke-width="1"/>
+<rect x="1263" y="804" width="133" height="76" rx="6" fill="#f7f9f9" stroke="#e8eded" stroke-width="1"/>
+<rect x="60" y="884" width="222" height="76" rx="8" fill="#f1f1fe" stroke="#f1f1fe" stroke-width="0"/>
+<text x="74" y="917.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="700" fill="#4b2fb0" text-anchor="start">Profesjonelle</text>
+<text x="74" y="937.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="700" fill="#4b2fb0" text-anchor="start">eksterne brukere</text>
+<rect x="290" y="884" width="133" height="76" rx="6" fill="#ffffff" stroke="#274246" stroke-width="1.8"/>
+<rect x="300" y="892" width="46" height="26" rx="13.0" fill="#00824d" stroke="#00824d" stroke-width="1.5"/>
+<text x="323.0" y="910" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle">F8</text>
+<rect x="352" y="895" width="30" height="20" rx="10.0" fill="#ffffff" stroke="#b9c5c6" stroke-width="1.2"/>
+<text x="367.0" y="909" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#5e787a" text-anchor="middle">F4</text>
+<text x="300" y="934" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#1e3a3f" text-anchor="start">Brukerreise</text>
+<text x="300" y="949" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#1e3a3f" text-anchor="start">før og etter</text>
+<rect x="429" y="884" width="133" height="76" rx="6" fill="#f7f9f9" stroke="#e8eded" stroke-width="1"/>
+<rect x="568" y="884" width="133" height="76" rx="6" fill="#f7f9f9" stroke="#e8eded" stroke-width="1"/>
+<rect x="707" y="884" width="133" height="76" rx="6" fill="#f7f9f9" stroke="#e8eded" stroke-width="1"/>
+<rect x="846" y="884" width="133" height="76" rx="6" fill="#f7f9f9" stroke="#e8eded" stroke-width="1"/>
+<rect x="985" y="884" width="133" height="76" rx="6" fill="#f7f9f9" stroke="#e8eded" stroke-width="1"/>
+<rect x="1124" y="884" width="133" height="76" rx="6" fill="#f7f9f9" stroke="#e8eded" stroke-width="1"/>
+<rect x="1263" y="884" width="133" height="76" rx="6" fill="#f7f9f9" stroke="#e8eded" stroke-width="1"/>
+<rect x="1440" y="244" width="420" height="740" rx="16" fill="#eff8fa" stroke="#eff8fa" stroke-width="0"/>
+<text x="1466" y="288" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="24" font-weight="700" fill="#1e3a3f" text-anchor="start">Figurene</text>
+<rect x="1466" y="312" width="46" height="26" rx="13.0" fill="#00824d" stroke="#00824d" stroke-width="1.5"/>
+<text x="1489.0" y="330" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle">F1</text>
+<text x="1524" y="330" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#1e3a3f" text-anchor="start">Fra spørsmål til autoritativt svar</text>
+<rect x="1466" y="364" width="46" height="26" rx="13.0" fill="#00824d" stroke="#00824d" stroke-width="1.5"/>
+<text x="1489.0" y="382" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle">F2</text>
+<text x="1524" y="382" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#1e3a3f" text-anchor="start">SSBs formidlingsøkosystem</text>
+<rect x="1466" y="416" width="46" height="26" rx="13.0" fill="#00824d" stroke="#00824d" stroke-width="1.5"/>
+<text x="1489.0" y="434" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle">F3</text>
+<text x="1524" y="434" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#1e3a3f" text-anchor="start">Autoritetskjeden bak et tall</text>
+<rect x="1466" y="468" width="46" height="26" rx="13.0" fill="#00824d" stroke="#00824d" stroke-width="1.5"/>
+<text x="1489.0" y="486" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle">F4</text>
+<text x="1524" y="486" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#1e3a3f" text-anchor="start">Bedre søk er mer enn treffliste</text>
+<rect x="1466" y="520" width="46" height="26" rx="13.0" fill="#00824d" stroke="#00824d" stroke-width="1.5"/>
+<text x="1489.0" y="538" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle">F5</text>
+<text x="1524" y="538" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#1e3a3f" text-anchor="start">KI-assistent som veiviser</text>
+<rect x="1466" y="572" width="46" height="26" rx="13.0" fill="#00824d" stroke="#00824d" stroke-width="1.5"/>
+<text x="1489.0" y="590" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle">F6</text>
+<text x="1524" y="590" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#1e3a3f" text-anchor="start">Fleksibilitet innenfor faglige rammer</text>
+<rect x="1466" y="624" width="46" height="26" rx="13.0" fill="#00824d" stroke="#00824d" stroke-width="1.5"/>
+<text x="1489.0" y="642" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle">F7</text>
+<text x="1524" y="642" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#1e3a3f" text-anchor="start">Dataportalen: sandkasse eller autoritativ</text>
+<rect x="1466" y="676" width="46" height="26" rx="13.0" fill="#00824d" stroke="#00824d" stroke-width="1.5"/>
+<text x="1489.0" y="694" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle">F8</text>
+<text x="1524" y="694" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#1e3a3f" text-anchor="start">Brukerreise i dag og framover</text>
+<rect x="1466" y="728" width="46" height="26" rx="13.0" fill="#00824d" stroke="#00824d" stroke-width="1.5"/>
+<text x="1489.0" y="746" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle">F9</text>
+<text x="1524" y="746" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#1e3a3f" text-anchor="start">Strategisk avklaringskart</text>
+<rect x="1466" y="780" width="46" height="26" rx="13.0" fill="#00824d" stroke="#00824d" stroke-width="1.5"/>
+<text x="1489.0" y="798" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle">F10</text>
+<text x="1524" y="798" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#1e3a3f" text-anchor="start">To scenarioer for 2050</text>
+<rect x="1466" y="832" width="46" height="26" rx="13.0" fill="#00824d" stroke="#00824d" stroke-width="1.5"/>
+<text x="1489.0" y="850" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle">F11</text>
+<text x="1524" y="850" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#1e3a3f" text-anchor="start">Hva SSB styrer, påvirker, ikke styrer</text>
+<rect x="1466" y="884" width="46" height="26" rx="13.0" fill="#00824d" stroke="#00824d" stroke-width="1.5"/>
+<text x="1489.0" y="902" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle">F12</text>
+<text x="1524" y="902" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#1e3a3f" text-anchor="start">Startpunkter og piloter</text>
+<line x1="1466" y1="936" x2="1834" y2="936" stroke="#cdd3d4" stroke-width="1"/>
+<text x="1466" y="964" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#5e787a" text-anchor="start">Alle tolv er tegnet som utkast.</text>
+<line x1="60" y1="1010" x2="1860" y2="1010" stroke="#cdd3d4" stroke-width="1"/>
+<rect x="60" y="1026" width="46" height="26" rx="13.0" fill="#00824d" stroke="#00824d" stroke-width="1.5"/>
+<text x="83.0" y="1044" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle">F1</text>
+<text x="116" y="1044" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#274246" text-anchor="start">Primær figur, utkast tegnet</text>
+<rect x="600" y="1029" width="30" height="20" rx="10" fill="#ffffff" stroke="#b9c5c6" stroke-width="1.2"/>
+<text x="615" y="1043" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#5e787a" text-anchor="middle">F2</text>
+<text x="640" y="1044" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#274246" text-anchor="start">Sekundær bruk</text>
+<rect x="790" y="1026" width="26" height="24" rx="5" fill="#f7f9f9" stroke="#e8eded" stroke-width="1"/>
+<text x="826" y="1044" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#274246" text-anchor="start">Bevisst tom</text>
+<text x="1860" y="1046" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="400" fill="#5e787a" text-anchor="end">29.09.2026 · Utkast · Kilde: storyboard for figursamlingen</text>
+</svg>

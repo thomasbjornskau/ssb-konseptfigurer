@@ -1,0 +1,27 @@
+{
+  "serie": "_mal",
+  "fil": "eksempel",
+  "tittel": "Eksempel: tre flater og en grense",
+  "undertittel": "Mal som viser mønsteret: innhold i JSON, tegning i kode",
+  "etikett": "Oversikt",
+  "panel": "Slik leses figuren",
+  "punkter": [
+    ["Innhold i JSON", ["Navn, status og tekster ligger her.", "Fagfolk kan rette uten å røre koden."]],
+    ["Tegning i kode", ["Ramme, farger og komponenter", "kommer fra konseptfigurer."]],
+    ["Fokus uten omtegning", ["Hver variant oppgir hvilke grupper", "som er i fokus. Resten tones ned."]]
+  ],
+  "tegnforklaring": [["flate", "Flate"], ["data", "Innhold"], ["uavklart", "Uavklart"]],
+  "dato": "29.09.2026",
+  "status": "Mal",
+  "kilde": "ssb-konseptfigurer",
+  "elementer": [
+    {"type": "flate", "gruppe": "a", "x": 80, "y": 260, "w": 380, "h": 150, "tittel": "Flate A", "linjer": ["finnes i dag"], "brikker": ["statistikk"]},
+    {"type": "flate", "gruppe": "b", "x": 520, "y": 260, "w": 380, "h": 150, "tittel": "Flate B", "linjer": ["rolle uavklart"], "brikker": ["metadata"], "uavklart": "må bekreftes"},
+    {"type": "flate", "gruppe": "c", "x": 960, "y": 260, "w": 380, "h": 150, "tittel": "Flate C", "linjer": ["forslag"], "stiplet": true},
+    {"type": "pil", "gruppe": "ab", "punkter": [[460, 335], [518, 335]], "farge": "green"},
+    {"type": "pil", "gruppe": "bc", "punkter": [[900, 335], [958, 335]], "farge": "grey", "stiplet": true}
+  ],
+  "varianter": [
+    {"fil": "fokus-a-b", "etikett": "Fokus 1 av 1", "tittel": "Eksempel: fokus på A og B", "fokus": ["a", "b", "ab"]}
+  ]
+}

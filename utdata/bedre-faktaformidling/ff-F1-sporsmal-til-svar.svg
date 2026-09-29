@@ -1,0 +1,159 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080">
+<rect x="0" y="0" width="1920" height="1080" fill="#ffffff"/>
+<text x="60" y="92" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="46" font-weight="700" fill="#1e3a3f" text-anchor="start">Fra spørsmål til autoritativt svar</text>
+<text x="60" y="136" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="24" font-weight="400" fill="#5e787a" text-anchor="start">Hva som må følge med for at et enkelt spørsmål får et SSB-svar, ikke bare et tall</text>
+<rect x="1690" y="62" width="170" height="40" rx="20" fill="#ffffff" stroke="#274246" stroke-width="2"/>
+<text x="1775.0" y="89" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="19" font-weight="700" fill="#274246" text-anchor="middle">Oversikt</text>
+<line x1="60" y1="160" x2="1860" y2="160" stroke="#cdd3d4" stroke-width="2"/>
+<rect x="1440" y="180" width="420" height="806" rx="16" fill="#eff8fa" stroke="#eff8fa" stroke-width="0"/>
+<text x="1466" y="226" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="25" font-weight="700" fill="#1e3a3f" text-anchor="start">Slik leses figuren</text>
+<circle cx="1485" cy="268" r="19" fill="#1e3a3f" stroke="#ffffff" stroke-width="3"/>
+<text x="1485" y="276" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="22" font-weight="700" fill="#ffffff" text-anchor="middle">1</text>
+<text x="1516" y="276" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="20" font-weight="700" fill="#1e3a3f" text-anchor="start">Brukerens ord er ikke begrepet</text>
+<text x="1516" y="303" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#274246" text-anchor="start">«Arbeidsledighet» kan bety to</text>
+<text x="1516" y="326" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#274246" text-anchor="start">ulike statistikker fra to ulike</text>
+<text x="1516" y="349" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#274246" text-anchor="start">kilder. Svaret må si hvilken.</text>
+<circle cx="1485" cy="388" r="19" fill="#1e3a3f" stroke="#ffffff" stroke-width="3"/>
+<text x="1485" y="396" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="22" font-weight="700" fill="#ffffff" text-anchor="middle">2</text>
+<text x="1516" y="396" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="20" font-weight="700" fill="#1e3a3f" text-anchor="start">Svaret har lag</text>
+<text x="1516" y="423" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#274246" text-anchor="start">Tallet øverst. Under det: hva det</text>
+<text x="1516" y="446" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#274246" text-anchor="start">betyr, hvor sikkert det er, og</text>
+<text x="1516" y="469" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#274246" text-anchor="start">hvor det kommer fra.</text>
+<circle cx="1485" cy="508" r="19" fill="#1e3a3f" stroke="#ffffff" stroke-width="3"/>
+<text x="1485" y="516" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="22" font-weight="700" fill="#ffffff" text-anchor="middle">3</text>
+<text x="1516" y="516" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="20" font-weight="700" fill="#1e3a3f" text-anchor="start">Forbehold hører til svaret</text>
+<text x="1516" y="543" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#274246" text-anchor="start">Usikkerhet, sesongjustering og</text>
+<text x="1516" y="566" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#274246" text-anchor="start">revisjoner er ikke fotnoter. De</text>
+<text x="1516" y="589" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#274246" text-anchor="start">er en del av autoriteten.</text>
+<circle cx="1485" cy="628" r="19" fill="#1e3a3f" stroke="#ffffff" stroke-width="3"/>
+<text x="1485" y="636" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="22" font-weight="700" fill="#ffffff" text-anchor="middle">4</text>
+<text x="1516" y="636" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="20" font-weight="700" fill="#1e3a3f" text-anchor="start">Svaret peker videre</text>
+<text x="1516" y="663" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#274246" text-anchor="start">Til tabell, nærliggende statistikk,</text>
+<text x="1516" y="686" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#274246" text-anchor="start">andre kilder og dypere analyse.</text>
+<line x1="60" y1="1010" x2="1860" y2="1010" stroke="#cdd3d4" stroke-width="1"/>
+<rect x="60" y="1026" width="26" height="24" rx="5" fill="#f1f1fe" stroke="#7d5fea" stroke-width="1.8"/>
+<text x="96" y="1046" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#274246" text-anchor="start">Bruker</text>
+<rect x="177.6" y="1028" width="26" height="20" rx="10" fill="#ecfeed" stroke="#00824d" stroke-width="1.5"/>
+<text x="213.6" y="1046" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#274246" text-anchor="start">Innhold i svaret</text>
+<rect x="381.2" y="1026" width="26" height="24" rx="5" fill="#eff8fa" stroke="#274246" stroke-width="1.8"/>
+<text x="417.2" y="1046" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#274246" text-anchor="start">Hvor det hentes</text>
+<rect x="576.2" y="1026" width="26" height="24" rx="5" fill="#f3f5f5" stroke="#b9c5c6" stroke-width="1.6"/>
+<text x="612.2" y="1046" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#274246" text-anchor="start">Utenfor SSB</text>
+<rect x="736.8000000000001" y="1026" width="26" height="24" rx="5" fill="#ffffff" stroke="#5e787a" stroke-width="1.6" stroke-dasharray="5 4"/>
+<text x="772.8000000000001" y="1046" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#274246" text-anchor="start">Uavklart</text>
+<text x="1860" y="1046" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="400" fill="#5e787a" text-anchor="end">29.09.2026 · Utkast til diskusjon · eksempelet må kvalitetssikres av fagseksjonen</text>
+<circle cx="79" cy="206" r="19" fill="#1e3a3f" stroke="#ffffff" stroke-width="3"/>
+<text x="79" y="214" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="22" font-weight="700" fill="#ffffff" text-anchor="middle">1</text>
+<text x="108" y="213" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="19" font-weight="700" fill="#1e3a3f" text-anchor="start">Spørsmålet</text>
+<circle cx="110" cy="278.0" r="15.0" fill="#7d5fea"/>
+<path d="M83.0,328.0 C83.0,298.0 94.0,296.0 110,296.0 C126.0,296.0 137.0,298.0 137.0,328.0 Z" fill="#7d5fea"/>
+<rect x="60" y="350" width="240" height="150" rx="14" fill="#f1f1fe" stroke="#7d5fea" stroke-width="2"/>
+<polygon points="96,350 116,350 104,332" fill="#f1f1fe" stroke="#7d5fea" stroke-width="2"/>
+<line x1="97" y1="350" x2="115" y2="350" stroke="#f1f1fe" stroke-width="3"/>
+<text x="80" y="392" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="20" font-weight="700" fill="#4b2fb0" text-anchor="start">«Hva var</text>
+<text x="80" y="420" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="20" font-weight="700" fill="#4b2fb0" text-anchor="start">arbeidsledigheten</text>
+<text x="80" y="448" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="20" font-weight="700" fill="#4b2fb0" text-anchor="start">forrige måned?»</text>
+<text x="80" y="528" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="600" fill="#5e787a" text-anchor="start">brukerens egne ord</text>
+<rect x="60" y="560" width="240" height="88" rx="8" fill="#ffffff" stroke="#5e787a" stroke-width="1.5" stroke-dasharray="5 4"/>
+<text x="76" y="590" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="600" fill="#5e787a" text-anchor="start">Uavklart: betyr «forrige</text>
+<text x="76" y="609" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="600" fill="#5e787a" text-anchor="start">måned» referanseperiode</text>
+<text x="76" y="628" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="600" fill="#5e787a" text-anchor="start">eller siste publisering?</text>
+<circle cx="349" cy="206" r="19" fill="#1e3a3f" stroke="#ffffff" stroke-width="3"/>
+<text x="349" y="214" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="22" font-weight="700" fill="#ffffff" text-anchor="middle">2</text>
+<text x="378" y="213" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="19" font-weight="700" fill="#1e3a3f" text-anchor="start">Tolkningen</text>
+<rect x="330" y="290" width="260" height="120" rx="10" fill="#ecfeed" stroke="#00824d" stroke-width="3"/>
+<text x="346" y="322" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" fill="#1e3a3f" text-anchor="start">Arbeidsledighet</text>
+<text x="346" y="346" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="400" fill="#274246" text-anchor="start">Arbeidskraftundersøkelsen</text>
+<rect x="346" y="366" width="50" height="26" rx="5" fill="#eff8fa" stroke="#274246" stroke-width="1.3"/>
+<text x="371" y="384" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#274246" text-anchor="middle">SSB</text>
+<rect x="330" y="440" width="260" height="110" rx="10" fill="#f3f5f5" stroke="#b9c5c6" stroke-width="1.8"/>
+<text x="346" y="472" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" fill="#1e3a3f" text-anchor="start">Registrert ledighet</text>
+<text x="346" y="496" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="400" fill="#274246" text-anchor="start">helt ledige hos NAV</text>
+<rect x="346" y="512" width="50" height="26" rx="5" fill="#ffffff" stroke="#b9c5c6" stroke-width="1.3"/>
+<text x="371" y="530" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#5e787a" text-anchor="middle">NAV</text>
+<polyline points="300.0,425.0 316.0,425.0 316.0,350.0 320.8,350.0" fill="none" stroke="#274246" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
+<polygon points="328.0,350.0 314.5,356.3 314.5,343.7" fill="#274246"/>
+<polyline points="316.0,425.0 316.0,495.0 320.8,495.0" fill="none" stroke="#5e787a" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="5 4"/>
+<polygon points="328.0,495.0 314.5,501.3 314.5,488.7" fill="#5e787a"/>
+<text x="330" y="590" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="400" fill="#274246" text-anchor="start">To begreper, to kilder,</text>
+<text x="330" y="611" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="400" fill="#274246" text-anchor="start">to tall. Svaret må si hvilket</text>
+<text x="330" y="632" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="400" fill="#274246" text-anchor="start">det er, og nevne det andre.</text>
+<rect x="330" y="668" width="260" height="34" rx="17" fill="#ffffff" stroke="#274246" stroke-width="1.3"/>
+<text x="460" y="690" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#274246" text-anchor="middle">brukerord → begrep (se F4)</text>
+<circle cx="649" cy="206" r="19" fill="#1e3a3f" stroke="#ffffff" stroke-width="3"/>
+<text x="649" y="214" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="22" font-weight="700" fill="#ffffff" text-anchor="middle">3</text>
+<text x="678" y="213" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="19" font-weight="700" fill="#1e3a3f" text-anchor="start">Svaret, i lag</text>
+<text x="630" y="250" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="600" fill="#5e787a" text-anchor="start">det brukeren ser først, står øverst</text>
+<rect x="630" y="264" width="470" height="128" rx="10" fill="#ffffff" stroke="#00824d" stroke-width="1.8"/>
+<rect x="630" y="264" width="10" height="128" rx="0" fill="#00824d" stroke="#00824d" stroke-width="0"/>
+<text x="656" y="296" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" fill="#1e3a3f" text-anchor="start">1  Tallet</text>
+<rect x="656" y="314" width="137.2" height="24" rx="12" fill="#ecfeed" stroke="#00824d" stroke-width="1.3"/>
+<text x="724.6" y="331" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="12.5" font-weight="700" fill="#00824d" text-anchor="middle">nøkkeltall x,x %</text>
+<rect x="801.2" y="314" width="137.2" height="24" rx="12" fill="#ecfeed" stroke="#00824d" stroke-width="1.3"/>
+<text x="869.8000000000001" y="331" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="12.5" font-weight="700" fill="#00824d" text-anchor="middle">referanseperiode</text>
+<text x="656" y="370" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="12" font-weight="600" fill="#5e787a" text-anchor="start">hentes fra</text>
+<rect x="726" y="354" width="65.2" height="24" rx="5" fill="#eff8fa" stroke="#274246" stroke-width="1.3"/>
+<text x="758.6" y="371" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="12.5" font-weight="700" fill="#274246" text-anchor="middle">ssb.no</text>
+<rect x="630" y="402" width="470" height="128" rx="10" fill="#ffffff" stroke="#00824d" stroke-width="1.8"/>
+<rect x="630" y="402" width="10" height="128" rx="0" fill="#b6e9b8" stroke="#00824d" stroke-width="0"/>
+<text x="656" y="434" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" fill="#1e3a3f" text-anchor="start">2  Hva det betyr</text>
+<rect x="656" y="452" width="94.0" height="24" rx="12" fill="#ecfeed" stroke="#00824d" stroke-width="1.3"/>
+<text x="703.0" y="469" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="12.5" font-weight="700" fill="#00824d" text-anchor="middle">definisjon</text>
+<rect x="758.0" y="452" width="144.4" height="24" rx="12" fill="#ecfeed" stroke="#00824d" stroke-width="1.3"/>
+<text x="830.2" y="469" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="12.5" font-weight="700" fill="#00824d" text-anchor="middle">statistikkprodukt</text>
+<text x="656" y="508" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="12" font-weight="600" fill="#5e787a" text-anchor="start">hentes fra</text>
+<rect x="726" y="492" width="130.0" height="24" rx="5" fill="#eff8fa" stroke="#274246" stroke-width="1.3"/>
+<text x="791.0" y="509" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="12.5" font-weight="700" fill="#274246" text-anchor="middle">Om statistikken</text>
+<rect x="630" y="540" width="470" height="128" rx="10" fill="#ffffff" stroke="#00824d" stroke-width="1.8"/>
+<rect x="630" y="540" width="10" height="128" rx="0" fill="#b6e9b8" stroke="#00824d" stroke-width="0"/>
+<text x="656" y="572" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" fill="#1e3a3f" text-anchor="start">3  Hvor sikkert</text>
+<rect x="656" y="590" width="94.0" height="24" rx="12" fill="#ecfeed" stroke="#00824d" stroke-width="1.3"/>
+<text x="703.0" y="607" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="12.5" font-weight="700" fill="#00824d" text-anchor="middle">usikkerhet</text>
+<rect x="758.0" y="590" width="130.0" height="24" rx="12" fill="#ecfeed" stroke="#00824d" stroke-width="1.3"/>
+<text x="823.0" y="607" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="12.5" font-weight="700" fill="#00824d" text-anchor="middle">sesongjustering</text>
+<rect x="896.0" y="590" width="94.0" height="24" rx="12" fill="#ecfeed" stroke="#00824d" stroke-width="1.3"/>
+<text x="943.0" y="607" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="12.5" font-weight="700" fill="#00824d" text-anchor="middle">revisjoner</text>
+<text x="656" y="646" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="12" font-weight="600" fill="#5e787a" text-anchor="start">hentes fra</text>
+<rect x="726" y="630" width="130.0" height="24" rx="5" fill="#eff8fa" stroke="#274246" stroke-width="1.3"/>
+<text x="791.0" y="647" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="12.5" font-weight="700" fill="#274246" text-anchor="middle">Om statistikken</text>
+<rect x="630" y="678" width="470" height="128" rx="10" fill="#ffffff" stroke="#00824d" stroke-width="1.8"/>
+<rect x="630" y="678" width="10" height="128" rx="0" fill="#b6e9b8" stroke="#00824d" stroke-width="0"/>
+<text x="656" y="710" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" fill="#1e3a3f" text-anchor="start">4  Hvor det kommer fra</text>
+<rect x="656" y="728" width="65.2" height="24" rx="12" fill="#ecfeed" stroke="#00824d" stroke-width="1.3"/>
+<text x="688.6" y="745" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="12.5" font-weight="700" fill="#00824d" text-anchor="middle">metode</text>
+<rect x="729.2" y="728" width="115.60000000000001" height="24" rx="12" fill="#ecfeed" stroke="#00824d" stroke-width="1.3"/>
+<text x="787.0" y="745" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="12.5" font-weight="700" fill="#00824d" text-anchor="middle">tabell og API</text>
+<text x="656" y="784" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="12" font-weight="600" fill="#5e787a" text-anchor="start">hentes fra</text>
+<rect x="726" y="768" width="137.2" height="24" rx="5" fill="#eff8fa" stroke="#274246" stroke-width="1.3"/>
+<text x="794.6" y="785" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="12.5" font-weight="700" fill="#274246" text-anchor="middle">Statistikkbanken</text>
+<polyline points="590.0,350.0 620.0,350.0" fill="none" stroke="#00824d" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+<polygon points="628.0,350.0 613.0,357.0 613.0,343.0" fill="#00824d"/>
+<circle cx="1149" cy="206" r="19" fill="#1e3a3f" stroke="#ffffff" stroke-width="3"/>
+<text x="1149" y="214" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="22" font-weight="700" fill="#ffffff" text-anchor="middle">4</text>
+<text x="1178" y="213" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="19" font-weight="700" fill="#1e3a3f" text-anchor="start">Videre</text>
+<rect x="1130" y="264" width="270" height="100" rx="10" fill="#eff8fa" stroke="#274246" stroke-width="1.8"/>
+<text x="1146" y="298" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" fill="#1e3a3f" text-anchor="start">Tidsserie og tabell</text>
+<text x="1146" y="324" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="400" fill="#274246" text-anchor="start">Statistikkbanken</text>
+<polyline points="1100.0,314.0 1121.6,314.0" fill="none" stroke="#274246" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<polygon points="1128.0,314.0 1116.0,319.6 1116.0,308.4" fill="#274246"/>
+<rect x="1130" y="402" width="270" height="100" rx="10" fill="#ecfeed" stroke="#00824d" stroke-width="1.8"/>
+<text x="1146" y="436" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" fill="#1e3a3f" text-anchor="start">Nærliggende statistikk</text>
+<text x="1146" y="462" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="400" fill="#274246" text-anchor="start">for eksempel sysselsetting</text>
+<polyline points="1100.0,452.0 1121.6,452.0" fill="none" stroke="#274246" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<polygon points="1128.0,452.0 1116.0,457.6 1116.0,446.4" fill="#274246"/>
+<rect x="1130" y="540" width="270" height="100" rx="10" fill="#f3f5f5" stroke="#b9c5c6" stroke-width="1.8"/>
+<text x="1146" y="574" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" fill="#1e3a3f" text-anchor="start">Registrert ledighet</text>
+<text x="1146" y="600" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="400" fill="#274246" text-anchor="start">NAV</text>
+<polyline points="1100.0,590.0 1121.6,590.0" fill="none" stroke="#274246" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<polygon points="1128.0,590.0 1116.0,595.6 1116.0,584.4" fill="#274246"/>
+<rect x="1130" y="678" width="270" height="100" rx="10" fill="#f1f1fe" stroke="#7d5fea" stroke-width="1.8"/>
+<text x="1146" y="712" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" fill="#1e3a3f" text-anchor="start">Dypere analyse</text>
+<text x="1146" y="738" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="400" fill="#274246" text-anchor="start">microdata.no, tilgangsstyrt</text>
+<polyline points="1100.0,728.0 1121.6,728.0" fill="none" stroke="#274246" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<polygon points="1128.0,728.0 1116.0,733.6 1116.0,722.4" fill="#274246"/>
+<rect x="60" y="830" width="530" height="150" rx="12" fill="#ffffff" stroke="#5e787a" stroke-width="1.5" stroke-dasharray="5 4"/>
+<text x="80" y="864" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" fill="#1e3a3f" text-anchor="start">Uavklart</text>
+<text x="80" y="892" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="400" fill="#274246" text-anchor="start">Hvilken flate gir svaret: ssb.no, søk eller assistent?</text>
+<text x="80" y="916" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="400" fill="#274246" text-anchor="start">Finnes usikkerhet og forbehold maskinlesbart?</text>
+<text x="80" y="940" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="400" fill="#274246" text-anchor="start">Hva er minstekravet for et SSB-svar?</text>
+</svg>

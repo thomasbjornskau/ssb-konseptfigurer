@@ -1,0 +1,150 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080">
+<rect x="0" y="0" width="1920" height="1080" fill="#ffffff"/>
+<text x="165" y="212" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="24" font-weight="700" fill="#274246" text-anchor="middle">Ansatte i SSB</text>
+<circle cx="165" cy="296.2" r="13.5" fill="#274246"/>
+<path d="M140.7,341.2 C140.7,314.2 150.6,312.4 165,312.4 C179.4,312.4 189.3,314.2 189.3,341.2 Z" fill="#274246"/>
+<text x="165" y="370" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="20" font-weight="400" fill="#1e3a3f" text-anchor="middle">Seksjonsleder</text>
+<circle cx="165" cy="456.2" r="13.5" fill="#274246"/>
+<path d="M140.7,501.2 C140.7,474.2 150.6,472.4 165,472.4 C179.4,472.4 189.3,474.2 189.3,501.2 Z" fill="#274246"/>
+<text x="165" y="530" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="20" font-weight="400" fill="#1e3a3f" text-anchor="middle">Statistiker</text>
+<circle cx="165" cy="594.2" r="13.5" fill="#274246"/>
+<path d="M140.7,639.2 C140.7,612.2 150.6,610.4 165,610.4 C179.4,610.4 189.3,612.2 189.3,639.2 Z" fill="#274246"/>
+<text x="165" y="668" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="20" font-weight="400" fill="#1e3a3f" text-anchor="middle">Statistiker</text>
+<circle cx="165" cy="714.2" r="13.5" fill="#274246"/>
+<path d="M140.7,759.2 C140.7,732.2 150.6,730.4 165,730.4 C179.4,730.4 189.3,732.2 189.3,759.2 Z" fill="#274246"/>
+<text x="165" y="788" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="20" font-weight="400" fill="#1e3a3f" text-anchor="middle">Utvikler</text>
+<rect x="320" y="180" width="790" height="700" rx="16" fill="#f1f1fe" stroke="#7d5fea" stroke-width="3"/>
+<text x="346" y="226" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="28" font-weight="700" fill="#4b2fb0" text-anchor="start">Dapla-team «Skatt næring»</text>
+<text x="346" y="258" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="20" font-weight="400" fill="#5e787a" text-anchor="start">Tilhører én seksjon · finnes i test og prod</text>
+<rect x="346" y="292" width="262" height="84" rx="10" fill="#ffffff" stroke="#7d5fea" stroke-width="2"/>
+<text x="364" y="326" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="23" font-weight="700" fill="#4b2fb0" text-anchor="start">Teamansvarlig</text>
+<text x="364" y="354" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="19" font-weight="400" fill="#5e787a" text-anchor="start">Styrer medlemskap</text>
+<rect x="346" y="440" width="262" height="104" rx="10" fill="#c3baff" stroke="#7d5fea" stroke-width="2"/>
+<text x="364" y="474" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="23" font-weight="700" fill="#4b2fb0" text-anchor="start">Data-admins</text>
+<text x="364" y="502" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="19" font-weight="400" fill="#1e3a3f" text-anchor="start">2–3 personer</text>
+<text x="364" y="527" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="19" font-weight="400" fill="#1e3a3f" text-anchor="start">Godkjenner og kan få JIT</text>
+<rect x="346" y="590" width="262" height="190" rx="10" fill="#c3baff" stroke="#7d5fea" stroke-width="2"/>
+<text x="364" y="624" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="23" font-weight="700" fill="#4b2fb0" text-anchor="start">Developers</text>
+<text x="364" y="652" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="19" font-weight="400" fill="#1e3a3f" text-anchor="start">Alle som jobber</text>
+<text x="364" y="677" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="19" font-weight="400" fill="#1e3a3f" text-anchor="start">med data i teamet</text>
+<polyline points="210.0,320.0 338.0,320.0" fill="none" stroke="#274246" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<polygon points="346.0,320.0 331.0,327.0 331.0,313.0" fill="#274246"/>
+<polyline points="210.0,480.0 338.0,480.0" fill="none" stroke="#274246" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<polygon points="346.0,480.0 331.0,487.0 331.0,473.0" fill="#274246"/>
+<polyline points="210.0,618.0 338.0,618.0" fill="none" stroke="#274246" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<polygon points="346.0,618.0 331.0,625.0 331.0,611.0" fill="#274246"/>
+<polyline points="210.0,738.0 338.0,738.0" fill="none" stroke="#274246" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<polygon points="346.0,738.0 331.0,745.0 331.0,731.0" fill="#274246"/>
+<rect x="680" y="292" width="400" height="222" rx="12" fill="#ffffff" stroke="#00824d" stroke-width="2"/>
+<text x="1060" y="326" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="23" font-weight="700" fill="#00824d" text-anchor="end">Kildeprosjekt</text>
+<path d="M873,312 L873,307 A7,7 0 0 1 887,307 L887,312" fill="none" stroke="#00824d" stroke-width="3"/>
+<rect x="868" y="312" width="24" height="18" rx="3" fill="#00824d"/>
+<path d="M730,362 L730,444 A90.0,14 0 0 0 910,444 L910,362" fill="#00824d" stroke="#00824d" stroke-width="2"/>
+<ellipse cx="820.0" cy="362" rx="90.0" ry="14" fill="#00824d" stroke="#00824d" stroke-width="2"/>
+<text x="820" y="405" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="21" font-weight="700" fill="#ffffff" text-anchor="middle">Kildedata</text>
+<text x="820" y="430" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#ffffff" text-anchor="middle">i klartekst</text>
+<text x="1060" y="496" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="18" font-weight="400" fill="#5e787a" text-anchor="end">Ingen fast tilgang</text>
+<rect x="680" y="562" width="400" height="296" rx="12" fill="#ffffff" stroke="#00824d" stroke-width="2"/>
+<text x="1060" y="596" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="23" font-weight="700" fill="#00824d" text-anchor="end">Standardprosjekt</text>
+<path d="M700,632 L700,754 A105.0,14 0 0 0 910,754 L910,632" fill="#b6e9b8" stroke="#00824d" stroke-width="2"/>
+<ellipse cx="805.0" cy="632" rx="105.0" ry="14" fill="#b6e9b8" stroke="#00824d" stroke-width="2"/>
+<text x="805" y="668" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="21" font-weight="700" fill="#1e3a3f" text-anchor="middle">Produktbøtte</text>
+<text x="805" y="696" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#1e3a3f" text-anchor="middle">inndata</text>
+<text x="805" y="716" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#1e3a3f" text-anchor="middle">klargjorte · statistikk</text>
+<text x="805" y="736" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#1e3a3f" text-anchor="middle">utdata</text>
+<path d="M940,646 L940,718 A60.0,14 0 0 0 1060,718 L1060,646" fill="#ecfeed" stroke="#00824d" stroke-width="2"/>
+<ellipse cx="1000.0" cy="646" rx="60.0" ry="14" fill="#ecfeed" stroke="#00824d" stroke-width="2"/>
+<text x="1000" y="690" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" fill="#1e3a3f" text-anchor="middle">Delt-bøtte</text>
+<text x="700" y="836" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="18" font-weight="400" fill="#5e787a" text-anchor="start">Teamets daglige arbeidsområde</text>
+<polyline points="820.0,472.0 820.0,604.8" fill="none" stroke="#00824d" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+<polygon points="820.0,616.0 810.2,595.0 829.8,595.0" fill="#00824d"/>
+<rect x="745" y="520" width="150" height="34" rx="17" fill="#ffffff" stroke="#00824d" stroke-width="2"/>
+<text x="820" y="544" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" fill="#00824d" text-anchor="middle">Kildomaten</text>
+<polyline points="608.0,492.0 672.2,445.6" fill="none" stroke="#7d5fea" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="9 7"/>
+<polygon points="680.0,440.0 670.3,457.3 660.5,443.7" fill="#7d5fea"/>
+<text x="640" y="424" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" fill="#4b2fb0" text-anchor="middle">JIT</text>
+<polyline points="608.0,690.0 688.8,690.0" fill="none" stroke="#7d5fea" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+<polygon points="700.0,690.0 679.0,699.8 679.0,680.2" fill="#7d5fea"/>
+<rect x="1160" y="292" width="240" height="126" rx="10" fill="#eff8fa" stroke="#274246" stroke-width="2"/>
+<text x="1180" y="328" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="22" font-weight="700" fill="#274246" text-anchor="start">SSB Dataportal</text>
+<text x="1180" y="356" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="18" font-weight="400" fill="#1e3a3f" text-anchor="start">Datakatalog: finne</text>
+<text x="1180" y="379" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="18" font-weight="400" fill="#1e3a3f" text-anchor="start">data på tvers av team</text>
+<text x="1280" y="580" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="21" font-weight="700" fill="#274246" text-anchor="middle">Andre Dapla-team</text>
+<rect x="1160" y="600" width="240" height="70" rx="10" fill="#f1f1fe" stroke="#7d5fea" stroke-width="2"/>
+<text x="1280" y="643" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="20" font-weight="600" fill="#4b2fb0" text-anchor="middle">«Arbeidsmarked»</text>
+<rect x="1160" y="690" width="240" height="70" rx="10" fill="#f1f1fe" stroke="#7d5fea" stroke-width="2"/>
+<text x="1280" y="733" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="20" font-weight="600" fill="#4b2fb0" text-anchor="middle">«Nasjonalregnskap»</text>
+<polyline points="1060.0,682.0 1128.0,682.0 1128.0,635.0 1150.4,635.0" fill="none" stroke="#00824d" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="10 6"/>
+<polygon points="1160.0,635.0 1142.0,643.4 1142.0,626.6" fill="#00824d"/>
+<polyline points="1128.0,682.0 1128.0,725.0 1150.4,725.0" fill="none" stroke="#00824d" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="10 6"/>
+<polygon points="1160.0,725.0 1142.0,733.4 1142.0,716.6" fill="#00824d"/>
+<text x="1280" y="796" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" fill="#00824d" text-anchor="middle">Lesetilgang etter avtale</text>
+<polyline points="1040.0,562.0 1040.0,540.0 1280.0,540.0 1280.0,426.8" fill="none" stroke="#274246" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="3 6"/>
+<polygon points="1280.0,418.0 1287.7,434.5 1272.3,434.5" fill="#274246"/>
+<text x="1160" y="530" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="600" fill="#5e787a" text-anchor="middle">metadata</text>
+<rect x="60" y="906" width="1340" height="84" rx="12" fill="#eff8fa" stroke="#c4dddb" stroke-width="2"/>
+<text x="80" y="940" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="19" font-weight="700" fill="#274246" text-anchor="start">Felles plattform</text>
+<text x="80" y="965" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="19" font-weight="700" fill="#274246" text-anchor="start">på Google Cloud</text>
+<rect x="260" y="918" width="214" height="60" rx="8" fill="#ffffff" stroke="#274246" stroke-width="2"/>
+<text x="367.0" y="944" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="19" font-weight="700" fill="#274246" text-anchor="middle">Dapla Lab</text>
+<text x="367.0" y="968" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="middle">arbeidsflate</text>
+<rect x="487" y="918" width="214" height="60" rx="8" fill="#ffffff" stroke="#274246" stroke-width="2"/>
+<text x="594.0" y="944" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="19" font-weight="700" fill="#274246" text-anchor="middle">Dapla Ctrl</text>
+<text x="594.0" y="968" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="middle">team og medlemmer</text>
+<rect x="714" y="918" width="214" height="60" rx="8" fill="#ffffff" stroke="#274246" stroke-width="2"/>
+<text x="821.0" y="944" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="19" font-weight="700" fill="#274246" text-anchor="middle">Team-repo (IaC)</text>
+<text x="821.0" y="968" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="middle">bøtter og deling</text>
+<rect x="941" y="918" width="214" height="60" rx="8" fill="#ffffff" stroke="#274246" stroke-width="2"/>
+<text x="1048.0" y="944" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="19" font-weight="700" fill="#274246" text-anchor="middle">Kildomaten</text>
+<text x="1048.0" y="968" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="middle">automatisering</text>
+<rect x="1168" y="918" width="214" height="60" rx="8" fill="#ffffff" stroke="#274246" stroke-width="2"/>
+<text x="1275.0" y="944" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="19" font-weight="700" fill="#274246" text-anchor="middle">Dataportal</text>
+<text x="1275.0" y="968" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="middle">datakatalog</text>
+<text x="60" y="92" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="46" font-weight="700" fill="#1e3a3f" text-anchor="start">Tilgang følger teamet, ikke personen</text>
+<text x="60" y="136" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="24" font-weight="400" fill="#5e787a" text-anchor="start">Brukere, Dapla-team og data på Dapla</text>
+<rect x="1690" y="62" width="170" height="40" rx="20" fill="#ffffff" stroke="#274246" stroke-width="2"/>
+<text x="1775" y="89" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="19" font-weight="700" fill="#274246" text-anchor="middle">Oversikt</text>
+<line x1="60" y1="160" x2="1860" y2="160" stroke="#cdd3d4" stroke-width="2"/>
+<rect x="1450" y="180" width="410" height="700" rx="16" fill="#eff8fa" stroke="#eff8fa" stroke-width="0"/>
+<text x="1478" y="226" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="25" font-weight="700" fill="#1e3a3f" text-anchor="start">Fire grunnprinsipper</text>
+<text x="1478" y="276" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="21" font-weight="700" fill="#1e3a3f" text-anchor="start">Tilgang via team</text>
+<text x="1478" y="304" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="18" font-weight="400" fill="#274246" text-anchor="start">Man jobber på Dapla som medlem</text>
+<text x="1478" y="328" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="18" font-weight="400" fill="#274246" text-anchor="start">av et team. Tilgang gis til</text>
+<text x="1478" y="352" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="18" font-weight="400" fill="#274246" text-anchor="start">grupper i teamet.</text>
+<text x="1478" y="402" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="21" font-weight="700" fill="#1e3a3f" text-anchor="start">Teamet eier sine data</text>
+<text x="1478" y="430" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="18" font-weight="400" fill="#274246" text-anchor="start">Hvert team har egne prosjekter</text>
+<text x="1478" y="454" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="18" font-weight="400" fill="#274246" text-anchor="start">og bøtter, og ansvaret ligger</text>
+<text x="1478" y="478" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="18" font-weight="400" fill="#274246" text-anchor="start">hos én seksjon.</text>
+<text x="1478" y="528" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="21" font-weight="700" fill="#1e3a3f" text-anchor="start">Kildedata er skjermet</text>
+<text x="1478" y="556" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="18" font-weight="400" fill="#274246" text-anchor="start">Sensitive kildedata ligger isolert,</text>
+<text x="1478" y="580" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="18" font-weight="400" fill="#274246" text-anchor="start">uten fast tilgang for noen.</text>
+<text x="1478" y="630" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="21" font-weight="700" fill="#1e3a3f" text-anchor="start">Deling er eksplisitt</text>
+<text x="1478" y="658" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="18" font-weight="400" fill="#274246" text-anchor="start">Andre team får bare det eier-</text>
+<text x="1478" y="682" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="18" font-weight="400" fill="#274246" text-anchor="start">teamet har valgt å dele.</text>
+<line x1="60" y1="1010" x2="1860" y2="1010" stroke="#cdd3d4" stroke-width="1"/>
+<circle cx="72" cy="1032.1" r="6.75" fill="#274246"/>
+<path d="M59.85,1054.6 C59.85,1041.1 64.8,1040.2 72,1040.2 C79.2,1040.2 84.15,1041.1 84.15,1054.6 Z" fill="#274246"/>
+<text x="94" y="1046" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#274246" text-anchor="start">Person</text>
+<rect x="160" y="1028" width="24" height="24" rx="4" fill="#c3baff" stroke="#7d5fea" stroke-width="2"/>
+<text x="194" y="1046" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#274246" text-anchor="start">Team og roller</text>
+<rect x="340" y="1028" width="24" height="24" rx="4" fill="#b6e9b8" stroke="#00824d" stroke-width="2"/>
+<text x="374" y="1046" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#274246" text-anchor="start">Data</text>
+<rect x="440" y="1028" width="24" height="24" rx="4" fill="#eff8fa" stroke="#274246" stroke-width="2"/>
+<text x="474" y="1046" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#274246" text-anchor="start">Plattformtjeneste</text>
+<polyline points="660.0,1040.0 696.0,1040.0" fill="none" stroke="#274246" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<polygon points="704.0,1040.0 689.0,1047.0 689.0,1033.0" fill="#274246"/>
+<text x="716" y="1046" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#274246" text-anchor="start">Medlem av</text>
+<polyline points="820.0,1040.0 856.0,1040.0" fill="none" stroke="#7d5fea" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+<polygon points="864.0,1040.0 849.0,1047.0 849.0,1033.0" fill="#7d5fea"/>
+<text x="876" y="1046" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#274246" text-anchor="start">Tilgang</text>
+<polyline points="960.0,1040.0 996.0,1040.0" fill="none" stroke="#7d5fea" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="8 6"/>
+<polygon points="1004.0,1040.0 989.0,1047.0 989.0,1033.0" fill="#7d5fea"/>
+<text x="1016" y="1046" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#274246" text-anchor="start">Tidsavgrenset tilgang</text>
+<polyline points="1210.0,1040.0 1246.0,1040.0" fill="none" stroke="#00824d" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+<polygon points="1254.0,1040.0 1239.0,1047.0 1239.0,1033.0" fill="#00824d"/>
+<text x="1266" y="1046" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#274246" text-anchor="start">Dataflyt</text>
+<polyline points="1350.0,1040.0 1386.0,1040.0" fill="none" stroke="#00824d" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="8 5"/>
+<polygon points="1394.0,1040.0 1379.0,1047.0 1379.0,1033.0" fill="#00824d"/>
+<text x="1406" y="1046" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#274246" text-anchor="start">Deling</text>
+<text x="1860" y="1046" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="end">Utkast 28.09.2026 · Kilde: manual.dapla.ssb.no</text>
+</svg>

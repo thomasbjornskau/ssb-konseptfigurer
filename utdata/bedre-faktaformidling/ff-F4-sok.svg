@@ -1,0 +1,135 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080">
+<rect x="0" y="0" width="1920" height="1080" fill="#ffffff"/>
+<text x="60" y="92" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="46" font-weight="700" fill="#1e3a3f" text-anchor="start">Bedre søk er mer enn treffliste</text>
+<text x="60" y="136" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="24" font-weight="400" fill="#5e787a" text-anchor="start">Fra dokumenttreff til faglig veivisning, vist med ett søkeord gjennom fem trinn</text>
+<rect x="1690" y="62" width="170" height="40" rx="20" fill="#ffffff" stroke="#274246" stroke-width="2"/>
+<text x="1775.0" y="89" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="19" font-weight="700" fill="#274246" text-anchor="middle">Oversikt</text>
+<line x1="60" y1="160" x2="1860" y2="160" stroke="#cdd3d4" stroke-width="2"/>
+<rect x="1440" y="180" width="420" height="806" rx="16" fill="#eff8fa" stroke="#eff8fa" stroke-width="0"/>
+<text x="1466" y="226" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="25" font-weight="700" fill="#1e3a3f" text-anchor="start">Slik leses figuren</text>
+<circle cx="1485" cy="268" r="19" fill="#1e3a3f" stroke="#ffffff" stroke-width="3"/>
+<text x="1485" y="276" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="22" font-weight="700" fill="#ffffff" text-anchor="middle">1</text>
+<text x="1516" y="276" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="20" font-weight="700" fill="#1e3a3f" text-anchor="start">Samme ord, fem trinn</text>
+<text x="1516" y="303" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#274246" text-anchor="start">Hvert trinn gjør mer av jobben</text>
+<text x="1516" y="326" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#274246" text-anchor="start">for brukeren. Trinn 1 finnes</text>
+<text x="1516" y="349" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#274246" text-anchor="start">i dag, resten er forslag.</text>
+<circle cx="1485" cy="388" r="19" fill="#1e3a3f" stroke="#ffffff" stroke-width="3"/>
+<text x="1485" y="396" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="22" font-weight="700" fill="#ffffff" text-anchor="middle">2</text>
+<text x="1516" y="396" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="20" font-weight="700" fill="#1e3a3f" text-anchor="start">Trinn 2 er nøkkelen</text>
+<text x="1516" y="423" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#274246" text-anchor="start">Å koble brukerens ord til SSBs</text>
+<text x="1516" y="446" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#274246" text-anchor="start">begrep åpner alle trinnene over.</text>
+<circle cx="1485" cy="485" r="19" fill="#1e3a3f" stroke="#ffffff" stroke-width="3"/>
+<text x="1485" y="493" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="22" font-weight="700" fill="#ffffff" text-anchor="middle">3</text>
+<text x="1516" y="493" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="20" font-weight="700" fill="#1e3a3f" text-anchor="start">Innhold, ikke bare teknikk</text>
+<text x="1516" y="520" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#274246" text-anchor="start">Ordlister, relasjoner og</text>
+<text x="1516" y="543" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#274246" text-anchor="start">forklaringer må lages og</text>
+<text x="1516" y="566" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#274246" text-anchor="start">vedlikeholdes av noen.</text>
+<circle cx="1485" cy="605" r="19" fill="#1e3a3f" stroke="#ffffff" stroke-width="3"/>
+<text x="1485" y="613" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="22" font-weight="700" fill="#ffffff" text-anchor="middle">4</text>
+<text x="1516" y="613" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="20" font-weight="700" fill="#1e3a3f" text-anchor="start">Maskinelt eller redaksjonelt</text>
+<text x="1516" y="640" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#274246" text-anchor="start">Jo høyere trinn, jo mer faglig</text>
+<text x="1516" y="663" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#274246" text-anchor="start">skjønn. Fordelingen nederst er</text>
+<text x="1516" y="686" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#274246" text-anchor="start">et forslag til diskusjon.</text>
+<line x1="60" y1="1010" x2="1860" y2="1010" stroke="#cdd3d4" stroke-width="1"/>
+<rect x="60" y="1026" width="26" height="24" rx="5" fill="#f1f1fe" stroke="#7d5fea" stroke-width="1.8"/>
+<text x="96" y="1046" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#274246" text-anchor="start">Det brukeren ser</text>
+<rect x="263.6" y="1028" width="26" height="20" rx="10" fill="#ecfeed" stroke="#00824d" stroke-width="1.5"/>
+<text x="299.6" y="1046" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#274246" text-anchor="start">Må finnes bak</text>
+<rect x="441.40000000000003" y="1026" width="26" height="24" rx="5" fill="#eff8fa" stroke="#274246" stroke-width="1.8"/>
+<text x="477.40000000000003" y="1046" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#274246" text-anchor="start">Finnes i dag</text>
+<rect x="610.6" y="1026" width="26" height="24" rx="5" fill="#ffffff" stroke="#7d5fea" stroke-width="2" stroke-dasharray="6 4"/>
+<text x="646.6" y="1046" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#274246" text-anchor="start">Forslag</text>
+<rect x="736.8000000000001" y="1026" width="26" height="24" rx="5" fill="#ffffff" stroke="#5e787a" stroke-width="1.6" stroke-dasharray="5 4"/>
+<text x="772.8000000000001" y="1046" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#274246" text-anchor="start">Uavklart</text>
+<text x="1860" y="1046" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="400" fill="#5e787a" text-anchor="end">29.09.2026 · Utkast til diskusjon, ikke kvalitetssikret</text>
+<rect x="60" y="186" width="420" height="52" rx="26" fill="#ffffff" stroke="#274246" stroke-width="2"/>
+<circle cx="92" cy="210" r="10" fill="none" stroke="#274246" stroke-width="3"/>
+<line x1="99" y1="217" x2="108" y2="226" stroke="#274246" stroke-width="3" stroke-linecap="round"/>
+<text x="124" y="219" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="20" font-weight="700" fill="#1e3a3f" text-anchor="start">ledighet</text>
+<text x="500" y="219" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="600" fill="#5e787a" text-anchor="start">brukerens søkeord, likt gjennom alle trinn</text>
+<rect x="60" y="560" width="256" height="300" rx="10" fill="#ffffff" stroke="#274246" stroke-width="2"/>
+<rect x="60" y="560" width="256" height="50" rx="10" fill="#274246" stroke="#274246" stroke-width="0"/>
+<circle cx="86" cy="585" r="19" fill="#1e3a3f" stroke="#ffffff" stroke-width="3"/>
+<text x="86" y="593" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="22" font-weight="700" fill="#ffffff" text-anchor="middle">1</text>
+<text x="112" y="592" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" fill="#ffffff" text-anchor="start">Treffliste</text>
+<text x="76" y="636" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#5e787a" text-anchor="start">BRUKEREN SER</text>
+<text x="76" y="658" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14.5" font-weight="600" fill="#4b2fb0" text-anchor="start">Artikler og tabeller</text>
+<text x="76" y="677" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14.5" font-weight="600" fill="#4b2fb0" text-anchor="start">som inneholder ordet</text>
+<text x="76" y="712" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#5e787a" text-anchor="start">MÅ FINNES BAK</text>
+<rect x="76" y="722" width="94.0" height="24" rx="5" fill="#eff8fa" stroke="#274246" stroke-width="1.3"/>
+<text x="123.0" y="739" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="12.5" font-weight="700" fill="#274246" text-anchor="middle">søkeindeks</text>
+<rect x="232" y="620" width="70" height="22" rx="11" fill="#ffffff" stroke="#274246" stroke-width="1.3"/>
+<text x="267" y="635" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#274246" text-anchor="middle">i dag</text>
+<line x1="76" y1="830" x2="300" y2="830" stroke="#cdd3d4" stroke-width="4" stroke-linecap="round"/>
+<circle cx="98.4" cy="830" r="9" fill="#7d5fea"/>
+<rect x="331" y="490" width="256" height="370" rx="10" fill="#ffffff" stroke="#7d5fea" stroke-width="2" stroke-dasharray="7 5"/>
+<rect x="331" y="490" width="256" height="50" rx="10" fill="#f1f1fe" stroke="#f1f1fe" stroke-width="0"/>
+<circle cx="357" cy="515" r="19" fill="#1e3a3f" stroke="#ffffff" stroke-width="3"/>
+<text x="357" y="523" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="22" font-weight="700" fill="#ffffff" text-anchor="middle">2</text>
+<text x="383" y="522" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" fill="#4b2fb0" text-anchor="start">Ord til begrep</text>
+<text x="347" y="566" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#5e787a" text-anchor="start">BRUKEREN SER</text>
+<text x="347" y="588" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14.5" font-weight="600" fill="#4b2fb0" text-anchor="start">«Mente du arbeidsledighet</text>
+<text x="347" y="607" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14.5" font-weight="600" fill="#4b2fb0" text-anchor="start">(AKU, SSB) eller registrert</text>
+<text x="347" y="626" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14.5" font-weight="600" fill="#4b2fb0" text-anchor="start">ledighet (NAV)?»</text>
+<text x="347" y="661" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#5e787a" text-anchor="start">MÅ FINNES BAK</text>
+<rect x="347" y="671" width="130.0" height="24" rx="12" fill="#ffffff" stroke="#5e787a" stroke-width="1.3" stroke-dasharray="5 4"/>
+<text x="412.0" y="688" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="12.5" font-weight="700" fill="#5e787a" text-anchor="middle">brukerord-liste</text>
+<rect x="347" y="701" width="158.8" height="24" rx="12" fill="#ecfeed" stroke="#00824d" stroke-width="1.3"/>
+<text x="426.4" y="718" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="12.5" font-weight="700" fill="#00824d" text-anchor="middle">begrepsdefinisjoner</text>
+<line x1="347" y1="830" x2="571" y2="830" stroke="#cdd3d4" stroke-width="4" stroke-linecap="round"/>
+<circle cx="447.8" cy="830" r="9" fill="#7d5fea"/>
+<rect x="602" y="420" width="256" height="440" rx="10" fill="#ffffff" stroke="#7d5fea" stroke-width="2" stroke-dasharray="7 5"/>
+<rect x="602" y="420" width="256" height="50" rx="10" fill="#f1f1fe" stroke="#f1f1fe" stroke-width="0"/>
+<circle cx="628" cy="445" r="19" fill="#1e3a3f" stroke="#ffffff" stroke-width="3"/>
+<text x="628" y="453" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="22" font-weight="700" fill="#ffffff" text-anchor="middle">3</text>
+<text x="654" y="452" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" fill="#4b2fb0" text-anchor="start">Nærliggende statistikk</text>
+<text x="618" y="496" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#5e787a" text-anchor="start">BRUKEREN SER</text>
+<text x="618" y="518" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14.5" font-weight="600" fill="#4b2fb0" text-anchor="start">Sysselsetting, arbeids-</text>
+<text x="618" y="537" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14.5" font-weight="600" fill="#4b2fb0" text-anchor="start">styrken, permitterte</text>
+<text x="618" y="572" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#5e787a" text-anchor="start">MÅ FINNES BAK</text>
+<rect x="618" y="582" width="94.0" height="24" rx="12" fill="#ffffff" stroke="#5e787a" stroke-width="1.3" stroke-dasharray="5 4"/>
+<text x="665.0" y="599" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="12.5" font-weight="700" fill="#5e787a" text-anchor="middle">relasjoner</text>
+<rect x="618" y="612" width="130.0" height="24" rx="12" fill="#ffffff" stroke="#5e787a" stroke-width="1.3" stroke-dasharray="5 4"/>
+<text x="683.0" y="629" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="12.5" font-weight="700" fill="#5e787a" text-anchor="middle">hvor de ligger?</text>
+<line x1="618" y1="830" x2="842" y2="830" stroke="#cdd3d4" stroke-width="4" stroke-linecap="round"/>
+<circle cx="685.2" cy="830" r="9" fill="#7d5fea"/>
+<rect x="873" y="350" width="256" height="510" rx="10" fill="#ffffff" stroke="#7d5fea" stroke-width="2" stroke-dasharray="7 5"/>
+<rect x="873" y="350" width="256" height="50" rx="10" fill="#f1f1fe" stroke="#f1f1fe" stroke-width="0"/>
+<circle cx="899" cy="375" r="19" fill="#1e3a3f" stroke="#ffffff" stroke-width="3"/>
+<text x="899" y="383" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="22" font-weight="700" fill="#ffffff" text-anchor="middle">4</text>
+<text x="925" y="382" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" fill="#4b2fb0" text-anchor="start">Forklare forskjeller</text>
+<text x="889" y="426" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#5e787a" text-anchor="start">BRUKEREN SER</text>
+<text x="889" y="448" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14.5" font-weight="600" fill="#4b2fb0" text-anchor="start">«Derfor er tallene</text>
+<text x="889" y="467" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14.5" font-weight="600" fill="#4b2fb0" text-anchor="start">ulike, og slik velger</text>
+<text x="889" y="486" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14.5" font-weight="600" fill="#4b2fb0" text-anchor="start">du riktig»</text>
+<text x="889" y="521" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#5e787a" text-anchor="start">MÅ FINNES BAK</text>
+<rect x="889" y="531" width="108.4" height="24" rx="12" fill="#ecfeed" stroke="#00824d" stroke-width="1.3"/>
+<text x="943.2" y="548" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="12.5" font-weight="700" fill="#00824d" text-anchor="middle">forklaringer</text>
+<rect x="889" y="561" width="122.8" height="24" rx="12" fill="#ecfeed" stroke="#00824d" stroke-width="1.3"/>
+<text x="950.4" y="578" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="12.5" font-weight="700" fill="#00824d" text-anchor="middle">skrevet av fag</text>
+<line x1="889" y1="830" x2="1113" y2="830" stroke="#cdd3d4" stroke-width="4" stroke-linecap="round"/>
+<circle cx="1068.2" cy="830" r="9" fill="#7d5fea"/>
+<rect x="1144" y="280" width="256" height="580" rx="10" fill="#ffffff" stroke="#7d5fea" stroke-width="2" stroke-dasharray="7 5"/>
+<rect x="1144" y="280" width="256" height="50" rx="10" fill="#f1f1fe" stroke="#f1f1fe" stroke-width="0"/>
+<circle cx="1170" cy="305" r="19" fill="#1e3a3f" stroke="#ffffff" stroke-width="3"/>
+<text x="1170" y="313" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="22" font-weight="700" fill="#ffffff" text-anchor="middle">5</text>
+<text x="1196" y="312" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" fill="#4b2fb0" text-anchor="start">Anbefalt inngang</text>
+<text x="1160" y="356" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#5e787a" text-anchor="start">BRUKEREN SER</text>
+<text x="1160" y="378" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14.5" font-weight="600" fill="#4b2fb0" text-anchor="start">«For utvikling måned</text>
+<text x="1160" y="397" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14.5" font-weight="600" fill="#4b2fb0" text-anchor="start">for måned: start her»</text>
+<text x="1160" y="432" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#5e787a" text-anchor="start">MÅ FINNES BAK</text>
+<rect x="1160" y="442" width="137.2" height="24" rx="12" fill="#ecfeed" stroke="#00824d" stroke-width="1.3"/>
+<text x="1228.6" y="459" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="12.5" font-weight="700" fill="#00824d" text-anchor="middle">faglig vurdering</text>
+<rect x="1160" y="472" width="101.2" height="24" rx="12" fill="#ffffff" stroke="#5e787a" stroke-width="1.3" stroke-dasharray="5 4"/>
+<text x="1210.6" y="489" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="12.5" font-weight="700" fill="#5e787a" text-anchor="middle">brukerbehov</text>
+<line x1="1160" y1="830" x2="1384" y2="830" stroke="#cdd3d4" stroke-width="4" stroke-linecap="round"/>
+<circle cx="1361.6" cy="830" r="9" fill="#7d5fea"/>
+<rect x="60" y="878" width="1340" height="104" rx="10" fill="#f8fbfb" stroke="#cdd3d4" stroke-width="1.2"/>
+<text x="80" y="910" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" fill="#1e3a3f" text-anchor="start">Maskinelt eller redaksjonelt?</text>
+<text x="80" y="936" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="400" fill="#274246" text-anchor="start">Punktet på linjen i hvert trinn: venstre = kan gjøres maskinelt, høyre = krever faglig og redaksjonelt skjønn.</text>
+<text x="80" y="962" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#5e787a" text-anchor="start">Plasseringen er et forslag. Hvem som vedlikeholder ordlister, relasjoner og forklaringer, er uavklart.</text>
+<polyline points="80.0,470.0 1110.6,252.0" fill="none" stroke="#7d5fea" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="8 6"/>
+<polygon points="1120.0,250.0 1104.1,261.9 1100.7,245.5" fill="#7d5fea"/>
+<rect x="420" y="318" width="240" height="28" rx="14" fill="#ffffff" stroke="#7d5fea" stroke-width="1.3"/>
+<text x="540" y="337" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#4b2fb0" text-anchor="middle">fra treff til veivisning</text>
+</svg>

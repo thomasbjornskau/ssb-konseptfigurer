@@ -1,0 +1,111 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080">
+<rect x="0" y="0" width="1920" height="1080" fill="#ffffff"/>
+<text x="60" y="92" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="46" font-weight="700" fill="#1e3a3f" text-anchor="start">Fundamentet: tilgang, lagring og kode</text>
+<text x="60" y="136" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="24" font-weight="400" fill="#5e787a" text-anchor="start">Fokus: det du bygger på</text>
+<rect x="1690" y="62" width="170" height="40" rx="20" fill="#ffffff" stroke="#274246" stroke-width="2"/>
+<text x="1775" y="89" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="19" font-weight="700" fill="#274246" text-anchor="middle">Fokus 3 av 3</text>
+<line x1="60" y1="160" x2="1860" y2="160" stroke="#cdd3d4" stroke-width="2"/>
+<rect x="60" y="184" width="1800" height="76" rx="12" fill="#f5f7f7" stroke="#dfe5e5" stroke-width="0"/>
+<text x="84" y="216" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="19" font-weight="700" fill="#b9c5c6" text-anchor="start">Fire steder du</text>
+<text x="84" y="241" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="19" font-weight="700" fill="#b9c5c6" text-anchor="start">alltid er innom</text>
+<rect x="360" y="198" width="360" height="48" rx="24" fill="#f5f7f7" stroke="#dfe5e5" stroke-width="2"/>
+<text x="540.0" y="229" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="19" text-anchor="middle" fill="#b9c5c6"><tspan font-weight="700">Dapla Lab</tspan><tspan font-weight="400">  der du jobber</tspan></text>
+<rect x="740" y="198" width="360" height="48" rx="24" fill="#f5f7f7" stroke="#dfe5e5" stroke-width="2"/>
+<text x="920.0" y="229" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="19" text-anchor="middle" fill="#b9c5c6"><tspan font-weight="700">/buckets</tspan><tspan font-weight="400">  der dataene ligger</tspan></text>
+<rect x="1120" y="198" width="360" height="48" rx="24" fill="#f5f7f7" stroke="#dfe5e5" stroke-width="2"/>
+<text x="1300.0" y="229" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="19" text-anchor="middle" fill="#b9c5c6"><tspan font-weight="700">GitHub</tspan><tspan font-weight="400">  der koden ligger</tspan></text>
+<rect x="1500" y="198" width="360" height="48" rx="24" fill="#f5f7f7" stroke="#dfe5e5" stroke-width="2"/>
+<text x="1680.0" y="229" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="19" text-anchor="middle" fill="#b9c5c6"><tspan font-weight="700">Datadoc</tspan><tspan font-weight="400">  der data beskrives</tspan></text>
+<rect x="60" y="282" width="8" height="110" rx="0" fill="#f5f7f7" stroke="#dfe5e5" stroke-width="0"/>
+<text x="88" y="322" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="30" font-weight="700" fill="#b9c5c6" text-anchor="start">Kjerne</text>
+<rect x="360" y="282" width="487" height="110" rx="12" fill="#f5f7f7" stroke="#dfe5e5" stroke-width="2"/>
+<text x="388" y="312" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#b9c5c6" text-anchor="start">JEG VIL</text>
+<text x="388" y="344" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="26" font-weight="700" fill="#b9c5c6" text-anchor="start">Hente inn data</text>
+<rect x="867" y="282" width="487" height="110" rx="12" fill="#f5f7f7" stroke="#dfe5e5" stroke-width="2"/>
+<text x="895" y="312" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#b9c5c6" text-anchor="start">JEG VIL</text>
+<text x="895" y="344" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="26" font-weight="700" fill="#b9c5c6" text-anchor="start">Bearbeide og produsere</text>
+<rect x="1374" y="282" width="487" height="110" rx="12" fill="#f5f7f7" stroke="#dfe5e5" stroke-width="2"/>
+<text x="1402" y="312" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#b9c5c6" text-anchor="start">JEG VIL</text>
+<text x="1402" y="344" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="26" font-weight="700" fill="#b9c5c6" text-anchor="start">Dele og publisere</text>
+<rect x="60" y="406" width="8" height="110" rx="0" fill="#f5f7f7" stroke="#dfe5e5" stroke-width="0"/>
+<text x="88" y="446" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="30" font-weight="700" fill="#b9c5c6" text-anchor="start">Styring</text>
+<rect x="360" y="406" width="487" height="110" rx="12" fill="#f5f7f7" stroke="#dfe5e5" stroke-width="2"/>
+<text x="388" y="436" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#b9c5c6" text-anchor="start">JEG VIL</text>
+<text x="388" y="468" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="26" font-weight="700" fill="#b9c5c6" text-anchor="start">Beskrive og finne data</text>
+<rect x="867" y="406" width="487" height="110" rx="12" fill="#f5f7f7" stroke="#dfe5e5" stroke-width="2"/>
+<text x="895" y="436" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#b9c5c6" text-anchor="start">JEG VIL</text>
+<text x="895" y="468" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="26" font-weight="700" fill="#b9c5c6" text-anchor="start">Automatisere</text>
+<rect x="1374" y="406" width="487" height="110" rx="12" fill="#f5f7f7" stroke="#dfe5e5" stroke-width="2"/>
+<text x="1402" y="436" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#b9c5c6" text-anchor="start">JEG VIL</text>
+<text x="1402" y="468" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="26" font-weight="700" fill="#b9c5c6" text-anchor="start">Dokumentere kvalitet</text>
+<rect x="60" y="530" width="8" height="454" rx="0" fill="#274246" stroke="#274246" stroke-width="0"/>
+<text x="88" y="570" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="30" font-weight="700" fill="#1e3a3f" text-anchor="start">Fundament</text>
+<text x="88" y="606" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="19" font-weight="400" fill="#5e787a" text-anchor="start">Det du</text>
+<text x="88" y="631" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="19" font-weight="400" fill="#5e787a" text-anchor="start">bygger på</text>
+<rect x="360" y="530" width="487" height="454" rx="12" fill="#c4dddb" stroke="#c4dddb" stroke-width="2"/>
+<text x="388" y="560" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#5e787a" text-anchor="start">JEG VIL</text>
+<text x="388" y="592" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="26" font-weight="700" fill="#1e3a3f" text-anchor="start">Styre tilgang</text>
+<rect x="388" y="606" width="60" height="4" rx="0" fill="#00824d" stroke="#00824d" stroke-width="0"/>
+<text x="388" y="640" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="18" font-weight="400" fill="#274246" text-anchor="start">Få tilgang til riktige data,</text>
+<text x="388" y="665" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="18" font-weight="400" fill="#274246" text-anchor="start">og bare dem</text>
+<rect x="388" y="700" width="170" height="30" rx="15.0" fill="#ffffff" stroke="#274246" stroke-width="1.5"/>
+<text x="473.0" y="720.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#274246" text-anchor="middle">Dapla Ctrl</text>
+<text x="572" y="712" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="400" fill="#274246" text-anchor="start">viser team og medlemmer;</text>
+<text x="572" y="732" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="400" fill="#274246" text-anchor="start">seksjonsleder legger til</text>
+<rect x="388" y="764" width="170" height="30" rx="15.0" fill="#ffffff" stroke="#274246" stroke-width="1.5"/>
+<text x="473.0" y="784.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#274246" text-anchor="middle">Velg team i Lab</text>
+<text x="572" y="776" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="400" fill="#274246" text-anchor="start">teamet du velger, avgjør</text>
+<text x="572" y="796" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="400" fill="#274246" text-anchor="start">hvilke data du ser</text>
+<rect x="388" y="828" width="170" height="30" rx="15.0" fill="#ffffff" stroke="#274246" stroke-width="1.5"/>
+<text x="473.0" y="848.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#274246" text-anchor="middle">toolbelt-pseudo</text>
+<text x="572" y="840" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="400" fill="#274246" text-anchor="start">pseudonymiserer</text>
+<text x="572" y="860" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="400" fill="#274246" text-anchor="start">personidentifikatorer</text>
+<rect x="867" y="530" width="487" height="454" rx="12" fill="#c4dddb" stroke="#c4dddb" stroke-width="2"/>
+<text x="895" y="560" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#5e787a" text-anchor="start">JEG VIL</text>
+<text x="895" y="592" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="26" font-weight="700" fill="#1e3a3f" text-anchor="start">Lagre og regne</text>
+<rect x="895" y="606" width="60" height="4" rx="0" fill="#00824d" stroke="#00824d" stroke-width="0"/>
+<text x="895" y="640" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="18" font-weight="400" fill="#274246" text-anchor="start">Ha plass og kraft nok,</text>
+<text x="895" y="665" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="18" font-weight="400" fill="#274246" text-anchor="start">uten å tenke på servere</text>
+<rect x="895" y="700" width="170" height="30" rx="15.0" fill="#ffffff" stroke="#274246" stroke-width="1.5"/>
+<text x="980.0" y="720.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#274246" text-anchor="middle">/buckets</text>
+<text x="1079" y="712" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="400" fill="#274246" text-anchor="start">bøttene vises som mapper</text>
+<text x="1079" y="732" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="400" fill="#274246" text-anchor="start">i Dapla Lab</text>
+<rect x="895" y="764" width="170" height="30" rx="15.0" fill="#ffffff" stroke="#274246" stroke-width="1.5"/>
+<text x="980.0" y="784.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#274246" text-anchor="middle">Parquet</text>
+<text x="1079" y="776" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="400" fill="#274246" text-anchor="start">standard lagringsformat</text>
+<text x="1079" y="796" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="400" fill="#274246" text-anchor="start">(obligatorisk)</text>
+<rect x="895" y="828" width="170" height="30" rx="15.0" fill="#ffffff" stroke="#5e787a" stroke-width="1.5" stroke-dasharray="5 4"/>
+<text x="980.0" y="848.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#5e787a" text-anchor="middle">Ressursvalg</text>
+<text x="1079" y="840" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="400" fill="#5e787a" text-anchor="start">velg CPU og minne når du</text>
+<text x="1079" y="860" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="400" fill="#5e787a" text-anchor="start">starter en tjeneste</text>
+<rect x="1374" y="530" width="487" height="454" rx="12" fill="#c4dddb" stroke="#c4dddb" stroke-width="2"/>
+<text x="1402" y="560" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#5e787a" text-anchor="start">JEG VIL</text>
+<text x="1402" y="592" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="26" font-weight="700" fill="#1e3a3f" text-anchor="start">Utvikle og dele kode</text>
+<rect x="1402" y="606" width="60" height="4" rx="0" fill="#00824d" stroke="#00824d" stroke-width="0"/>
+<text x="1402" y="640" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="18" font-weight="400" fill="#274246" text-anchor="start">Skrive kode som andre kan</text>
+<text x="1402" y="665" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="18" font-weight="400" fill="#274246" text-anchor="start">lese, kjøre og gjenbruke</text>
+<rect x="1402" y="700" width="170" height="30" rx="15.0" fill="#ffffff" stroke="#274246" stroke-width="1.5"/>
+<text x="1487.0" y="720.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#274246" text-anchor="middle">ssb-project</text>
+<text x="1586" y="712" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="400" fill="#274246" text-anchor="start">mal for nye prosjekter</text>
+<text x="1586" y="732" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="400" fill="#274246" text-anchor="start">med riktig oppsett</text>
+<rect x="1402" y="764" width="170" height="30" rx="15.0" fill="#ffffff" stroke="#274246" stroke-width="1.5"/>
+<text x="1487.0" y="784.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#274246" text-anchor="middle">GitHub</text>
+<text x="1586" y="776" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="400" fill="#274246" text-anchor="start">versjonering, pull requests</text>
+<text x="1586" y="796" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="400" fill="#274246" text-anchor="start">og samarbeid</text>
+<rect x="1402" y="828" width="170" height="30" rx="15.0" fill="#ffffff" stroke="#274246" stroke-width="1.5"/>
+<text x="1487.0" y="848.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#274246" text-anchor="middle">Kvakk</text>
+<text x="1586" y="840" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="400" fill="#274246" text-anchor="start">SSBs standarder for</text>
+<text x="1586" y="860" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="400" fill="#274246" text-anchor="start">kodekvalitet</text>
+<rect x="1402" y="892" width="170" height="30" rx="15.0" fill="#ffffff" stroke="#274246" stroke-width="1.5"/>
+<text x="1487.0" y="912.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#274246" text-anchor="middle">Godkjentlisten</text>
+<text x="1586" y="904" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="400" fill="#274246" text-anchor="start">hvilke verktøy og pakker</text>
+<text x="1586" y="924" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="400" fill="#274246" text-anchor="start">som er godkjent</text>
+<line x1="60" y1="1010" x2="1860" y2="1010" stroke="#cdd3d4" stroke-width="1"/>
+<rect x="60" y="1024" width="120" height="28" rx="14.0" fill="#ffffff" stroke="#274246" stroke-width="1.5"/>
+<text x="120.0" y="1043.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#274246" text-anchor="middle">Verktøy</text>
+<text x="192" y="1046" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#274246" text-anchor="start">I bruk</text>
+<rect x="290" y="1024" width="150" height="28" rx="14.0" fill="#ffffff" stroke="#5e787a" stroke-width="1.5" stroke-dasharray="5 4"/>
+<text x="365.0" y="1043.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#5e787a" text-anchor="middle">Verktøy</text>
+<text x="452" y="1046" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#274246" text-anchor="start">Under arbeid, forslag eller ubekreftet</text>
+<text x="1860" y="1046" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="400" fill="#5e787a" text-anchor="end">Utkast 28.09.2026 · Kilder: manual.dapla.ssb.no, godkjentlisten</text>
+</svg>
