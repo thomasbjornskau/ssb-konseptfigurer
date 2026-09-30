@@ -1,7 +1,7 @@
 # Bygg alle figurer til utdata/<serie>/ og lag PNG-forhåndsvisning.
 PY := PYTHONPATH=$(CURDIR) python3
 
-.PHONY: alle dapla faktaformidling mal forhandsvis zip rydd
+.PHONY: alle dapla faktaformidling mal nettside forhandsvis zip rydd
 
 alle: dapla faktaformidling mal
 
@@ -15,6 +15,10 @@ mal:
 	$(PY) figurer/_mal/ny_figur.py
 	$(PY) figurer/_mal/sekvens.py
 
+# Stegvis visning (Spørsmål → Konsept → Oversikt → Fokus) til nettside/site/. Åpne nettside/site/index.html.
+nettside:
+	$(PY) nettside/bygg.py
+
 forhandsvis:
 	node verktoy/forhandsvis.js
 
@@ -22,4 +26,4 @@ zip:
 	cd utdata && for d in */; do zip -qr "$${d%/}.zip" "$$d"; done
 
 rydd:
-	rm -rf utdata/* forhandsvisning
+	rm -rf utdata/* forhandsvisning nettside/site

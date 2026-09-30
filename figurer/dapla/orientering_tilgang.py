@@ -210,16 +210,21 @@ V.append(dict(
     badges=[(487, 918), (714, 918), (260, 918), (60, 906)]))
 
 
+def tegn(v):
+    """Tegner én variant (oversikt eller fokus). Brukes også av nettside/bygg.py."""
+    f = Fig(v["hi"])
+    base(f)
+    for x, y in v["badges"]:
+        f.badge(x, y, v["badges"].index((x, y)) + 1)
+    frame(f, v["title"], v["subtitle"], v["tag"], v["panel"], v["items"], numbered=bool(v["badges"]))
+    return f
+
+
 def main():
     out = utdata("dapla")
     os.makedirs(out, exist_ok=True)
     for v in V:
-        f = Fig(v["hi"])
-        base(f)
-        for x, y in v["badges"]:
-            f.badge(x, y, v["badges"].index((x, y)) + 1)
-        frame(f, v["title"], v["subtitle"], v["tag"], v["panel"], v["items"], numbered=bool(v["badges"]))
-        open(os.path.join(out, "orientering-tilgang-" + v["file"]), "w", encoding="utf-8").write(f.svg())
+        open(os.path.join(out, "orientering-tilgang-" + v["file"]), "w", encoding="utf-8").write(tegn(v).svg())
     print("ok")
 
 

@@ -17,6 +17,8 @@ Utkast per 30.09.2026. Eier av innholdet: Dapla-produkteiere og plattformteamet 
 | Bruk × Ansvar og tilgang | `bruk_tilgang.py` | 1 | Utkast |
 | Introduksjon (matrise) | `introduksjon.py` | 1 | Utkast |
 
+Nettside med stegvis visning: `nettside/site/dapla/orientering-tilgang/` (bygges med `make nettside`).
+
 Rekkefølge i sekvensen for Orientering × Ansvar og tilgang: `00-sporsmal` → `01-konsept` (A) eller `01-konsept-b` (B) → `0-oversikt` → `1`–`4` fokus.
 
 Ikke tegnet: Orientering × Prosess, Orientering × Struktur (nyttige). Bruk × Struktur er vurdert som unødvendig.

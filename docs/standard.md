@@ -37,6 +37,8 @@ Regler:
 6. **Forenkling skal ikke bli feil.** Det konseptet utelater (for eksempel tidsavgrenset tilgang til kildedata), skal vises i et fokusbilde.
 7. **Bruk sekvensen for målgrupper som ser figuren for første gang,** særlig Orientering. For vante brukere er oversikten ofte nok.
 
+Stegvis visning på nett: `nettside/bygg.py` lager en side der stegene glir over i hverandre (se README).
+
 Komponenter: `konseptfigurer/sekvens.py` (`topp`, `sone`, `sporsmal`, `plassholderpanel`, `svarpanel`, `grunnbegreper`). Mal: `figurer/_mal/sekvens.py` med `sekvens.json`.
 
 Åpne spørsmål i utprøvingen:

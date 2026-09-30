@@ -28,10 +28,20 @@ Krever Python 3.10 eller nyere (bare standardbiblioteket) og Node 18 eller nyere
 | `docs/` | `standard.md` (metoden og formfaktoren) og `adr-utkast.md` |
 | `utdata/<serie>/` | Ferdige SVG-er. Sjekkes inn, slik at de kan hentes direkte. |
 | `verktoy/` | `forhandsvis.js` lager PNG-er med riktig font |
+| `nettside/` | Stegvis visning av sekvenser for GitHub Pages: `bygg.py`, `mal.html`, `forside.html`. Bygges til `nettside/site/` (ikke sjekket inn). |
 
 ## Fire typer bilder
 
 En figurserie kan presenteres i fire steg: **Spørsmål → Konsept → Oversikt → Fokus**. Spørsmålsfoilen vekker nysgjerrighet og viser hvor svarene kommer. Konseptfoilen gir den ene ideen. Oversikten viser helheten, og fokusbildene går i dybden. Alle bruker samme geometri, så seeren kjenner seg igjen fra bilde til bilde. Metoden er til utprøving; se `docs/standard.md`.
+
+## Nettside med stegvis visning
+
+`make nettside` bygger én side per presentasjonssekvens til `nettside/site/`. Siden viser stegene etter hverandre med myke overganger: det som er likt fra bilde til bilde, blir stående; det som bare skifter farge (nedtoning i fokus), glir over; det nye tones inn. Det fungerer fordi alle bildene deler geometri, og krever ingen egen animasjonsmodell.
+
+- Navigasjon: piltaster, mellomrom, klikk i bildet eller stegknappene. F gir fullskjerm. Adressen husker steg og konseptvariant (`?konsept=B#3`).
+- Nye sekvenser legges til som en funksjon i `SEKVENSER` i `nettside/bygg.py`.
+- Publisering: `.github/workflows/pages.yml` bygger og publiserer ved push til `main`. Engangsoppsett: *Settings → Pages → Source: GitHub Actions*.
+- Bare `nettside/site/` publiseres. Legg ikke INTERN-figurer i en sekvens så lenge Pages-siden er offentlig.
 
 ## Serier
 

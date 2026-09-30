@@ -1,0 +1,246 @@
+<!doctype html>
+<html lang="nb">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{TITTEL}} · {{SERIE}}</title>
+<meta name="description" content="{{CELLE}}: stegvis visning fra spørsmål via konsept til oversikt og fokus.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --blekk: #1e3a3f; --mork: #274246; --graa: #5e787a; --linje: #cdd3d4;
+    --bakgrunn: #eef3f3; --flate: #ffffff; --teal: #c4dddb; --tealp: #eff8fa;
+    --lilla: #7d5fea; --gronn: #00824d;
+    --ut: 350ms; --farge: 650ms; --inn: 500ms; --forsinkelse: 250ms;
+  }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; }
+  body {
+    background: var(--bakgrunn); color: var(--blekk);
+    font-family: "Open Sans", "Segoe UI", Arial, sans-serif; line-height: 1.45;
+  }
+  .side { max-width: 1480px; margin: 0 auto; padding: 20px 16px 40px; }
+
+  header { display: flex; flex-wrap: wrap; gap: 12px 24px; align-items: end; justify-content: space-between; margin-bottom: 14px; }
+  .overtittel { margin: 0; font-size: .82rem; font-weight: 700; letter-spacing: .04em; text-transform: uppercase; color: var(--graa); }
+  h1 { margin: 2px 0 0; font-size: clamp(1.2rem, 2.2vw, 1.6rem); line-height: 1.2; }
+
+  .variant { display: flex; align-items: center; gap: 10px; font-size: .88rem; color: var(--graa); }
+  .variant[hidden] { display: none; }
+  .bryter { display: inline-flex; border: 1.5px solid var(--mork); border-radius: 999px; overflow: hidden; }
+  .bryter button { font: inherit; font-weight: 700; color: var(--mork); background: var(--flate); border: 0; padding: 5px 12px; cursor: pointer; }
+  .bryter button + button { border-left: 1.5px solid var(--mork); }
+  .bryter button[aria-pressed="true"] { background: var(--mork); color: #fff; }
+
+  .scene {
+    position: relative; background: var(--flate); border: 1px solid #d9e2e2; border-radius: 12px;
+    box-shadow: 0 1px 2px rgba(30,58,63,.06), 0 8px 24px rgba(30,58,63,.06); overflow: hidden; cursor: pointer;
+  }
+  .scene svg { display: block; width: 100%; height: auto; }
+  .scene:fullscreen { display: flex; align-items: center; justify-content: center; border: 0; border-radius: 0; background: #fff; }
+  .scene:fullscreen svg { width: 100%; height: 100%; max-height: 100vh; }
+
+  .el { transition: opacity var(--ut) ease, fill var(--farge) ease, stroke var(--farge) ease; }
+  .el.ny { transition: opacity var(--inn) ease var(--forsinkelse), fill var(--farge) ease, stroke var(--farge) ease; }
+  .uten-animasjon .el, .uten-animasjon .el.ny { transition: none; }
+
+  .kontroll { display: grid; grid-template-columns: auto 1fr auto; gap: 12px; align-items: center; margin-top: 14px; }
+  .pil, .fullskjerm {
+    font: inherit; font-weight: 700; color: var(--mork); background: var(--flate);
+    border: 1.5px solid var(--mork); border-radius: 999px; padding: 7px 16px; cursor: pointer; white-space: nowrap;
+  }
+  .pil:disabled { opacity: .35; cursor: default; }
+  .steg { list-style: none; margin: 0; padding: 2px; display: flex; gap: 6px; overflow-x: auto; scrollbar-width: thin; }
+  .steg button {
+    font: inherit; font-size: .88rem; color: var(--mork); background: transparent; border: 1.5px solid transparent;
+    border-radius: 8px; padding: 6px 10px; cursor: pointer; white-space: nowrap; display: flex; gap: 8px; align-items: center;
+  }
+  .steg button:hover { border-color: var(--linje); background: var(--flate); }
+  .steg .nr {
+    display: inline-grid; place-items: center; width: 22px; height: 22px; border-radius: 50%;
+    background: var(--teal); color: var(--blekk); font-size: .75rem; font-weight: 700;
+  }
+  .steg .type { color: var(--graa); font-size: .78rem; }
+  .steg button[aria-current="step"] { background: var(--blekk); color: #fff; border-color: var(--blekk); }
+  .steg button[aria-current="step"] .nr { background: #fff; color: var(--blekk); }
+  .steg button[aria-current="step"] .type { color: #c9dadb; }
+  .steg .skille { width: 1px; background: var(--linje); margin: 4px 4px; flex: none; }
+  button:focus-visible { outline: 3px solid var(--lilla); outline-offset: 2px; }
+
+  .forklaring { display: flex; flex-wrap: wrap; justify-content: space-between; gap: 8px 24px; margin-top: 14px; }
+  #tekst { margin: 0; font-size: 1.05rem; font-weight: 600; max-width: 70ch; }
+  .hint { margin: 0; font-size: .82rem; color: var(--graa); }
+  footer { margin-top: 28px; padding-top: 12px; border-top: 1px solid var(--linje); font-size: .8rem; color: var(--graa); display: flex; flex-wrap: wrap; gap: 6px 18px; justify-content: space-between; }
+  footer a { color: var(--mork); }
+
+  @media (max-width: 720px) {
+    .kontroll { grid-template-columns: 1fr 1fr; }
+    .steg { grid-column: 1 / -1; grid-row: 1; }
+    .fullskjerm { display: none; }
+    .hint { display: none; }
+  }
+  @media (prefers-reduced-motion: reduce) {
+    .el, .el.ny { transition: none; }
+  }
+</style>
+</head>
+<body>
+<div class="side">
+  <header>
+    <div>
+      <p class="overtittel">{{SERIE}} · {{CELLE}}</p>
+      <h1>{{TITTEL}}</h1>
+    </div>
+    <div class="variant" id="variant" hidden>
+      <span id="variant-tekst">Konseptvariant</span>
+      <span class="bryter" role="group" aria-labelledby="variant-tekst"></span>
+    </div>
+  </header>
+
+  <div class="scene" id="scene">
+    <svg id="lerret" viewBox="0 0 1920 1080" role="img" aria-label=""></svg>
+  </div>
+
+  <nav class="kontroll" aria-label="Steg">
+    <button class="pil" id="forrige" type="button" aria-label="Forrige steg">‹ Forrige</button>
+    <ol class="steg" id="steg"></ol>
+    <button class="pil" id="neste" type="button" aria-label="Neste steg">Neste ›</button>
+  </nav>
+
+  <div class="forklaring">
+    <p id="tekst" aria-live="polite"></p>
+    <p class="hint">Piltaster, mellomrom eller klikk i bildet. F gir fullskjerm. <button class="fullskjerm" id="fullskjerm" type="button">Fullskjerm</button></p>
+  </div>
+
+  <footer>
+    <span>{{STATUS}}</span>
+    <span><a href="../../">Alle sekvenser</a> · Laget med ssb-konseptfigurer</span>
+  </footer>
+</div>
+
+<script type="application/json" id="data">{{DATA}}</script>
+<script>
+(() => {
+  const D = JSON.parse(document.getElementById("data").textContent);
+  const NS = "http://www.w3.org/2000/svg";
+  const svg = document.getElementById("lerret");
+  const levende = new Map();          // nøkkel → DOM-node som vises nå
+  let steg = -1;
+  let variant = "A";
+
+  // --- tilstand fra adressen: #3 og ?konsept=B ---
+  const q = new URLSearchParams(location.search);
+  if (q.get("konsept") && D.konsept_varianter && D.konsept_varianter[q.get("konsept").toUpperCase()]) {
+    variant = q.get("konsept").toUpperCase();
+  }
+  const fraHash = () => Math.max(0, (parseInt(location.hash.replace("#", ""), 10) || 1) - 1);
+
+  const elementer = i => D.steg[i].varianter ? D.steg[i].varianter[variant] : D.steg[i].el;
+
+  function lag(e) {
+    const n = document.createElementNS(NS, e.t);
+    for (const [k, v] of Object.entries(e.a)) n.setAttribute(k, v);
+    if (e.i) n.innerHTML = e.i;
+    n.classList.add("el");
+    return n;
+  }
+  function farg(n, e) {
+    n.style.fill = e.c.fill || "";
+    n.style.stroke = e.c.stroke || "";
+  }
+
+  // Det som finnes i begge steg, blir stående (og glir over hvis fargen endres).
+  // Det som er nytt, tones inn litt etter at det gamle har begynt å tones ut.
+  function vis(i, direkte) {
+    i = Math.max(0, Math.min(D.steg.length - 1, i));
+    const liste = elementer(i);
+    const nokler = new Set(liste.map(e => e.k));
+    const rekke = [], nye = new Set(), ut = [];
+    for (const e of liste) {
+      let n = levende.get(e.k);
+      if (!n) { n = lag(e); farg(n, e); n.style.opacity = 0; levende.set(e.k, n); nye.add(n); }
+      rekke.push([n, e]);
+    }
+    for (const [k, n] of levende) if (!nokler.has(k)) ut.push([k, n]);
+    for (const [n] of rekke) svg.appendChild(n);   // riktig lagrekkefølge
+    for (const [, n] of ut) svg.appendChild(n);     // det som forsvinner, ligger øverst mens det tones ut
+    svg.getBoundingClientRect();                    // tving utgangstilstand før overgangen
+    document.documentElement.classList.toggle("uten-animasjon", !!direkte);
+    for (const [n, e] of rekke) { n.classList.toggle("ny", nye.has(n)); farg(n, e); n.style.opacity = 1; }
+    for (const [k, n] of ut) {
+      levende.delete(k); n.classList.remove("ny"); n.style.opacity = 0;
+      setTimeout(() => n.remove(), direkte ? 0 : 800);
+    }
+    steg = i;
+    oppdater();
+  }
+
+  // --- kontroller ---
+  const ol = document.getElementById("steg");
+  D.steg.forEach((s, i) => {
+    if (i > 0 && s.type.startsWith("Fokus") && !D.steg[i - 1].type.startsWith("Fokus")) {
+      const sk = document.createElement("li"); sk.className = "skille"; sk.setAttribute("aria-hidden", "true"); ol.appendChild(sk);
+    }
+    const li = document.createElement("li");
+    const b = document.createElement("button");
+    b.type = "button";
+    const type = s.type.startsWith("Fokus") ? `<span class="type">${s.type}</span>` : "";
+    b.innerHTML = `<span class="nr">${i + 1}</span>${type}<span>${s.kort}</span>`;
+    b.addEventListener("click", () => vis(i));
+    li.appendChild(b); ol.appendChild(li);
+  });
+  const knapper = [...ol.querySelectorAll("button")];
+
+  const bryter = document.querySelector(".bryter");
+  if (D.konsept_varianter) {
+    document.getElementById("variant").hidden = false;
+    for (const [navn, beskrivelse] of Object.entries(D.konsept_varianter)) {
+      const b = document.createElement("button");
+      b.type = "button"; b.textContent = navn; b.title = `Variant ${navn}: ${beskrivelse}`;
+      b.addEventListener("click", () => {
+        variant = navn;
+        const konsept = D.steg.findIndex(s => s.varianter);
+        vis(steg === konsept ? steg : konsept);
+      });
+      bryter.appendChild(b);
+    }
+  }
+
+  function oppdater() {
+    const s = D.steg[steg];
+    knapper.forEach((b, i) => i === steg ? b.setAttribute("aria-current", "step") : b.removeAttribute("aria-current"));
+    knapper[steg].scrollIntoView({ block: "nearest", inline: "nearest" });
+    document.getElementById("forrige").disabled = steg === 0;
+    document.getElementById("neste").disabled = steg === D.steg.length - 1;
+    const v = s.varianter ? ` (variant ${variant})` : "";
+    document.getElementById("tekst").textContent = s.tekst;
+    svg.setAttribute("aria-label", `Steg ${steg + 1} av ${D.steg.length}, ${s.type}${v}: ${s.tekst}`);
+    [...bryter.children].forEach(b => b.setAttribute("aria-pressed", b.textContent === variant));
+    const p = new URLSearchParams(location.search);
+    if (D.konsept_varianter) p.set("konsept", variant);
+    history.replaceState(null, "", `${location.pathname}?${p}#${steg + 1}`);
+  }
+
+  document.getElementById("forrige").addEventListener("click", () => vis(steg - 1));
+  document.getElementById("neste").addEventListener("click", () => vis(steg + 1));
+  const scene = document.getElementById("scene");
+  scene.addEventListener("click", ev => vis(ev.shiftKey ? steg - 1 : steg + 1));
+  const fullskjerm = () => document.fullscreenElement ? document.exitFullscreen() : scene.requestFullscreen && scene.requestFullscreen();
+  document.getElementById("fullskjerm").addEventListener("click", fullskjerm);
+  document.addEventListener("keydown", ev => {
+    if (ev.altKey || ev.ctrlKey || ev.metaKey) return;
+    if (["ArrowRight", "PageDown"].includes(ev.key) || (ev.key === " " && ev.target === document.body)) { ev.preventDefault(); vis(steg + 1); }
+    else if (["ArrowLeft", "PageUp"].includes(ev.key)) { ev.preventDefault(); vis(steg - 1); }
+    else if (ev.key === "Home") vis(0);
+    else if (ev.key === "End") vis(D.steg.length - 1);
+    else if (ev.key.toLowerCase() === "f") fullskjerm();
+  });
+  window.addEventListener("hashchange", () => { if (fraHash() !== steg) vis(fraHash()); });
+
+  vis(fraHash(), true);
+})();
+</script>
+</body>
+</html>
