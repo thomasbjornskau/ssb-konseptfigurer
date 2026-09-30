@@ -1,0 +1,34 @@
+{
+  "serie": "_mal",
+  "fil": "sekvens",
+  "dato": "30.09.2026",
+  "status": "Mal",
+  "hovedsporsmal": "Hvordan kommer data fra A til C?",
+  "grunnbegreper": [["person", "Person"], ["flate", "Tjeneste"], ["data", "Data"]],
+  "soner": [
+    {"navn": "a", "x": 60, "y": 260, "w": 380, "h": 420},
+    {"navn": "b", "x": 520, "y": 260, "w": 380, "h": 420},
+    {"navn": "c", "x": 980, "y": 260, "w": 380, "h": 420}
+  ],
+  "sporsmal": [
+    {"x": 120, "y": 440, "linjer": ["Hvor starter", "dataene?"]},
+    {"x": 580, "y": 440, "linjer": ["Hva skjer", "underveis?"]},
+    {"x": 1040, "y": 440, "linjer": ["Hvem bruker", "resultatet?"]}
+  ],
+  "konsept": {
+    "tittel": "Data går én vei, fra A via B til C",
+    "undertittel": "Det enkle bildet",
+    "regel": ["Én vei inn,", "én vei ut."],
+    "svar": [["I A.", "Der samles de inn."], ["B kontrollerer.", "Ingenting går forbi."], ["Brukerne i C.", "De ser bare resultatet."]],
+    "elementer": [
+      {"type": "data", "x": 150, "y": 400, "w": 200, "h": 140, "tekst": "Kilde"},
+      {"type": "flate", "x": 560, "y": 400, "w": 300, "h": 140, "tekst": "Kontroll"},
+      {"type": "person", "x": 1170, "y": 470, "tekst": "Brukere"},
+      {"type": "pil", "punkter": [[352, 470], [558, 470]], "tekst": "leveres"},
+      {"type": "pil", "punkter": [[862, 470], [1110, 470]], "tekst": "publiseres"},
+      {"type": "merke", "x": 250, "y": 380, "n": 1},
+      {"type": "merke", "x": 710, "y": 380, "n": 2},
+      {"type": "merke", "x": 1170, "y": 380, "n": 3}
+    ]
+  }
+}

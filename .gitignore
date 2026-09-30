@@ -1,0 +1,6 @@
+node_modules/
+forhandsvisning/
+__pycache__/
+*.pyc
+utdata/*.zip
+.DS_Store

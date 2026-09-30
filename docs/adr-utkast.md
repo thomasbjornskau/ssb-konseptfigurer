@@ -29,3 +29,7 @@ Løsning 2. Figurer lages etter `docs/standard.md`, med innhold i data og form i
 
 - Positive: konsistens, sporbarhet, raske endringer, fokusvarianter uten omtegning, tydelig status.
 - Negative: krever litt kodekompetanse for nye figurtyper. Redigering i PowerPoint er mulig, men endringer bør føres tilbake til kilden.
+
+## Tillegg (30.09.2026, til utprøving): presentasjonssekvens
+
+Tette oversiktsfigurer vises for førstegangsseere i fire steg: Spørsmål → Konsept → Oversikt → Fokus, med samme geometri gjennom hele sekvensen. Bakgrunn: tilbakemelding om informasjonsoverlast etter første visning av tilgangsfiguren. Tas inn i beslutningen når piloten er evaluert.

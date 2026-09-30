@@ -1,12 +1,12 @@
 # Register: Dapla
 
-Utkast per 28.09.2026. Eier av innholdet: Dapla-produkteiere og plattformteamet (må bekreftes).
+Utkast per 30.09.2026. Eier av innholdet: Dapla-produkteiere og plattformteamet (må bekreftes).
 
 ## Figurer
 
 | Målgruppe × perspektiv | Skript | Filer | Status |
 | --- | --- | --- | --- |
-| Orientering × Ansvar og tilgang | `orientering_tilgang.py` | 1 + 4 fokus | Utkast (laget for SCB-innlegg) |
+| Orientering × Ansvar og tilgang | `orientering_tilgang_sporsmal.py`, `orientering_tilgang_konsept.py` (A), `orientering_tilgang_konsept_b.py` (B), `orientering_tilgang.py` | spørsmål + konsept A/B + 1 + 4 fokus | Utkast. Pilot for presentasjonssekvensen |
 | Orientering × Kapabilitet | `orientering_kapabilitet.py` | 1 + 3 fokus | Utkast |
 | Teknisk × Struktur | `teknisk_struktur.py` | 1 + 5 fokus, INTERN | Utkast, må kvalitetssikres |
 | Teknisk × Prosess og flyt | `teknisk_prosess.py` | 4 figurer, INTERN | Utkast, forslag merket |
@@ -16,6 +16,8 @@ Utkast per 28.09.2026. Eier av innholdet: Dapla-produkteiere og plattformteamet 
 | Bruk × Kapabilitet | `bruk_kapabilitet.py` | 1 + 3 fokus | Utkast |
 | Bruk × Ansvar og tilgang | `bruk_tilgang.py` | 1 | Utkast |
 | Introduksjon (matrise) | `introduksjon.py` | 1 | Utkast |
+
+Rekkefølge i sekvensen for Orientering × Ansvar og tilgang: `00-sporsmal` → `01-konsept` (A) eller `01-konsept-b` (B) → `0-oversikt` → `1`–`4` fokus.
 
 Ikke tegnet: Orientering × Prosess, Orientering × Struktur (nyttige). Bruk × Struktur er vurdert som unødvendig.
 
@@ -55,4 +57,6 @@ Dapla-manualen (manual.dapla.ssb.no), ADR0015 (foreslått), ADR0017 (vedtatt 202
 - [ ] Ressursvalg (CPU/minne) ved oppstart i Dapla Lab
 - [ ] At Parquet er obligatorisk (fra godkjentlisten)
 - [ ] Status på de ni kapabilitetene og formuleringen av de fire prinsippene
+- [ ] Test konseptfoil A mot B på den opprinnelige mottakeren: hvilken gjør oversikten lettere å lese etterpå?
+- [ ] Konseptfoilene sier «ingen har fast tilgang» til kildedata. Tidsavgrenset tilgang for data-admins må vises i fokusbildet
 - [ ] Dataportal-punktet og «plattformteamet godkjenner ikke hver tilgang» i SCB-serien

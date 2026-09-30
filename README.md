@@ -21,17 +21,21 @@ Krever Python 3.10 eller nyere (bare standardbiblioteket) og Node 18 eller nyere
 
 | Mappe | Innhold |
 | --- | --- |
-| `konseptfigurer/` | Felles byggeklosser: `fig.py` (palett, former, fokus og nedtoning), `komponenter.py` (ramme, panel, tegnforklaring, flate, brikke, status), `sti.py` |
+| `konseptfigurer/` | Felles byggeklosser: `fig.py` (palett, former, fokus og nedtoning), `komponenter.py` (ramme, panel, tegnforklaring, flate, brikke, status), `sekvens.py` (spørsmåls- og konseptfoil), `sti.py` |
 | `figurer/<serie>/` | Én mappe per tema. Skriptene tegner serien. |
-| `figurer/_mal/` | Mal for nye figurer: innhold i JSON, tegning i kode. Start her. |
+| `figurer/_mal/` | Maler: `ny_figur` (oversikt og fokus) og `sekvens` (spørsmål og konsept). Innhold i JSON, tegning i kode. Start her. |
 | `register/` | Figurregister, begrepsliste og kvalitetssikringsliste per serie |
 | `docs/` | `standard.md` (metoden og formfaktoren) og `adr-utkast.md` |
 | `utdata/<serie>/` | Ferdige SVG-er. Sjekkes inn, slik at de kan hentes direkte. |
 | `verktoy/` | `forhandsvis.js` lager PNG-er med riktig font |
 
+## Fire typer bilder
+
+En figurserie kan presenteres i fire steg: **Spørsmål → Konsept → Oversikt → Fokus**. Spørsmålsfoilen vekker nysgjerrighet og viser hvor svarene kommer. Konseptfoilen gir den ene ideen. Oversikten viser helheten, og fokusbildene går i dybden. Alle bruker samme geometri, så seeren kjenner seg igjen fra bilde til bilde. Metoden er til utprøving; se `docs/standard.md`.
+
 ## Serier
 
-- **dapla** – 39 figurer: målgruppe × perspektiv (Orientering, Bruk, Teknisk × Kapabilitet, Prosess og flyt, Struktur, Ansvar og tilgang) + introduksjon.
+- **dapla** – 42 figurer: målgruppe × perspektiv (Orientering, Bruk, Teknisk × Kapabilitet, Prosess og flyt, Struktur, Ansvar og tilgang) + introduksjon. Orientering × Ansvar og tilgang har også spørsmåls- og konseptfoil (pilot).
 - **bedre-faktaformidling** – introduksjon, F1–F12 og F2c.
 
 ## Arbeidsflyt

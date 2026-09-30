@@ -6,13 +6,14 @@ PY := PYTHONPATH=$(CURDIR) python3
 alle: dapla faktaformidling mal
 
 dapla:
-	cd figurer/dapla && for f in orientering_tilgang orientering_kapabilitet teknisk_struktur teknisk_prosess teknisk_tilgang teknisk_kapabilitet bruk_prosess bruk_kapabilitet bruk_tilgang introduksjon; do $(PY) $$f.py || exit 1; done
+	cd figurer/dapla && for f in orientering_tilgang_sporsmal orientering_tilgang_konsept orientering_tilgang_konsept_b orientering_tilgang orientering_kapabilitet teknisk_struktur teknisk_prosess teknisk_tilgang teknisk_kapabilitet bruk_prosess bruk_kapabilitet bruk_tilgang introduksjon; do $(PY) $$f.py || exit 1; done
 
 faktaformidling:
 	cd figurer/bedre-faktaformidling && $(PY) figurer.py
 
 mal:
 	$(PY) figurer/_mal/ny_figur.py
+	$(PY) figurer/_mal/sekvens.py
 
 forhandsvis:
 	node verktoy/forhandsvis.js
