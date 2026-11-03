@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 733" width="1000" height="733">
+  <rect x="0" y="0" width="1000" height="733" fill="#ffffff"/>
+  <rect x="30.0" y="20.0" width="280.0" height="179.0" rx="8" fill="#eff8fa" stroke="#c4dddb" stroke-width="1.5"/>
+  <text x="42.0" y="46.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="20" font-weight="700" fill="#1e3a3f" text-anchor="start">Datadoc</text>
+  <text x="42.0" y="72.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="600" fill="#00824d" text-anchor="start">Datasett og</text>
+  <text x="42.0" y="94.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="600" fill="#00824d" text-anchor="start">variabelforekomster</text>
+  <text x="42.0" y="128.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">Ansvar: teamet som eier</text>
+  <text x="42.0" y="149.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">datasettet. Obligatorisk for</text>
+  <text x="42.0" y="170.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">klargjorte data, statistikk og</text>
+  <text x="42.0" y="191.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">utdata</text>
+  <circle cx="306.0" cy="20.0" r="13" fill="#274246"/>
+  <text x="306.0" y="25.5" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">1</text>
+  <rect x="360.0" y="20.0" width="280.0" height="179.0" rx="8" fill="#eff8fa" stroke="#c4dddb" stroke-width="1.5"/>
+  <text x="372.0" y="46.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="20" font-weight="700" fill="#1e3a3f" text-anchor="start">Vardef</text>
+  <text x="372.0" y="72.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="600" fill="#00824d" text-anchor="start">Variabeldefinisjoner</text>
+  <text x="372.0" y="102.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">Ansvar: ansvarlig Dapla-team.</text>
+  <text x="372.0" y="123.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">Dokumenteres ett sted og</text>
+  <text x="372.0" y="144.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">gjenbrukes av alle</text>
+  <circle cx="636.0" cy="20.0" r="13" fill="#274246"/>
+  <text x="636.0" y="25.5" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">2</text>
+  <rect x="690.0" y="20.0" width="280.0" height="179.0" rx="8" fill="#eff8fa" stroke="#c4dddb" stroke-width="1.5"/>
+  <text x="702.0" y="46.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="20" font-weight="700" fill="#1e3a3f" text-anchor="start">Klass</text>
+  <text x="702.0" y="72.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="600" fill="#00824d" text-anchor="start">Kodeverk: klassifikasjoner og</text>
+  <text x="702.0" y="94.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="600" fill="#00824d" text-anchor="start">kodelister</text>
+  <text x="702.0" y="128.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">Ansvar: eierseksjonen. Brukes fra</text>
+  <text x="702.0" y="149.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">Dapla. Ikke besluttet om den skal</text>
+  <text x="702.0" y="170.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">flyttes</text>
+  <circle cx="966.0" cy="20.0" r="13" fill="#274246"/>
+  <text x="966.0" y="25.5" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">3</text>
+  <polyline points="310.0,109.5 351.2,109.5" fill="none" stroke="#274246" stroke-width="1.8" stroke-linejoin="round"/>
+  <polygon points="360.0,109.5 349.0,103.5 349.0,115.5" fill="#274246" stroke="none" stroke-width="1"/>
+  <polyline points="640.0,109.5 681.2,109.5" fill="none" stroke="#274246" stroke-width="1.8" stroke-linejoin="round"/>
+  <polygon points="690.0,109.5 679.0,103.5 679.0,115.5" fill="#274246" stroke="none" stroke-width="1"/>
+  <polyline points="170.0,199.0 170.0,221.0 830.0,221.0 830.0,207.8" fill="none" stroke="#274246" stroke-width="1.8" stroke-linejoin="round"/>
+  <polygon points="830.0,199.0 824.0,210.0 836.0,210.0" fill="#274246" stroke="none" stroke-width="1"/>
+  <rect x="337.9" y="211.8" width="324.3" height="21.6" rx="4" fill="#ffffff" stroke="none" stroke-width="1.5"/>
+  <text x="500.0" y="227.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="middle">Datadoc kan også referere direkte til Klass</text>
+  <text x="30.0" y="269.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" fill="#1e3a3f" text-anchor="start">Eksempel: sivilstand</text>
+  <rect x="30.0" y="285.0" width="280.0" height="184.0" rx="8" fill="#ffffff" stroke="#cdd3d4" stroke-width="1.4"/>
+  <text x="42.0" y="313.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" fill="#1e3a3f" text-anchor="start">Et datasett</text>
+  <rect x="42.0" y="329.0" width="40.9" height="28.0" rx="14.0" fill="#ffffff" stroke="#cdd3d4" stroke-width="1.3"/>
+  <text x="62.4" y="348.8" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="600" fill="#1e3a3f" text-anchor="middle">fnr</text>
+  <rect x="88.9" y="329.0" width="57.8" height="28.0" rx="14.0" fill="#ffffff" stroke="#cdd3d4" stroke-width="1.3"/>
+  <text x="117.8" y="348.8" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="600" fill="#1e3a3f" text-anchor="middle">alder</text>
+  <rect x="152.7" y="329.0" width="52.9" height="28.0" rx="14.0" fill="#ecfeed" stroke="#00824d" stroke-width="1.3"/>
+  <text x="179.2" y="348.8" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="600" fill="#1e3a3f" text-anchor="middle">sivst</text>
+  <rect x="211.7" y="329.0" width="73.9" height="28.0" rx="14.0" fill="#ffffff" stroke="#cdd3d4" stroke-width="1.3"/>
+  <text x="248.6" y="348.8" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="600" fill="#1e3a3f" text-anchor="middle">inntekt</text>
+  <text x="42.0" y="395.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">Beskrivelse, eier, datatilstand og</text>
+  <text x="42.0" y="416.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">personopplysninger for</text>
+  <text x="42.0" y="437.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">datasettet. For hver kolonne:</text>
+  <text x="42.0" y="458.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">lenke til Vardef</text>
+  <rect x="360.0" y="285.0" width="280.0" height="184.0" rx="8" fill="#ffffff" stroke="#cdd3d4" stroke-width="1.4"/>
+  <text x="372.0" y="313.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" fill="#1e3a3f" text-anchor="start">Sivilstand</text>
+  <text x="372.0" y="341.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#1e3a3f" text-anchor="start">«Variabelen viser en persons</text>
+  <text x="372.0" y="362.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#1e3a3f" text-anchor="start">stilling ihht</text>
+  <text x="372.0" y="383.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#1e3a3f" text-anchor="start">ekteskapslovgivningen»</text>
+  <text x="372.0" y="415.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">Datadoc kan presisere</text>
+  <text x="372.0" y="436.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">definisjonen for det enkelte</text>
+  <text x="372.0" y="457.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">datasettet</text>
+  <rect x="690.0" y="285.0" width="280.0" height="184.0" rx="8" fill="#ffffff" stroke="#cdd3d4" stroke-width="1.4"/>
+  <text x="702.0" y="313.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" fill="#1e3a3f" text-anchor="start">Standard for sivilstand</text>
+  <text x="702.0" y="341.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#1e3a3f" text-anchor="start">Kategoriene og kodene variabelen</text>
+  <text x="702.0" y="362.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#1e3a3f" text-anchor="start">kan ha</text>
+  <text x="702.0" y="415.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">Kan hentes via API eller lastes ned</text>
+  <text x="702.0" y="436.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">som csv</text>
+  <polyline points="310.0,345.0 351.2,345.0" fill="none" stroke="#274246" stroke-width="1.8" stroke-linejoin="round"/>
+  <polygon points="360.0,345.0 349.0,338.9 349.0,351.1" fill="#274246" stroke="none" stroke-width="1"/>
+  <rect x="313.5" y="359.8" width="43.0" height="21.6" rx="4" fill="#ffffff" stroke="none" stroke-width="1.5"/>
+  <text x="335.0" y="375.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="middle">sivst</text>
+  <polyline points="640.0,345.0 681.2,345.0" fill="none" stroke="#274246" stroke-width="1.8" stroke-linejoin="round"/>
+  <polygon points="690.0,345.0 679.0,338.9 679.0,351.1" fill="#274246" stroke="none" stroke-width="1"/>
+  <rect x="30.0" y="499.0" width="610.0" height="112.0" rx="8" fill="#f3f5f5" stroke="#b9c5c6" stroke-width="1.5" stroke-dasharray="6 4"/>
+  <text x="42.0" y="526.3" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" fill="#5e787a" text-anchor="start">Datakatalog · planlagt</text>
+  <text x="42.0" y="555.3" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">En portal for å søke i alle metadataene. Skal implementeres etter hvert</text>
+  <rect x="690.0" y="499.0" width="280.0" height="112.0" rx="8" fill="#f3f5f5" stroke="#b9c5c6" stroke-width="1.5"/>
+  <text x="702.0" y="526.3" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" fill="#5e787a" text-anchor="start">Vardok og Datadok</text>
+  <text x="702.0" y="555.3" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">Kan ikke brukes på Dapla.</text>
+  <text x="702.0" y="576.3" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">Relevante variabler fra Vardok</text>
+  <text x="702.0" y="597.3" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">flyttes til Vardef</text>
+  <line x1="30.0" y1="645.0" x2="970.0" y2="645.0" stroke="#cdd3d4" stroke-width="1"/>
+  <rect x="32.0" y="659.0" width="24.0" height="16.0" rx="3" fill="#eff8fa" stroke="#c4dddb" stroke-width="1.3"/>
+  <text x="66.0" y="673.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">Plattform og tjenester</text>
+  <rect x="253.4" y="659.0" width="24.0" height="16.0" rx="3" fill="#ecfeed" stroke="#00824d" stroke-width="1.3"/>
+  <text x="287.4" y="673.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">Data</text>
+  <rect x="346.5" y="659.0" width="24.0" height="16.0" rx="3" fill="#f3f5f5" stroke="#b9c5c6" stroke-width="1.3"/>
+  <text x="380.5" y="673.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">Utfaset eller utenfor Dapla</text>
+  <polyline points="600.6,668.0 622.2,668.0" fill="none" stroke="#274246" stroke-width="1.8" stroke-linejoin="round"/>
+  <polygon points="628.6,668.0 620.6,663.6 620.6,672.4" fill="#274246" stroke="none" stroke-width="1"/>
+  <text x="636.6" y="673.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">Refererer til</text>
+  <rect x="749.4" y="659.0" width="24.0" height="16.0" rx="3" fill="#f3f5f5" stroke="#b9c5c6" stroke-width="1.3" stroke-dasharray="4 3"/>
+  <text x="783.4" y="673.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">Planlagt</text>
+  <circle cx="44.0" cy="693.0" r="10" fill="#274246"/>
+  <text x="44.0" y="698.5" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">1</text>
+  <text x="66.0" y="699.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">Forklares i teksten</text>
+  <text x="970.0" y="721.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="end">Kilde: Dapla-manualen, Metadata · Datadoc · Vardef · Klass · Utkast 03.11.2026</text>
+</svg>
