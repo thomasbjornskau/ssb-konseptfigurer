@@ -2,7 +2,7 @@
 
 Tretten konseptfigurer til [Dapla-manualen](https://manual.dapla.ssb.no/statistikkere/), laget for manualens innholdskolonne. Innholdet er sjekket mot manualen, som er fasit. Avvik og tolkninger står i [KVALITETSSIKRING.md](KVALITETSSIKRING.md).
 
-**Status:** Utkast 03.11.2026, ikke faglig kontrollert. Hver figur har kildelinje og dato i bunnteksten.
+**Status:** Utkast 09.11.2026, ikke faglig kontrollert. Tilpasset SSBs profilhåndbok samme dag. Hver figur har kildelinje og dato i bunnteksten.
 
 ## Innhold
 
@@ -35,11 +35,16 @@ dapla-manualfigurer/
 
 ## Format
 
-- viewBox 1000 px bred, høyden varierer (670–830 px). Minste tekst er 16 px, som vises som ca. 13 px i en kolonne på 800 px.
+- viewBox 1000 px bred, høyden varierer (660–830 px). Minste tekst er 16 px, som vises som ca. 13 px i en kolonne på 800 px.
 - Figurene har ingen tittel og ikke noe forklaringspanel. Bildeteksten i Quarto er tittelen. De nummererte markørene forklares i teksten rett under figuren.
 - Tegnforklaring og kildelinje er alltid med, slik at figuren kan brukes alene.
 - Hvit bakgrunn er lagt inn. Figurene tåler derfor også mørk visning, men er bare testet på lys.
-- Font: Open Sans, med reserve Segoe UI og Arial.
+- Følger [SSBs profilhåndbok](https://profil.ssb.no/):
+  - Mellomtitler og boksnavn i Roboto Bold, all annen tekst i Open Sans. Reservefont er Arial.
+  - Profilfargene mørk, grønn og lilla, med hex-verdier fra profilhåndboken.
+  - 2 px hjørner på bokser, 1 px rammer og 2 px piler. Ingen skygger eller gradienter.
+  - Merknader står i faktabokser med grønn aksentkant til venstre.
+- Unntak: kode, kommandoer og filstier står i en monospace-font, som i manualen.
 - Bare grunnleggende SVG-elementer, ingen CSS, ingen filtre. Figurene kan settes rett inn i PowerPoint.
 
 Slik settes en figur inn i Quarto:
@@ -56,13 +61,14 @@ Slik settes en figur inn i Quarto:
 | Grønn | Data. Sterkere grønn = kildedata |
 | Lilla | Roller, grupper og team |
 | Grå | Utenfor Dapla, utfaset eller planlagt |
+| Lys blågrønn med grønn kant | Faktaboks: merknad som hører til figuren |
 | Stiplet ramme | Valgfritt, kan skrus på eller ikke obligatorisk (står i tegnforklaringen) |
 
 Piler: grønn heltrukken = dataflyt, lilla heltrukken = fast tilgang, lilla stiplet = tidsavgrenset tilgang (JIT), mørk = styrer, godkjenner eller henter, grønn prikket = deling, grå = neste steg.
 
 ---
 
-Figurene er tegnet med Open Sans. Har ikke maskinen fonten, brukes Segoe UI eller Arial, og teksten blir litt bredere eller smalere enn i PNG-ene. Bruk PNG-ene som fasit for utseendet.
+Figurene er tegnet med Roboto og Open Sans. Har ikke maskinen fontene, brukes Arial, og teksten blir litt bredere eller smalere enn i PNG-ene. Bruk PNG-ene som fasit for utseendet.
 
 ## Figurene
 

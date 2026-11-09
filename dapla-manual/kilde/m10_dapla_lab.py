@@ -58,8 +58,8 @@ def m10():
 
     # Miljø
     ey = 580
-    f.rect(30, ey, 940, 58, C["out2"], "none", rx=8)
-    f.para(46, ey + 24, "Prodbøttene nås fra Dapla Lab i prod (lab.dapla.ssb.no). Teamets testbøtter nås fra "
+    f.notebox(30, ey, 940, 58)
+    f.para(50, ey + 24, "Prodbøttene nås fra Dapla Lab i prod (lab.dapla.ssb.no). Teamets testbøtter nås fra "
            "testmiljøet til Dapla Lab. Pause eller avslutt tjenester du ikke bruker: de reserverer ressurser "
            "SSB betaler for.", 908, 16, 400, C["ink"])
     f.h = ey + 58 + 30 + 92

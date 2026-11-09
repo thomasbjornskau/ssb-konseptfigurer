@@ -53,8 +53,8 @@ def m04():
 
     # Merknad om Delomaten
     yn = y + 16 + hs + 48
-    f.rect(30, yn - 22, 940, 58, C["out2"], "none", rx=8)
-    f.para(46, yn, "Delomaten brukes unntaksvis. Diskuter formålet med nærmeste leder og rådfør deg gjerne med "
+    f.notebox(30, yn - 22, 940, 58)
+    f.para(50, yn, "Delomaten brukes unntaksvis. Diskuter formålet med nærmeste leder og rådfør deg gjerne med "
            "personvernombudet. Dataene må være dokumentert i Datadoc, også hvordan de er pseudonymisert.",
            908, 16, 400, C["ink"])
 

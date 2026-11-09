@@ -1,104 +1,104 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 708" width="1000" height="708">
   <rect x="0" y="0" width="1000" height="708" fill="#ffffff"/>
-  <rect x="30.0" y="16.0" width="940.0" height="160.0" rx="12" fill="#eff8fa" stroke="#c4dddb" stroke-width="1.5"/>
-  <text x="44.0" y="42.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" fill="#1e3a3f" text-anchor="start">GitHub</text>
-  <text x="117.3" y="42.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">origin</text>
-  <rect x="30.0" y="192.0" width="940.0" height="170.0" rx="12" fill="#ffffff" stroke="#cdd3d4" stroke-width="1.5"/>
-  <text x="44.0" y="348.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" fill="#1e3a3f" text-anchor="start">Ditt lokale repo</text>
-  <text x="194.0" y="348.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">for eksempel i en tjeneste i Dapla Lab</text>
-  <line x1="60.0" y1="74.0" x2="950.0" y2="74.0" stroke="#274246" stroke-width="4"/>
-  <text x="950.0" y="62.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#274246" text-anchor="end">main</text>
+  <rect x="30.0" y="16.0" width="940.0" height="160.0" rx="2" fill="#f0f8f9" stroke="#c3dcdc" stroke-width="1"/>
+  <text x="44.0" y="42.0" font-family="Roboto, Arial, sans-serif" font-size="18" font-weight="700" fill="#274247" text-anchor="start">GitHub</text>
+  <text x="110.0" y="42.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">origin</text>
+  <rect x="30.0" y="192.0" width="940.0" height="170.0" rx="2" fill="#ffffff" stroke="#cdd3d4" stroke-width="1"/>
+  <text x="44.0" y="348.0" font-family="Roboto, Arial, sans-serif" font-size="18" font-weight="700" fill="#274247" text-anchor="start">Ditt lokale repo</text>
+  <text x="176.7" y="348.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">for eksempel i en tjeneste i Dapla Lab</text>
+  <line x1="60.0" y1="74.0" x2="950.0" y2="74.0" stroke="#274247" stroke-width="4"/>
+  <text x="950.0" y="62.0" font-family="Roboto, Arial, sans-serif" font-size="16" font-weight="700" fill="#274247" text-anchor="end">main</text>
   <line x1="430.0" y1="132.0" x2="820.0" y2="132.0" stroke="#5e787a" stroke-width="3"/>
   <text x="700.0" y="158.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">grenen på GitHub</text>
-  <line x1="60.0" y1="252.0" x2="200.0" y2="252.0" stroke="#274246" stroke-width="4"/>
-  <text x="60.0" y="240.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#274246" text-anchor="start">main</text>
+  <line x1="60.0" y1="252.0" x2="200.0" y2="252.0" stroke="#274247" stroke-width="4"/>
+  <text x="60.0" y="240.0" font-family="Roboto, Arial, sans-serif" font-size="16" font-weight="700" fill="#274247" text-anchor="start">main</text>
   <path d="M180,252 C205,252 205,308 235,308 L700,308" fill="none" stroke="#5e787a" stroke-width="3"/>
   <text x="710.0" y="314.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">din gren</text>
-  <circle cx="130" cy="74" r="8" fill="#ffffff" stroke="#274246" stroke-width="3"/>
-  <circle cx="130" cy="252" r="8" fill="#ffffff" stroke="#274246" stroke-width="3"/>
-  <polyline points="130.0,84.0 130.0,233.2" fill="none" stroke="#274246" stroke-width="1.8" stroke-linejoin="round"/>
-  <polygon points="130.0,242.0 136.1,231.0 124.0,231.0" fill="#274246" stroke="none" stroke-width="1"/>
-  <rect x="141.1" y="144.8" width="37.7" height="21.6" rx="4" fill="#ffffff" stroke="none" stroke-width="1.5"/>
+  <circle cx="130" cy="74" r="8" fill="#ffffff" stroke="#274247" stroke-width="3"/>
+  <circle cx="130" cy="252" r="8" fill="#ffffff" stroke="#274247" stroke-width="3"/>
+  <polyline points="130.0,84.0 130.0,233.2" fill="none" stroke="#274247" stroke-width="2" stroke-linejoin="round"/>
+  <polygon points="130.0,242.0 136.1,231.0 124.0,231.0" fill="#274247" stroke="none" stroke-width="1"/>
+  <rect x="141.1" y="144.8" width="37.7" height="21.6" rx="2" fill="#ffffff" stroke="none" stroke-width="1"/>
   <text x="160.0" y="160.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="middle">pull</text>
-  <circle cx="180" cy="252" r="8" fill="#ffffff" stroke="#274246" stroke-width="3"/>
+  <circle cx="180" cy="252" r="8" fill="#ffffff" stroke="#274247" stroke-width="3"/>
   <circle cx="290" cy="308" r="8" fill="#ffffff" stroke="#5e787a" stroke-width="3"/>
   <circle cx="360" cy="308" r="8" fill="#ffffff" stroke="#5e787a" stroke-width="3"/>
   <circle cx="430" cy="308" r="8" fill="#ffffff" stroke="#5e787a" stroke-width="3"/>
-  <polyline points="430.0,298.0 430.0,150.8" fill="none" stroke="#274246" stroke-width="1.8" stroke-linejoin="round"/>
-  <polygon points="430.0,142.0 423.9,153.0 436.1,153.0" fill="#274246" stroke="none" stroke-width="1"/>
+  <polyline points="430.0,298.0 430.0,150.8" fill="none" stroke="#274247" stroke-width="2" stroke-linejoin="round"/>
+  <polygon points="430.0,142.0 423.9,153.0 436.1,153.0" fill="#274247" stroke="none" stroke-width="1"/>
   <circle cx="430" cy="132" r="8" fill="#ffffff" stroke="#5e787a" stroke-width="3"/>
-  <rect x="446.5" y="216.8" width="47.0" height="21.6" rx="4" fill="#ffffff" stroke="none" stroke-width="1.5"/>
+  <rect x="446.5" y="216.8" width="47.0" height="21.6" rx="2" fill="#ffffff" stroke="none" stroke-width="1"/>
   <text x="470.0" y="232.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="middle">push</text>
-  <circle cx="560" cy="74" r="8" fill="#ffffff" stroke="#274246" stroke-width="3"/>
-  <polyline points="560.0,84.0 560.0,289.2" fill="none" stroke="#274246" stroke-width="1.8" stroke-linejoin="round"/>
-  <polygon points="560.0,298.0 566.0,287.0 554.0,287.0" fill="#274246" stroke="none" stroke-width="1"/>
+  <circle cx="560" cy="74" r="8" fill="#ffffff" stroke="#274247" stroke-width="3"/>
+  <polyline points="560.0,84.0 560.0,289.2" fill="none" stroke="#274247" stroke-width="2" stroke-linejoin="round"/>
+  <polygon points="560.0,298.0 566.0,287.0 554.0,287.0" fill="#274247" stroke="none" stroke-width="1"/>
   <circle cx="560" cy="308" r="8" fill="#ffffff" stroke="#5e787a" stroke-width="3"/>
-  <polyline points="640.0,298.0 640.0,150.8" fill="none" stroke="#274246" stroke-width="1.8" stroke-linejoin="round"/>
-  <polygon points="640.0,142.0 634.0,153.0 646.0,153.0" fill="#274246" stroke="none" stroke-width="1"/>
+  <polyline points="640.0,298.0 640.0,150.8" fill="none" stroke="#274247" stroke-width="2" stroke-linejoin="round"/>
+  <polygon points="640.0,142.0 634.0,153.0 646.0,153.0" fill="#274247" stroke="none" stroke-width="1"/>
   <circle cx="640" cy="308" r="8" fill="#ffffff" stroke="#5e787a" stroke-width="3"/>
   <circle cx="640" cy="132" r="8" fill="#ffffff" stroke="#5e787a" stroke-width="3"/>
-  <rect x="538.9" y="216.8" width="122.2" height="21.6" rx="4" fill="#ffffff" stroke="none" stroke-width="1.5"/>
+  <rect x="538.9" y="216.8" width="122.2" height="21.6" rx="2" fill="#ffffff" stroke="none" stroke-width="1"/>
   <text x="600.0" y="232.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="middle">fetch og merge</text>
-  <polyline points="820.0,132.0 863.7,90.1" fill="none" stroke="#274246" stroke-width="1.8" stroke-linejoin="round"/>
-  <polygon points="870.0,84.0 857.9,87.3 866.3,96.0" fill="#274246" stroke="none" stroke-width="1"/>
+  <polyline points="820.0,132.0 863.7,90.1" fill="none" stroke="#274247" stroke-width="2" stroke-linejoin="round"/>
+  <polygon points="870.0,84.0 857.9,87.3 866.3,96.0" fill="#274247" stroke="none" stroke-width="1"/>
   <circle cx="820" cy="132" r="8" fill="#ffffff" stroke="#5e787a" stroke-width="3"/>
-  <circle cx="870" cy="74" r="8" fill="#ffffff" stroke="#274246" stroke-width="3"/>
-  <rect x="720.3" y="86.8" width="99.3" height="21.6" rx="4" fill="#ffffff" stroke="none" stroke-width="1.5"/>
+  <circle cx="870" cy="74" r="8" fill="#ffffff" stroke="#274247" stroke-width="3"/>
+  <rect x="720.3" y="86.8" width="99.3" height="21.6" rx="2" fill="#ffffff" stroke="none" stroke-width="1"/>
   <text x="770.0" y="102.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="middle">pull request</text>
-  <circle cx="130.0" cy="286.0" r="13" fill="#274246"/>
+  <circle cx="130.0" cy="286.0" r="13" fill="#274247"/>
   <text x="130.0" y="291.5" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">1</text>
-  <circle cx="180.0" cy="286.0" r="13" fill="#274246"/>
+  <circle cx="180.0" cy="286.0" r="13" fill="#274247"/>
   <text x="180.0" y="291.5" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">2</text>
-  <circle cx="360.0" cy="280.0" r="13" fill="#274246"/>
+  <circle cx="360.0" cy="280.0" r="13" fill="#274247"/>
   <text x="360.0" y="285.5" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">3</text>
-  <circle cx="600.0" cy="280.0" r="13" fill="#274246"/>
+  <circle cx="600.0" cy="280.0" r="13" fill="#274247"/>
   <text x="600.0" y="285.5" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">4</text>
-  <circle cx="870.0" cy="44.0" r="13" fill="#274246"/>
+  <circle cx="870.0" cy="44.0" r="13" fill="#274247"/>
   <text x="870.0" y="49.5" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">5</text>
-  <rect x="30.0" y="398.0" width="166.0" height="194.0" rx="8" fill="#ffffff" stroke="#cdd3d4" stroke-width="1.4"/>
-  <circle cx="34.0" cy="398.0" r="13" fill="#274246"/>
+  <rect x="30.0" y="398.0" width="166.0" height="194.0" rx="2" fill="#ffffff" stroke="#cdd3d4" stroke-width="1"/>
+  <circle cx="34.0" cy="398.0" r="13" fill="#274247"/>
   <text x="34.0" y="403.5" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">1</text>
-  <text x="41.0" y="432.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" fill="#1e3a3f" text-anchor="start">Oppdater main</text>
-  <text x="41.0" y="462.0" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="16" font-weight="400" fill="#1e3a3f" text-anchor="start">git switch main</text>
-  <text x="41.0" y="486.0" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="16" font-weight="400" fill="#1e3a3f" text-anchor="start">git pull</text>
-  <rect x="202.0" y="398.0" width="214.0" height="194.0" rx="8" fill="#ffffff" stroke="#cdd3d4" stroke-width="1.4"/>
-  <circle cx="206.0" cy="398.0" r="13" fill="#274246"/>
+  <text x="41.0" y="432.0" font-family="Roboto, Arial, sans-serif" font-size="17" font-weight="700" fill="#274247" text-anchor="start">Oppdater main</text>
+  <text x="41.0" y="462.0" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="16" font-weight="400" fill="#274247" text-anchor="start">git switch main</text>
+  <text x="41.0" y="486.0" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="16" font-weight="400" fill="#274247" text-anchor="start">git pull</text>
+  <rect x="202.0" y="398.0" width="214.0" height="194.0" rx="2" fill="#ffffff" stroke="#cdd3d4" stroke-width="1"/>
+  <circle cx="206.0" cy="398.0" r="13" fill="#274247"/>
   <text x="206.0" y="403.5" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">2</text>
-  <text x="213.0" y="432.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" fill="#1e3a3f" text-anchor="start">Lag ny gren</text>
-  <text x="213.0" y="462.0" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="16" font-weight="400" fill="#1e3a3f" text-anchor="start">git switch -c ‹gren›</text>
-  <rect x="422.0" y="398.0" width="185.2" height="194.0" rx="8" fill="#ffffff" stroke="#cdd3d4" stroke-width="1.4"/>
-  <circle cx="426.0" cy="398.0" r="13" fill="#274246"/>
+  <text x="213.0" y="432.0" font-family="Roboto, Arial, sans-serif" font-size="17" font-weight="700" fill="#274247" text-anchor="start">Lag ny gren</text>
+  <text x="213.0" y="462.0" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="16" font-weight="400" fill="#274247" text-anchor="start">git switch -c ‹gren›</text>
+  <rect x="422.0" y="398.0" width="185.2" height="194.0" rx="2" fill="#ffffff" stroke="#cdd3d4" stroke-width="1"/>
+  <circle cx="426.0" cy="398.0" r="13" fill="#274247"/>
   <text x="426.0" y="403.5" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">3</text>
-  <text x="433.0" y="432.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" fill="#1e3a3f" text-anchor="start">Endre og lagre</text>
-  <text x="433.0" y="462.0" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="16" font-weight="400" fill="#1e3a3f" text-anchor="start">git status</text>
-  <text x="433.0" y="486.0" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="16" font-weight="400" fill="#1e3a3f" text-anchor="start">git add ‹fil›</text>
-  <text x="433.0" y="510.0" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="16" font-weight="400" fill="#1e3a3f" text-anchor="start">git commit -m "…"</text>
-  <text x="433.0" y="534.0" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="16" font-weight="400" fill="#1e3a3f" text-anchor="start">git push</text>
+  <text x="433.0" y="432.0" font-family="Roboto, Arial, sans-serif" font-size="17" font-weight="700" fill="#274247" text-anchor="start">Endre og lagre</text>
+  <text x="433.0" y="462.0" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="16" font-weight="400" fill="#274247" text-anchor="start">git status</text>
+  <text x="433.0" y="486.0" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="16" font-weight="400" fill="#274247" text-anchor="start">git add ‹fil›</text>
+  <text x="433.0" y="510.0" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="16" font-weight="400" fill="#274247" text-anchor="start">git commit -m "…"</text>
+  <text x="433.0" y="534.0" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="16" font-weight="400" fill="#274247" text-anchor="start">git push</text>
   <text x="433.0" y="560.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">Gjentas til oppgaven</text>
   <text x="433.0" y="581.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">er ferdig</text>
-  <rect x="613.2" y="398.0" width="223.6" height="194.0" rx="8" fill="#ffffff" stroke="#cdd3d4" stroke-width="1.4"/>
-  <circle cx="617.2" cy="398.0" r="13" fill="#274246"/>
+  <rect x="613.2" y="398.0" width="223.6" height="194.0" rx="2" fill="#ffffff" stroke="#cdd3d4" stroke-width="1"/>
+  <circle cx="617.2" cy="398.0" r="13" fill="#274247"/>
   <text x="617.2" y="403.5" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">4</text>
-  <text x="624.2" y="432.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" fill="#1e3a3f" text-anchor="start">Sjekk for konflikt</text>
-  <text x="624.2" y="462.0" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="16" font-weight="400" fill="#1e3a3f" text-anchor="start">git fetch</text>
-  <text x="624.2" y="486.0" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="16" font-weight="400" fill="#1e3a3f" text-anchor="start">git merge origin/main</text>
-  <text x="624.2" y="510.0" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="16" font-weight="400" fill="#1e3a3f" text-anchor="start">git push</text>
+  <text x="624.2" y="432.0" font-family="Roboto, Arial, sans-serif" font-size="17" font-weight="700" fill="#274247" text-anchor="start">Sjekk for konflikt</text>
+  <text x="624.2" y="462.0" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="16" font-weight="400" fill="#274247" text-anchor="start">git fetch</text>
+  <text x="624.2" y="486.0" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="16" font-weight="400" fill="#274247" text-anchor="start">git merge origin/main</text>
+  <text x="624.2" y="510.0" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="16" font-weight="400" fill="#274247" text-anchor="start">git push</text>
   <text x="624.2" y="536.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">Lettere å løse lokalt enn på</text>
   <text x="624.2" y="557.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">GitHub</text>
-  <rect x="842.8" y="398.0" width="127.2" height="194.0" rx="8" fill="#ffffff" stroke="#cdd3d4" stroke-width="1.4"/>
-  <circle cx="846.8" cy="398.0" r="13" fill="#274246"/>
+  <rect x="842.8" y="398.0" width="127.2" height="194.0" rx="2" fill="#ffffff" stroke="#cdd3d4" stroke-width="1"/>
+  <circle cx="846.8" cy="398.0" r="13" fill="#274247"/>
   <text x="846.8" y="403.5" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">5</text>
-  <text x="853.8" y="432.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" fill="#1e3a3f" text-anchor="start">Pull request</text>
+  <text x="853.8" y="432.0" font-family="Roboto, Arial, sans-serif" font-size="17" font-weight="700" fill="#274247" text-anchor="start">Pull request</text>
   <text x="853.8" y="462.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">Be en kollega</text>
   <text x="853.8" y="483.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">se over.</text>
   <text x="853.8" y="504.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">Merge og slett</text>
   <text x="853.8" y="525.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">grenen</text>
   <line x1="30.0" y1="620.0" x2="970.0" y2="620.0" stroke="#cdd3d4" stroke-width="1"/>
-  <polyline points="30.0,643.0 51.6,643.0" fill="none" stroke="#274246" stroke-width="1.8" stroke-linejoin="round"/>
-  <polygon points="58.0,643.0 50.0,638.6 50.0,647.4" fill="#274246" stroke="none" stroke-width="1"/>
+  <polyline points="30.0,643.0 51.6,643.0" fill="none" stroke="#274247" stroke-width="2" stroke-linejoin="round"/>
+  <polygon points="58.0,643.0 50.0,638.6 50.0,647.4" fill="#274247" stroke="none" stroke-width="1"/>
   <text x="66.0" y="648.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">Git-operasjon</text>
-  <circle cx="203.5" cy="642.0" r="10" fill="#274246"/>
+  <circle cx="203.5" cy="642.0" r="10" fill="#274247"/>
   <text x="203.5" y="647.5" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">1</text>
   <text x="225.5" y="648.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">Forklares i teksten</text>
-  <text x="970.0" y="696.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="end">Kilde: Dapla-manualen, Anbefalt arbeidsflyt med Git · Utkast 03.11.2026</text>
+  <text x="970.0" y="696.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="end">Kilde: Dapla-manualen, Anbefalt arbeidsflyt med Git · Utkast 09.11.2026</text>
 </svg>

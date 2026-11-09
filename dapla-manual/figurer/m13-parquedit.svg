@@ -1,139 +1,139 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 815" width="1000" height="815">
   <rect x="0" y="0" width="1000" height="815" fill="#ffffff"/>
-  <rect x="30.0" y="16.0" width="280.0" height="448.0" rx="12" fill="#eff8fa" stroke="#c4dddb" stroke-width="1.5"/>
-  <text x="44.0" y="42.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" fill="#1e3a3f" text-anchor="start">Dapla Lab</text>
-  <text x="143.1" y="42.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">grensesnitt</text>
-  <circle cx="306.0" cy="16.0" r="13" fill="#274246"/>
+  <rect x="30.0" y="16.0" width="280.0" height="448.0" rx="2" fill="#f0f8f9" stroke="#c3dcdc" stroke-width="1"/>
+  <text x="44.0" y="42.0" font-family="Roboto, Arial, sans-serif" font-size="18" font-weight="700" fill="#274247" text-anchor="start">Dapla Lab</text>
+  <text x="133.8" y="42.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">grensesnitt</text>
+  <circle cx="306.0" cy="16.0" r="13" fill="#274247"/>
   <text x="306.0" y="21.5" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">1</text>
-  <rect x="46.0" y="52.0" width="248.0" height="82.0" rx="8" fill="#f1f1fe" stroke="#7d5fea" stroke-width="1.5"/>
+  <rect x="46.0" y="52.0" width="248.0" height="82.0" rx="2" fill="#f2f0ff" stroke="#7e5ee8" stroke-width="1"/>
   <text x="56.0" y="75.6" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#4b2fb0" text-anchor="start">Startes som et team og en</text>
   <text x="56.0" y="96.6" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#4b2fb0" text-anchor="start">tilgangsgruppe, for eksempel</text>
   <text x="56.0" y="117.6" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#4b2fb0" text-anchor="start">developers</text>
-  <rect x="46.0" y="150.0" width="248.0" height="87.0" rx="8" fill="#ffffff" stroke="#cdd3d4" stroke-width="1.5"/>
-  <text x="56.0" y="175.3" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" fill="#1e3a3f" text-anchor="start">Parqueditor</text>
+  <rect x="46.0" y="150.0" width="248.0" height="87.0" rx="2" fill="#ffffff" stroke="#cdd3d4" stroke-width="1"/>
+  <text x="56.0" y="175.3" font-family="Roboto, Arial, sans-serif" font-size="18" font-weight="700" fill="#274247" text-anchor="start">Parqueditor</text>
   <text x="56.0" y="204.3" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">Grafisk grensesnitt for</text>
   <text x="56.0" y="225.3" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">manuell editering, uten kode</text>
-  <rect x="46.0" y="251.0" width="248.0" height="87.0" rx="8" fill="#ffffff" stroke="#cdd3d4" stroke-width="1.5"/>
-  <text x="56.0" y="276.3" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" fill="#1e3a3f" text-anchor="start">Python-kode</text>
+  <rect x="46.0" y="251.0" width="248.0" height="87.0" rx="2" fill="#ffffff" stroke="#cdd3d4" stroke-width="1"/>
+  <text x="56.0" y="276.3" font-family="Roboto, Arial, sans-serif" font-size="18" font-weight="700" fill="#274247" text-anchor="start">Python-kode</text>
   <text x="56.0" y="305.3" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">Med pakken ssb-parquedit,</text>
   <text x="56.0" y="326.3" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">for eksempel i Jupyter</text>
-  <rect x="46.0" y="352.0" width="248.0" height="108.0" rx="8" fill="#ffffff" stroke="#cdd3d4" stroke-width="1.5"/>
-  <text x="56.0" y="377.3" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" fill="#1e3a3f" text-anchor="start">Andre grensesnitt</text>
+  <rect x="46.0" y="352.0" width="248.0" height="108.0" rx="2" fill="#ffffff" stroke="#cdd3d4" stroke-width="1"/>
+  <text x="56.0" y="377.3" font-family="Roboto, Arial, sans-serif" font-size="18" font-weight="700" fill="#274247" text-anchor="start">Andre grensesnitt</text>
   <text x="56.0" y="406.3" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">For eksempel</text>
   <text x="56.0" y="427.3" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">Editeringsrammeverket, eller</text>
   <text x="56.0" y="448.3" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">et team bygger sitt eget</text>
-  <rect x="340.0" y="96.0" width="154.0" height="344.0" rx="8" fill="#eff8fa" stroke="#c4dddb" stroke-width="2"/>
-  <text x="352.0" y="126.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" fill="#1e3a3f" text-anchor="start">ssb-parquedit</text>
+  <rect x="340.0" y="96.0" width="154.0" height="344.0" rx="2" fill="#f0f8f9" stroke="#c3dcdc" stroke-width="2"/>
+  <text x="352.0" y="126.0" font-family="Roboto, Arial, sans-serif" font-size="18" font-weight="700" fill="#274247" text-anchor="start">ssb-parquedit</text>
   <text x="352.0" y="154.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">Python-pakke</text>
   <text x="352.0" y="175.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">bygget på</text>
   <text x="352.0" y="196.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">DuckLake. Holder</text>
   <text x="352.0" y="217.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">data og metadata</text>
   <text x="352.0" y="238.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">i takt</text>
-  <circle cx="490.0" cy="96.0" r="13" fill="#274246"/>
+  <circle cx="490.0" cy="96.0" r="13" fill="#274247"/>
   <text x="490.0" y="101.5" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">2</text>
-  <polyline points="294.0,193.5 332.8,193.5" fill="none" stroke="#274246" stroke-width="1.8" stroke-linejoin="round"/>
-  <polygon points="340.0,193.5 331.0,188.6 331.0,198.4" fill="#274246" stroke="none" stroke-width="1"/>
-  <polyline points="294.0,294.5 332.8,294.5" fill="none" stroke="#274246" stroke-width="1.8" stroke-linejoin="round"/>
-  <polygon points="340.0,294.5 331.0,289.6 331.0,299.4" fill="#274246" stroke="none" stroke-width="1"/>
-  <polyline points="294.0,406.0 332.8,406.0" fill="none" stroke="#274246" stroke-width="1.8" stroke-linejoin="round"/>
-  <polygon points="340.0,406.0 331.0,401.1 331.0,410.9" fill="#274246" stroke="none" stroke-width="1"/>
-  <rect x="580.0" y="16.0" width="390.0" height="224.0" rx="12" fill="#eff8fa" stroke="#c4dddb" stroke-width="1.5"/>
-  <text x="594.0" y="42.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" fill="#1e3a3f" text-anchor="start">Sentral katalog</text>
-  <text x="741.0" y="42.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">felles for alle team på Dapla</text>
-  <circle cx="966.0" cy="16.0" r="13" fill="#274246"/>
+  <polyline points="294.0,193.5 332.8,193.5" fill="none" stroke="#274247" stroke-width="2" stroke-linejoin="round"/>
+  <polygon points="340.0,193.5 331.0,188.6 331.0,198.4" fill="#274247" stroke="none" stroke-width="1"/>
+  <polyline points="294.0,294.5 332.8,294.5" fill="none" stroke="#274247" stroke-width="2" stroke-linejoin="round"/>
+  <polygon points="340.0,294.5 331.0,289.6 331.0,299.4" fill="#274247" stroke="none" stroke-width="1"/>
+  <polyline points="294.0,406.0 332.8,406.0" fill="none" stroke="#274247" stroke-width="2" stroke-linejoin="round"/>
+  <polygon points="340.0,406.0 331.0,401.1 331.0,410.9" fill="#274247" stroke="none" stroke-width="1"/>
+  <rect x="580.0" y="16.0" width="390.0" height="224.0" rx="2" fill="#f0f8f9" stroke="#c3dcdc" stroke-width="1"/>
+  <text x="594.0" y="42.0" font-family="Roboto, Arial, sans-serif" font-size="18" font-weight="700" fill="#274247" text-anchor="start">Sentral katalog</text>
+  <text x="726.4" y="42.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">felles for alle team på Dapla</text>
+  <circle cx="966.0" cy="16.0" r="13" fill="#274247"/>
   <text x="966.0" y="21.5" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">3</text>
-  <path d="M594,76 L594,202 A64.0,10 0 0 0 722,202 L722,76 Z" fill="#ecfeed" stroke="#00824d" stroke-width="1.6"/>
-  <ellipse cx="658.0" cy="76.0" rx="64.0" ry="10.0" fill="#ecfeed" stroke="#00824d" stroke-width="1.6"/>
-  <text x="658.0" y="128.1" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#1e3a3f" text-anchor="middle">PostgreSQL</text>
+  <path d="M594,76 L594,202 A64.0,10 0 0 0 722,202 L722,76 Z" fill="#ecfeed" stroke="#00824d" stroke-width="1"/>
+  <ellipse cx="658.0" cy="76.0" rx="64.0" ry="10.0" fill="#ecfeed" stroke="#00824d" stroke-width="1"/>
+  <text x="658.0" y="128.1" font-family="Roboto, Arial, sans-serif" font-size="16" font-weight="700" fill="#274247" text-anchor="middle">PostgreSQL</text>
   <text x="658.0" y="147.1" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="middle">DuckLake-</text>
   <text x="658.0" y="167.1" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="middle">katalog</text>
-  <text x="738.0" y="86.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" fill="#00824d" text-anchor="start">Metadata</text>
-  <text x="738.0" y="112.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#1e3a3f" text-anchor="start">Tabeller og kolonner</text>
-  <text x="738.0" y="134.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#1e3a3f" text-anchor="start">Versjoner og tidspunkter</text>
-  <text x="738.0" y="156.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#1e3a3f" text-anchor="start">Hvilke Parquet-filer</text>
-  <text x="738.0" y="178.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#1e3a3f" text-anchor="start">tabellen består av</text>
+  <text x="738.0" y="86.0" font-family="Roboto, Arial, sans-serif" font-size="17" font-weight="700" fill="#00824d" text-anchor="start">Metadata</text>
+  <text x="738.0" y="112.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#274247" text-anchor="start">Tabeller og kolonner</text>
+  <text x="738.0" y="134.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#274247" text-anchor="start">Versjoner og tidspunkter</text>
+  <text x="738.0" y="156.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#274247" text-anchor="start">Hvilke Parquet-filer</text>
+  <text x="738.0" y="178.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#274247" text-anchor="start">tabellen består av</text>
   <text x="738.0" y="210.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">Teamet ser sine egne tabeller</text>
-  <rect x="580.0" y="290.0" width="390.0" height="174.0" rx="12" fill="#f1f1fe" stroke="#7d5fea" stroke-width="1.5"/>
-  <text x="594.0" y="316.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" fill="#4b2fb0" text-anchor="start">Dapla-team «Skatt næring»</text>
-  <circle cx="966.0" cy="290.0" r="13" fill="#274246"/>
+  <rect x="580.0" y="290.0" width="390.0" height="174.0" rx="2" fill="#f2f0ff" stroke="#7e5ee8" stroke-width="1"/>
+  <text x="594.0" y="316.0" font-family="Roboto, Arial, sans-serif" font-size="18" font-weight="700" fill="#4b2fb0" text-anchor="start">Dapla-team «Skatt næring»</text>
+  <circle cx="966.0" cy="290.0" r="13" fill="#274247"/>
   <text x="966.0" y="295.5" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">4</text>
-  <path d="M594,340 L594,440 A64.0,10 0 0 0 722,440 L722,340 Z" fill="#ecfeed" stroke="#00824d" stroke-width="1.6"/>
-  <ellipse cx="658.0" cy="340.0" rx="64.0" ry="10.0" fill="#ecfeed" stroke="#00824d" stroke-width="1.6"/>
-  <text x="658.0" y="379.1" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#1e3a3f" text-anchor="middle">produkt</text>
+  <path d="M594,340 L594,440 A64.0,10 0 0 0 722,440 L722,340 Z" fill="#ecfeed" stroke="#00824d" stroke-width="1"/>
+  <ellipse cx="658.0" cy="340.0" rx="64.0" ry="10.0" fill="#ecfeed" stroke="#00824d" stroke-width="1"/>
+  <text x="658.0" y="379.1" font-family="Roboto, Arial, sans-serif" font-size="16" font-weight="700" fill="#274247" text-anchor="middle">produkt</text>
   <text x="658.0" y="398.1" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="middle">teamets</text>
   <text x="658.0" y="418.1" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="middle">produktbøtte</text>
-  <text x="738.0" y="350.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" fill="#00824d" text-anchor="start">Data</text>
-  <text x="738.0" y="376.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#1e3a3f" text-anchor="start">Parquet-filer med selve</text>
-  <text x="738.0" y="398.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#1e3a3f" text-anchor="start">innholdet i tabellene</text>
+  <text x="738.0" y="350.0" font-family="Roboto, Arial, sans-serif" font-size="17" font-weight="700" fill="#00824d" text-anchor="start">Data</text>
+  <text x="738.0" y="376.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#274247" text-anchor="start">Parquet-filer med selve</text>
+  <text x="738.0" y="398.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#274247" text-anchor="start">innholdet i tabellene</text>
   <text x="738.0" y="424.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">Midlertidig lagring mens</text>
   <text x="738.0" y="445.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">dataene editeres manuelt</text>
-  <polyline points="501.2,150.0 572.8,150.0" fill="none" stroke="#00824d" stroke-width="2.5" stroke-linejoin="round"/>
+  <polyline points="501.2,150.0 572.8,150.0" fill="none" stroke="#00824d" stroke-width="2" stroke-linejoin="round"/>
   <polygon points="580.0,150.0 571.0,145.1 571.0,154.9" fill="#00824d" stroke="none" stroke-width="1"/>
   <polygon points="494.0,150.0 503.0,154.9 503.0,145.1" fill="#00824d" stroke="none" stroke-width="1"/>
   <text x="537.0" y="136.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="middle">metadata</text>
-  <polyline points="501.2,370.0 572.8,370.0" fill="none" stroke="#00824d" stroke-width="2.5" stroke-linejoin="round"/>
+  <polyline points="501.2,370.0 572.8,370.0" fill="none" stroke="#00824d" stroke-width="2" stroke-linejoin="round"/>
   <polygon points="580.0,370.0 571.0,365.1 571.0,374.9" fill="#00824d" stroke="none" stroke-width="1"/>
   <polygon points="494.0,370.0 503.0,374.9 503.0,365.1" fill="#00824d" stroke="none" stroke-width="1"/>
   <text x="537.0" y="356.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="middle">data</text>
-  <polyline points="900.0,240.0 900.0,282.8" fill="none" stroke="#00824d" stroke-width="2.2" stroke-linejoin="round" stroke-dasharray="7 5"/>
+  <polyline points="900.0,240.0 900.0,282.8" fill="none" stroke="#00824d" stroke-width="2" stroke-linejoin="round" stroke-dasharray="7 5"/>
   <polygon points="900.0,290.0 905.0,281.0 895.0,281.0" fill="#00824d" stroke="none" stroke-width="1"/>
-  <text x="884.0" y="260.0" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="16" font-weight="400" fill="#1e3a3f" text-anchor="end">export_catalog()</text>
+  <text x="884.0" y="260.0" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="16" font-weight="400" fill="#274247" text-anchor="end">export_catalog()</text>
   <text x="884.0" y="280.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="end">teamet må selv ta sikkerhetskopi</text>
-  <circle cx="924.0" cy="265.0" r="13" fill="#274246"/>
+  <circle cx="924.0" cy="265.0" r="13" fill="#274247"/>
   <text x="924.0" y="270.5" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">5</text>
-  <text x="30.0" y="504.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" fill="#1e3a3f" text-anchor="start">Det Parquedit gir, via DuckLake</text>
-  <rect x="30.0" y="518.0" width="115.9" height="28.0" rx="14.0" fill="#ffffff" stroke="#cdd3d4" stroke-width="1.3"/>
-  <text x="88.0" y="537.8" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="600" fill="#1e3a3f" text-anchor="middle">Versjonering</text>
-  <rect x="155.9" y="518.0" width="93.8" height="28.0" rx="14.0" fill="#ffffff" stroke="#cdd3d4" stroke-width="1.3"/>
-  <text x="202.8" y="537.8" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="600" fill="#1e3a3f" text-anchor="middle">Tidsreiser</text>
-  <rect x="259.7" y="518.0" width="201.9" height="28.0" rx="14.0" fill="#ffffff" stroke="#cdd3d4" stroke-width="1.3"/>
-  <text x="360.7" y="537.8" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="600" fill="#1e3a3f" text-anchor="middle">Flere samtidige brukere</text>
-  <rect x="471.6" y="518.0" width="167.8" height="28.0" rx="14.0" fill="#ffffff" stroke="#cdd3d4" stroke-width="1.3"/>
-  <text x="555.5" y="537.8" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="600" fill="#1e3a3f" text-anchor="middle">ACID-transaksjoner</text>
-  <rect x="649.4" y="518.0" width="290.4" height="28.0" rx="14.0" fill="#ffffff" stroke="#cdd3d4" stroke-width="1.3"/>
-  <text x="794.6" y="537.8" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="600" fill="#1e3a3f" text-anchor="middle">Endringslogg: hva, hvem og hvorfor</text>
-  <text x="30.0" y="590.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" fill="#1e3a3f" text-anchor="start">Før du starter</text>
-  <rect x="30.0" y="604.0" width="296.0" height="89.0" rx="8" fill="#ffffff" stroke="#cdd3d4" stroke-width="1.4"/>
-  <circle cx="50.0" cy="626.0" r="13" fill="#274246"/>
+  <text x="30.0" y="504.0" font-family="Roboto, Arial, sans-serif" font-size="18" font-weight="700" fill="#274247" text-anchor="start">Det Parquedit gir, via DuckLake</text>
+  <rect x="30.0" y="518.0" width="115.9" height="28.0" rx="14.0" fill="#ffffff" stroke="#cdd3d4" stroke-width="1"/>
+  <text x="88.0" y="537.8" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="600" fill="#274247" text-anchor="middle">Versjonering</text>
+  <rect x="155.9" y="518.0" width="93.8" height="28.0" rx="14.0" fill="#ffffff" stroke="#cdd3d4" stroke-width="1"/>
+  <text x="202.8" y="537.8" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="600" fill="#274247" text-anchor="middle">Tidsreiser</text>
+  <rect x="259.7" y="518.0" width="201.9" height="28.0" rx="14.0" fill="#ffffff" stroke="#cdd3d4" stroke-width="1"/>
+  <text x="360.7" y="537.8" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="600" fill="#274247" text-anchor="middle">Flere samtidige brukere</text>
+  <rect x="471.6" y="518.0" width="167.8" height="28.0" rx="14.0" fill="#ffffff" stroke="#cdd3d4" stroke-width="1"/>
+  <text x="555.5" y="537.8" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="600" fill="#274247" text-anchor="middle">ACID-transaksjoner</text>
+  <rect x="649.4" y="518.0" width="290.4" height="28.0" rx="14.0" fill="#ffffff" stroke="#cdd3d4" stroke-width="1"/>
+  <text x="794.6" y="537.8" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="600" fill="#274247" text-anchor="middle">Endringslogg: hva, hvem og hvorfor</text>
+  <text x="30.0" y="590.0" font-family="Roboto, Arial, sans-serif" font-size="18" font-weight="700" fill="#274247" text-anchor="start">Før du starter</text>
+  <rect x="30.0" y="604.0" width="296.0" height="89.0" rx="2" fill="#ffffff" stroke="#cdd3d4" stroke-width="1"/>
+  <circle cx="50.0" cy="626.0" r="13" fill="#274247"/>
   <text x="50.0" y="631.5" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">A</text>
-  <text x="74.0" y="629.6" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#1e3a3f" text-anchor="start">Teamansvarlig aktiverer</text>
-  <text x="74.0" y="650.6" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#1e3a3f" text-anchor="start">Parquedit for teamet i Dapla</text>
-  <text x="74.0" y="671.6" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#1e3a3f" text-anchor="start">Ctrl, under Innstillinger</text>
-  <polyline points="326.0,648.5 345.6,648.5" fill="none" stroke="#5e787a" stroke-width="1.8" stroke-linejoin="round"/>
+  <text x="74.0" y="629.6" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#274247" text-anchor="start">Teamansvarlig aktiverer</text>
+  <text x="74.0" y="650.6" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#274247" text-anchor="start">Parquedit for teamet i Dapla</text>
+  <text x="74.0" y="671.6" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#274247" text-anchor="start">Ctrl, under Innstillinger</text>
+  <polyline points="326.0,648.5 345.6,648.5" fill="none" stroke="#5e787a" stroke-width="2" stroke-linejoin="round"/>
   <polygon points="352.0,648.5 344.0,644.1 344.0,652.9" fill="#5e787a" stroke="none" stroke-width="1"/>
-  <rect x="352.0" y="604.0" width="296.0" height="89.0" rx="8" fill="#ffffff" stroke="#cdd3d4" stroke-width="1.4"/>
-  <circle cx="372.0" cy="626.0" r="13" fill="#274246"/>
+  <rect x="352.0" y="604.0" width="296.0" height="89.0" rx="2" fill="#ffffff" stroke="#cdd3d4" stroke-width="1"/>
+  <circle cx="372.0" cy="626.0" r="13" fill="#274247"/>
   <text x="372.0" y="631.5" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">B</text>
-  <text x="396.0" y="629.6" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#1e3a3f" text-anchor="start">Når tjenesten i Dapla Lab settes</text>
-  <text x="396.0" y="650.6" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#1e3a3f" text-anchor="start">opp: slå på Parquedit-tilgang</text>
-  <text x="396.0" y="671.6" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#1e3a3f" text-anchor="start">under Avansert</text>
-  <polyline points="648.0,648.5 667.6,648.5" fill="none" stroke="#5e787a" stroke-width="1.8" stroke-linejoin="round"/>
+  <text x="396.0" y="629.6" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#274247" text-anchor="start">Når tjenesten i Dapla Lab settes</text>
+  <text x="396.0" y="650.6" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#274247" text-anchor="start">opp: slå på Parquedit-tilgang</text>
+  <text x="396.0" y="671.6" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#274247" text-anchor="start">under Avansert</text>
+  <polyline points="648.0,648.5 667.6,648.5" fill="none" stroke="#5e787a" stroke-width="2" stroke-linejoin="round"/>
   <polygon points="674.0,648.5 666.0,644.1 666.0,652.9" fill="#5e787a" stroke="none" stroke-width="1"/>
-  <rect x="674.0" y="604.0" width="296.0" height="89.0" rx="8" fill="#ffffff" stroke="#cdd3d4" stroke-width="1.4"/>
-  <circle cx="694.0" cy="626.0" r="13" fill="#274246"/>
+  <rect x="674.0" y="604.0" width="296.0" height="89.0" rx="2" fill="#ffffff" stroke="#cdd3d4" stroke-width="1"/>
+  <circle cx="694.0" cy="626.0" r="13" fill="#274247"/>
   <text x="694.0" y="631.5" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">C</text>
-  <text x="718.0" y="629.6" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#1e3a3f" text-anchor="start">Installer pakken i et ssb-project:</text>
-  <text x="718.0" y="650.6" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#1e3a3f" text-anchor="start">poetry add ssb-parquedit</text>
+  <text x="718.0" y="629.6" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#274247" text-anchor="start">Installer pakken i et ssb-project:</text>
+  <text x="718.0" y="650.6" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#274247" text-anchor="start">poetry add ssb-parquedit</text>
   <line x1="30.0" y1="727.0" x2="970.0" y2="727.0" stroke="#cdd3d4" stroke-width="1"/>
-  <rect x="32.0" y="741.0" width="24.0" height="16.0" rx="3" fill="#eff8fa" stroke="#c4dddb" stroke-width="1.3"/>
+  <rect x="32.0" y="741.0" width="24.0" height="16.0" rx="2" fill="#f0f8f9" stroke="#c3dcdc" stroke-width="1"/>
   <text x="66.0" y="755.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">Plattform og tjenester</text>
-  <rect x="253.4" y="741.0" width="24.0" height="16.0" rx="3" fill="#ecfeed" stroke="#00824d" stroke-width="1.3"/>
+  <rect x="253.4" y="741.0" width="24.0" height="16.0" rx="2" fill="#ecfeed" stroke="#00824d" stroke-width="1"/>
   <text x="287.4" y="755.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">Data</text>
-  <rect x="346.5" y="741.0" width="24.0" height="16.0" rx="3" fill="#f1f1fe" stroke="#7d5fea" stroke-width="1.3"/>
+  <rect x="346.5" y="741.0" width="24.0" height="16.0" rx="2" fill="#f2f0ff" stroke="#7e5ee8" stroke-width="1"/>
   <text x="380.5" y="755.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">Roller og team</text>
-  <polyline points="510.6,750.0 532.2,750.0" fill="none" stroke="#274246" stroke-width="1.8" stroke-linejoin="round"/>
-  <polygon points="538.6,750.0 530.6,745.6 530.6,754.4" fill="#274246" stroke="none" stroke-width="1"/>
+  <polyline points="510.6,750.0 532.2,750.0" fill="none" stroke="#274247" stroke-width="2" stroke-linejoin="round"/>
+  <polygon points="538.6,750.0 530.6,745.6 530.6,754.4" fill="#274247" stroke="none" stroke-width="1"/>
   <text x="546.6" y="755.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">Bruker Parquedit</text>
-  <polyline points="696.6,750.0 718.2,750.0" fill="none" stroke="#00824d" stroke-width="2.5" stroke-linejoin="round"/>
+  <polyline points="696.6,750.0 718.2,750.0" fill="none" stroke="#00824d" stroke-width="2" stroke-linejoin="round"/>
   <polygon points="724.6,750.0 716.6,745.6 716.6,754.4" fill="#00824d" stroke="none" stroke-width="1"/>
   <text x="732.6" y="755.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">Dataflyt</text>
-  <polyline points="30.0,776.0 51.6,776.0" fill="none" stroke="#00824d" stroke-width="2.2" stroke-linejoin="round" stroke-dasharray="7 5"/>
+  <polyline points="30.0,776.0 51.6,776.0" fill="none" stroke="#00824d" stroke-width="2" stroke-linejoin="round" stroke-dasharray="7 5"/>
   <polygon points="58.0,776.0 50.0,771.6 50.0,780.4" fill="#00824d" stroke="none" stroke-width="1"/>
   <text x="66.0" y="781.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">Sikkerhetskopi</text>
-  <polyline points="197.2,776.0 218.8,776.0" fill="none" stroke="#5e787a" stroke-width="1.8" stroke-linejoin="round"/>
+  <polyline points="197.2,776.0 218.8,776.0" fill="none" stroke="#5e787a" stroke-width="2" stroke-linejoin="round"/>
   <polygon points="225.2,776.0 217.2,771.6 217.2,780.4" fill="#5e787a" stroke="none" stroke-width="1"/>
   <text x="233.2" y="781.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">Neste steg</text>
-  <circle cx="347.7" cy="775.0" r="10" fill="#274246"/>
+  <circle cx="347.7" cy="775.0" r="10" fill="#274247"/>
   <text x="347.7" y="780.5" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">1</text>
   <text x="369.7" y="781.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">Forklares i teksten</text>
   <text x="970.0" y="803.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="end">Kilde: Dapla-manualen, Parquedit · Parqueditor · Utkast 09.11.2026</text>

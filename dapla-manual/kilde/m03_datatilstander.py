@@ -12,7 +12,7 @@ def m03():
 
     # R0: tilstandene
     y0 = 20
-    h0 = max(f.box_h(CW, n, None, pad=10) for n in names)
+    h0 = max([f.box_h(CW, n, None, pad=10) for n in names] + [58])
     for i, n in enumerate(names):
         f.box(cx[i], y0, CW, h0, "datas" if i == 0 else "data", n, None, center=True,
               dash="6 4" if optional[i] else None, pad=10, minh=58)

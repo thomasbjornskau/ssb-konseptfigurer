@@ -1,115 +1,115 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 800" width="1000" height="800">
   <rect x="0" y="0" width="1000" height="800" fill="#ffffff"/>
-  <rect x="30.0" y="16.0" width="940.0" height="590.0" rx="12" fill="#f1f1fe" stroke="#7d5fea" stroke-width="1.5"/>
-  <text x="44.0" y="42.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" fill="#4b2fb0" text-anchor="start">Dapla-team «Skatt næring»</text>
-  <text x="301.8" y="42.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">teknisk navn: skatt-naering</text>
-  <rect x="48.0" y="54.0" width="572.0" height="380.0" rx="12" fill="#eff8fa" stroke="#c4dddb" stroke-width="1.5"/>
-  <text x="62.0" y="80.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" fill="#1e3a3f" text-anchor="start">Prodmiljø</text>
-  <text x="159.3" y="80.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">skarpe data</text>
-  <rect x="636.0" y="54.0" width="316.0" height="380.0" rx="12" fill="#eff8fa" stroke="#c4dddb" stroke-width="1.5"/>
-  <text x="650.0" y="80.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" fill="#1e3a3f" text-anchor="start">Testmiljø</text>
-  <text x="743.1" y="80.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">testdata</text>
-  <circle cx="626.0" cy="54.0" r="13" fill="#274246"/>
+  <rect x="30.0" y="16.0" width="940.0" height="590.0" rx="2" fill="#f2f0ff" stroke="#7e5ee8" stroke-width="1"/>
+  <text x="44.0" y="42.0" font-family="Roboto, Arial, sans-serif" font-size="18" font-weight="700" fill="#4b2fb0" text-anchor="start">Dapla-team «Skatt næring»</text>
+  <text x="274.5" y="42.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">teknisk navn: skatt-naering</text>
+  <rect x="48.0" y="54.0" width="572.0" height="380.0" rx="2" fill="#f0f8f9" stroke="#c3dcdc" stroke-width="1"/>
+  <text x="62.0" y="80.0" font-family="Roboto, Arial, sans-serif" font-size="18" font-weight="700" fill="#274247" text-anchor="start">Prodmiljø</text>
+  <text x="150.2" y="80.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">skarpe data</text>
+  <rect x="636.0" y="54.0" width="316.0" height="380.0" rx="2" fill="#f0f8f9" stroke="#c3dcdc" stroke-width="1"/>
+  <text x="650.0" y="80.0" font-family="Roboto, Arial, sans-serif" font-size="18" font-weight="700" fill="#274247" text-anchor="start">Testmiljø</text>
+  <text x="735.4" y="80.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">testdata</text>
+  <circle cx="626.0" cy="54.0" r="13" fill="#274247"/>
   <text x="626.0" y="59.5" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">1</text>
-  <rect x="64.0" y="92.0" width="270.0" height="326.0" rx="8" fill="#ffffff" stroke="#c4dddb" stroke-width="1.4"/>
-  <text x="76.0" y="118.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" fill="#1e3a3f" text-anchor="start">Kildeprosjekt</text>
+  <rect x="64.0" y="92.0" width="270.0" height="326.0" rx="2" fill="#ffffff" stroke="#c3dcdc" stroke-width="1"/>
+  <text x="76.0" y="118.0" font-family="Roboto, Arial, sans-serif" font-size="18" font-weight="700" fill="#274247" text-anchor="start">Kildeprosjekt</text>
   <text x="76.0" y="140.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">skatt-naering-kilde-p</text>
   <path d="M309,109 L309,106 A5,5 0 0 1 319,106 L319,109" fill="none" stroke="#00824d" stroke-width="2"/>
-  <rect x="306.0" y="109.0" width="16.0" height="11.0" rx="2" fill="#00824d" stroke="none" stroke-width="1.5"/>
-  <path d="M80,166 L80,238 A119.0,10 0 0 0 318,238 L318,166 Z" fill="#b6e9b8" stroke="#00824d" stroke-width="1.6"/>
-  <ellipse cx="199.0" cy="166.0" rx="119.0" ry="10.0" fill="#b6e9b8" stroke="#00824d" stroke-width="1.6"/>
-  <text x="199.0" y="201.4" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" fill="#1e3a3f" text-anchor="middle">kilde</text>
+  <rect x="306.0" y="109.0" width="16.0" height="11.0" rx="2" fill="#00824d" stroke="none" stroke-width="1"/>
+  <path d="M80,166 L80,238 A119.0,10 0 0 0 318,238 L318,166 Z" fill="#b6e8b8" stroke="#00824d" stroke-width="1"/>
+  <ellipse cx="199.0" cy="166.0" rx="119.0" ry="10.0" fill="#b6e8b8" stroke="#00824d" stroke-width="1"/>
+  <text x="199.0" y="201.4" font-family="Roboto, Arial, sans-serif" font-size="17" font-weight="700" fill="#274247" text-anchor="middle">kilde</text>
   <text x="199.0" y="220.6" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="middle">kildedata, sensitive</text>
-  <path d="M80,300 L80,358 A57.0,10 0 0 0 194,358 L194,300 Z" fill="#ecfeed" stroke="#00824d" stroke-width="1.6"/>
-  <ellipse cx="137.0" cy="300.0" rx="57.0" ry="10.0" fill="#ecfeed" stroke="#00824d" stroke-width="1.6"/>
-  <text x="137.0" y="338.1" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#1e3a3f" text-anchor="middle">kilde-tilsky</text>
-  <path d="M204,300 L204,358 A57.0,10 0 0 0 318,358 L318,300 Z" fill="#ecfeed" stroke="#00824d" stroke-width="1.6"/>
-  <ellipse cx="261.0" cy="300.0" rx="57.0" ry="10.0" fill="#ecfeed" stroke="#00824d" stroke-width="1.6"/>
-  <text x="261.0" y="338.1" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#1e3a3f" text-anchor="middle">kilde-frasky</text>
+  <path d="M80,300 L80,358 A57.0,10 0 0 0 194,358 L194,300 Z" fill="#ecfeed" stroke="#00824d" stroke-width="1"/>
+  <ellipse cx="137.0" cy="300.0" rx="57.0" ry="10.0" fill="#ecfeed" stroke="#00824d" stroke-width="1"/>
+  <text x="137.0" y="338.1" font-family="Roboto, Arial, sans-serif" font-size="16" font-weight="700" fill="#274247" text-anchor="middle">kilde-tilsky</text>
+  <path d="M204,300 L204,358 A57.0,10 0 0 0 318,358 L318,300 Z" fill="#ecfeed" stroke="#00824d" stroke-width="1"/>
+  <ellipse cx="261.0" cy="300.0" rx="57.0" ry="10.0" fill="#ecfeed" stroke="#00824d" stroke-width="1"/>
+  <text x="261.0" y="338.1" font-family="Roboto, Arial, sans-serif" font-size="16" font-weight="700" fill="#274247" text-anchor="middle">kilde-frasky</text>
   <text x="199.0" y="398.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="middle">mellomstasjoner bakke ↔ sky</text>
-  <circle cx="76.0" cy="156.0" r="13" fill="#274246"/>
+  <circle cx="76.0" cy="156.0" r="13" fill="#274247"/>
   <text x="76.0" y="161.5" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">2</text>
-  <rect x="346.0" y="92.0" width="260.0" height="326.0" rx="8" fill="#ffffff" stroke="#c4dddb" stroke-width="1.4"/>
-  <text x="358.0" y="118.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" fill="#1e3a3f" text-anchor="start">Standardprosjekt</text>
+  <rect x="346.0" y="92.0" width="260.0" height="326.0" rx="2" fill="#ffffff" stroke="#c3dcdc" stroke-width="1"/>
+  <text x="358.0" y="118.0" font-family="Roboto, Arial, sans-serif" font-size="18" font-weight="700" fill="#274247" text-anchor="start">Standardprosjekt</text>
   <text x="358.0" y="140.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">skatt-naering-p</text>
-  <path d="M362,166 L362,238 A114.0,10 0 0 0 590,238 L590,166 Z" fill="#ecfeed" stroke="#00824d" stroke-width="1.6"/>
-  <ellipse cx="476.0" cy="166.0" rx="114.0" ry="10.0" fill="#ecfeed" stroke="#00824d" stroke-width="1.6"/>
-  <text x="476.0" y="201.4" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" fill="#1e3a3f" text-anchor="middle">produkt</text>
+  <path d="M362,166 L362,238 A114.0,10 0 0 0 590,238 L590,166 Z" fill="#ecfeed" stroke="#00824d" stroke-width="1"/>
+  <ellipse cx="476.0" cy="166.0" rx="114.0" ry="10.0" fill="#ecfeed" stroke="#00824d" stroke-width="1"/>
+  <text x="476.0" y="201.4" font-family="Roboto, Arial, sans-serif" font-size="17" font-weight="700" fill="#274247" text-anchor="middle">produkt</text>
   <text x="476.0" y="220.6" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="middle">inndata til utdata</text>
-  <path d="M362,300 L362,358 A54.5,10 0 0 0 471,358 L471,300 Z" fill="#ecfeed" stroke="#00824d" stroke-width="1.6"/>
-  <ellipse cx="416.5" cy="300.0" rx="54.5" ry="10.0" fill="#ecfeed" stroke="#00824d" stroke-width="1.6"/>
-  <text x="416.5" y="338.1" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#1e3a3f" text-anchor="middle">tilsky</text>
-  <path d="M481,300 L481,358 A54.5,10 0 0 0 590,358 L590,300 Z" fill="#ecfeed" stroke="#00824d" stroke-width="1.6"/>
-  <ellipse cx="535.5" cy="300.0" rx="54.5" ry="10.0" fill="#ecfeed" stroke="#00824d" stroke-width="1.6"/>
-  <text x="535.5" y="338.1" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#1e3a3f" text-anchor="middle">frasky</text>
+  <path d="M362,300 L362,358 A54.5,10 0 0 0 471,358 L471,300 Z" fill="#ecfeed" stroke="#00824d" stroke-width="1"/>
+  <ellipse cx="416.5" cy="300.0" rx="54.5" ry="10.0" fill="#ecfeed" stroke="#00824d" stroke-width="1"/>
+  <text x="416.5" y="338.1" font-family="Roboto, Arial, sans-serif" font-size="16" font-weight="700" fill="#274247" text-anchor="middle">tilsky</text>
+  <path d="M481,300 L481,358 A54.5,10 0 0 0 590,358 L590,300 Z" fill="#ecfeed" stroke="#00824d" stroke-width="1"/>
+  <ellipse cx="535.5" cy="300.0" rx="54.5" ry="10.0" fill="#ecfeed" stroke="#00824d" stroke-width="1"/>
+  <text x="535.5" y="338.1" font-family="Roboto, Arial, sans-serif" font-size="16" font-weight="700" fill="#274247" text-anchor="middle">frasky</text>
   <text x="476.0" y="398.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="middle">mellomstasjoner bakke ↔ sky</text>
-  <circle cx="594.0" cy="290.0" r="13" fill="#274246"/>
+  <circle cx="594.0" cy="290.0" r="13" fill="#274247"/>
   <text x="594.0" y="295.5" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">3</text>
-  <rect x="652.0" y="92.0" width="140.0" height="262.0" rx="8" fill="#ffffff" stroke="#c4dddb" stroke-width="1.4"/>
-  <text x="664.0" y="118.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" fill="#1e3a3f" text-anchor="start">Kilde-</text>
-  <text x="664.0" y="140.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" fill="#1e3a3f" text-anchor="start">prosjekt</text>
+  <rect x="652.0" y="92.0" width="140.0" height="262.0" rx="2" fill="#ffffff" stroke="#c3dcdc" stroke-width="1"/>
+  <text x="664.0" y="118.0" font-family="Roboto, Arial, sans-serif" font-size="18" font-weight="700" fill="#274247" text-anchor="start">Kilde-</text>
+  <text x="664.0" y="140.0" font-family="Roboto, Arial, sans-serif" font-size="18" font-weight="700" fill="#274247" text-anchor="start">prosjekt</text>
   <text x="664.0" y="162.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">skatt-naering-</text>
   <text x="664.0" y="182.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">kilde-t</text>
   <path d="M767,109 L767,106 A5,5 0 0 1 777,106 L777,109" fill="none" stroke="#00824d" stroke-width="2"/>
-  <rect x="764.0" y="109.0" width="16.0" height="11.0" rx="2" fill="#00824d" stroke="none" stroke-width="1.5"/>
-  <rect x="804.0" y="92.0" width="134.0" height="262.0" rx="8" fill="#ffffff" stroke="#c4dddb" stroke-width="1.4"/>
-  <text x="816.0" y="118.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" fill="#1e3a3f" text-anchor="start">Standard-</text>
-  <text x="816.0" y="140.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" fill="#1e3a3f" text-anchor="start">prosjekt</text>
+  <rect x="764.0" y="109.0" width="16.0" height="11.0" rx="2" fill="#00824d" stroke="none" stroke-width="1"/>
+  <rect x="804.0" y="92.0" width="134.0" height="262.0" rx="2" fill="#ffffff" stroke="#c3dcdc" stroke-width="1"/>
+  <text x="816.0" y="118.0" font-family="Roboto, Arial, sans-serif" font-size="18" font-weight="700" fill="#274247" text-anchor="start">Standard-</text>
+  <text x="816.0" y="140.0" font-family="Roboto, Arial, sans-serif" font-size="18" font-weight="700" fill="#274247" text-anchor="start">prosjekt</text>
   <text x="816.0" y="162.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">skatt-naering-t</text>
-  <path d="M664,224 L664,296 A58.0,10 0 0 0 780,296 L780,224 Z" fill="#b6e9b8" stroke="#00824d" stroke-width="1.6"/>
-  <ellipse cx="722.0" cy="224.0" rx="58.0" ry="10.0" fill="#b6e9b8" stroke="#00824d" stroke-width="1.6"/>
-  <text x="722.0" y="259.4" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" fill="#1e3a3f" text-anchor="middle">kilde</text>
+  <path d="M664,224 L664,296 A58.0,10 0 0 0 780,296 L780,224 Z" fill="#b6e8b8" stroke="#00824d" stroke-width="1"/>
+  <ellipse cx="722.0" cy="224.0" rx="58.0" ry="10.0" fill="#b6e8b8" stroke="#00824d" stroke-width="1"/>
+  <text x="722.0" y="259.4" font-family="Roboto, Arial, sans-serif" font-size="17" font-weight="700" fill="#274247" text-anchor="middle">kilde</text>
   <text x="722.0" y="278.6" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="middle">testdata</text>
-  <path d="M816,224 L816,296 A55.0,10 0 0 0 926,296 L926,224 Z" fill="#ecfeed" stroke="#00824d" stroke-width="1.6"/>
-  <ellipse cx="871.0" cy="224.0" rx="55.0" ry="10.0" fill="#ecfeed" stroke="#00824d" stroke-width="1.6"/>
-  <text x="871.0" y="259.4" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" fill="#1e3a3f" text-anchor="middle">produkt</text>
+  <path d="M816,224 L816,296 A55.0,10 0 0 0 926,296 L926,224 Z" fill="#ecfeed" stroke="#00824d" stroke-width="1"/>
+  <ellipse cx="871.0" cy="224.0" rx="55.0" ry="10.0" fill="#ecfeed" stroke="#00824d" stroke-width="1"/>
+  <text x="871.0" y="259.4" font-family="Roboto, Arial, sans-serif" font-size="17" font-weight="700" fill="#274247" text-anchor="middle">produkt</text>
   <text x="871.0" y="278.6" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="middle">testdata</text>
   <text x="794.0" y="384.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="middle">Ingen tilsky- og frasky-bøtter i test</text>
-  <text x="48.0" y="468.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" fill="#4b2fb0" text-anchor="start">Følger også med teamet</text>
-  <rect x="48.0" y="482.0" width="300.0" height="112.0" rx="8" fill="#f1f1fe" stroke="#7d5fea" stroke-width="1.5"/>
-  <text x="60.0" y="509.3" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" fill="#4b2fb0" text-anchor="start">To tilgangsgrupper</text>
+  <text x="48.0" y="468.0" font-family="Roboto, Arial, sans-serif" font-size="18" font-weight="700" fill="#4b2fb0" text-anchor="start">Følger også med teamet</text>
+  <rect x="48.0" y="482.0" width="300.0" height="112.0" rx="2" fill="#f2f0ff" stroke="#7e5ee8" stroke-width="1"/>
+  <text x="60.0" y="509.3" font-family="Roboto, Arial, sans-serif" font-size="18" font-weight="700" fill="#4b2fb0" text-anchor="start">To tilgangsgrupper</text>
   <text x="60.0" y="538.3" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">skatt-naering-developers og</text>
   <text x="60.0" y="559.3" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">skatt-naering-data-admins</text>
   <text x="60.0" y="580.3" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">(AD-grupper)</text>
-  <rect x="362.0" y="482.0" width="256.0" height="108.0" rx="8" fill="#f1f1fe" stroke="#7d5fea" stroke-width="1.5"/>
-  <text x="374.0" y="509.3" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" fill="#4b2fb0" text-anchor="start">GitHub-team</text>
+  <rect x="362.0" y="482.0" width="256.0" height="108.0" rx="2" fill="#f2f0ff" stroke="#7e5ee8" stroke-width="1"/>
+  <text x="374.0" y="509.3" font-family="Roboto, Arial, sans-serif" font-size="18" font-weight="700" fill="#4b2fb0" text-anchor="start">GitHub-team</text>
   <text x="374.0" y="538.3" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">skatt-naering, med samme</text>
   <text x="374.0" y="559.3" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">medlemmer og grupper</text>
-  <rect x="632.0" y="482.0" width="320.0" height="108.0" rx="8" fill="#eff8fa" stroke="#c4dddb" stroke-width="1.5"/>
-  <text x="644.0" y="509.3" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" fill="#1e3a3f" text-anchor="start">IaC-repo</text>
+  <rect x="632.0" y="482.0" width="320.0" height="108.0" rx="2" fill="#f0f8f9" stroke="#c3dcdc" stroke-width="1"/>
+  <text x="644.0" y="509.3" font-family="Roboto, Arial, sans-serif" font-size="18" font-weight="700" fill="#274247" text-anchor="start">IaC-repo</text>
   <text x="644.0" y="538.3" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">skatt-naering-iac. Definerer alle</text>
   <text x="644.0" y="559.3" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">ressursene i tekstfiler</text>
-  <circle cx="952.0" cy="482.0" r="13" fill="#274246"/>
+  <circle cx="952.0" cy="482.0" r="13" fill="#274247"/>
   <text x="952.0" y="487.5" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">4</text>
-  <polyline points="794.0,482.0 794.0,442.8" fill="none" stroke="#274246" stroke-width="1.8" stroke-linejoin="round"/>
-  <polygon points="794.0,434.0 788.0,445.0 800.0,445.0" fill="#274246" stroke="none" stroke-width="1"/>
-  <rect x="754.5" y="448.8" width="79.1" height="21.6" rx="4" fill="#ffffff" stroke="none" stroke-width="1.5"/>
+  <polyline points="794.0,482.0 794.0,442.8" fill="none" stroke="#274247" stroke-width="2" stroke-linejoin="round"/>
+  <polygon points="794.0,434.0 788.0,445.0 800.0,445.0" fill="#274247" stroke="none" stroke-width="1"/>
+  <rect x="754.5" y="448.8" width="79.1" height="21.6" rx="2" fill="#ffffff" stroke="none" stroke-width="1"/>
   <text x="794.0" y="464.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="middle">definerer</text>
-  <text x="30.0" y="646.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" fill="#1e3a3f" text-anchor="start">Kan skrus på ved behov (features)</text>
-  <rect x="30.0" y="660.0" width="142.4" height="28.0" rx="14.0" fill="#ffffff" stroke="#cdd3d4" stroke-width="1.3" stroke-dasharray="5 4"/>
-  <text x="101.2" y="679.8" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="600" fill="#1e3a3f" text-anchor="middle">Transfer Service</text>
-  <rect x="184.4" y="660.0" width="107.2" height="28.0" rx="14.0" fill="#ffffff" stroke="#cdd3d4" stroke-width="1.3" stroke-dasharray="5 4"/>
-  <text x="238.0" y="679.8" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="600" fill="#1e3a3f" text-anchor="middle">Kildomaten</text>
-  <rect x="303.5" y="660.0" width="235.1" height="28.0" rx="14.0" fill="#ffffff" stroke="#cdd3d4" stroke-width="1.3" stroke-dasharray="5 4"/>
-  <text x="421.1" y="679.8" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="600" fill="#1e3a3f" text-anchor="middle">shared-buckets (delt-bøtter)</text>
-  <rect x="550.6" y="660.0" width="103.5" height="28.0" rx="14.0" fill="#ffffff" stroke="#cdd3d4" stroke-width="1.3" stroke-dasharray="5 4"/>
-  <text x="602.4" y="679.8" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="600" fill="#1e3a3f" text-anchor="middle">Delomaten</text>
-  <circle cx="676.1" cy="674.0" r="13" fill="#274246"/>
+  <text x="30.0" y="646.0" font-family="Roboto, Arial, sans-serif" font-size="18" font-weight="700" fill="#274247" text-anchor="start">Kan skrus på ved behov (features)</text>
+  <rect x="30.0" y="660.0" width="142.4" height="28.0" rx="14.0" fill="#ffffff" stroke="#cdd3d4" stroke-width="1" stroke-dasharray="5 4"/>
+  <text x="101.2" y="679.8" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="600" fill="#274247" text-anchor="middle">Transfer Service</text>
+  <rect x="184.4" y="660.0" width="107.2" height="28.0" rx="14.0" fill="#ffffff" stroke="#cdd3d4" stroke-width="1" stroke-dasharray="5 4"/>
+  <text x="238.0" y="679.8" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="600" fill="#274247" text-anchor="middle">Kildomaten</text>
+  <rect x="303.5" y="660.0" width="235.1" height="28.0" rx="14.0" fill="#ffffff" stroke="#cdd3d4" stroke-width="1" stroke-dasharray="5 4"/>
+  <text x="421.1" y="679.8" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="600" fill="#274247" text-anchor="middle">shared-buckets (delt-bøtter)</text>
+  <rect x="550.6" y="660.0" width="103.5" height="28.0" rx="14.0" fill="#ffffff" stroke="#cdd3d4" stroke-width="1" stroke-dasharray="5 4"/>
+  <text x="602.4" y="679.8" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="600" fill="#274247" text-anchor="middle">Delomaten</text>
+  <circle cx="676.1" cy="674.0" r="13" fill="#274247"/>
   <text x="676.1" y="679.5" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">5</text>
   <line x1="30.0" y1="712.0" x2="970.0" y2="712.0" stroke="#cdd3d4" stroke-width="1"/>
-  <rect x="32.0" y="726.0" width="24.0" height="16.0" rx="3" fill="#eff8fa" stroke="#c4dddb" stroke-width="1.3"/>
+  <rect x="32.0" y="726.0" width="24.0" height="16.0" rx="2" fill="#f0f8f9" stroke="#c3dcdc" stroke-width="1"/>
   <text x="66.0" y="740.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">Plattform og tjenester</text>
-  <rect x="253.4" y="726.0" width="24.0" height="16.0" rx="3" fill="#ecfeed" stroke="#00824d" stroke-width="1.3"/>
+  <rect x="253.4" y="726.0" width="24.0" height="16.0" rx="2" fill="#ecfeed" stroke="#00824d" stroke-width="1"/>
   <text x="287.4" y="740.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">Data</text>
-  <rect x="346.5" y="726.0" width="24.0" height="16.0" rx="3" fill="#f1f1fe" stroke="#7d5fea" stroke-width="1.3"/>
+  <rect x="346.5" y="726.0" width="24.0" height="16.0" rx="2" fill="#f2f0ff" stroke="#7e5ee8" stroke-width="1"/>
   <text x="380.5" y="740.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">Roller og team</text>
-  <polyline points="510.6,735.0 532.2,735.0" fill="none" stroke="#274246" stroke-width="1.8" stroke-linejoin="round"/>
-  <polygon points="538.6,735.0 530.6,730.6 530.6,739.4" fill="#274246" stroke="none" stroke-width="1"/>
+  <polyline points="510.6,735.0 532.2,735.0" fill="none" stroke="#274247" stroke-width="2" stroke-linejoin="round"/>
+  <polygon points="538.6,735.0 530.6,730.6 530.6,739.4" fill="#274247" stroke="none" stroke-width="1"/>
   <text x="546.6" y="740.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">Styrer / godkjenner</text>
-  <rect x="714.1" y="726.0" width="24.0" height="16.0" rx="3" fill="#ffffff" stroke="#5e787a" stroke-width="1.3" stroke-dasharray="4 3"/>
+  <rect x="714.1" y="726.0" width="24.0" height="16.0" rx="2" fill="#ffffff" stroke="#5e787a" stroke-width="1" stroke-dasharray="4 3"/>
   <text x="748.1" y="740.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">Kan skrus på / valgfritt</text>
-  <circle cx="44.0" cy="760.0" r="10" fill="#274246"/>
+  <circle cx="44.0" cy="760.0" r="10" fill="#274247"/>
   <text x="44.0" y="765.5" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">1</text>
   <text x="66.0" y="766.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">Forklares i teksten</text>
-  <text x="970.0" y="788.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="end">Kilde: Dapla-manualen, Hva er Dapla-team? · Features · Utkast 03.11.2026</text>
+  <text x="970.0" y="788.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="end">Kilde: Dapla-manualen, Hva er Dapla-team? · Features · Utkast 09.11.2026</text>
 </svg>

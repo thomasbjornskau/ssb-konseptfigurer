@@ -12,16 +12,18 @@ from xml.sax.saxutils import escape
 from PIL import ImageFont
 
 FONT = "Open Sans, Segoe UI, Arial, sans-serif"
+HEAD = "Roboto, Arial, sans-serif"            # mellomtitler (profilhåndboken)
 MONO = "DejaVu Sans Mono, Consolas, monospace"
 TTF = os.path.expanduser("~/.fonts/OpenSans.ttf")
-DATO = "03.11.2026"
+TTF_HEAD = os.path.expanduser("~/.fonts/Roboto.ttf")
+DATO = "09.11.2026"
 
 C = dict(
-    dark="#274246", ink="#1e3a3f", grey="#5e787a", line="#cdd3d4", white="#ffffff",
-    plat="#eff8fa", plat2="#c4dddb",
-    green="#00824d", green2="#b6e9b8", green3="#ecfeed",
-    lil="#7d5fea", lil2="#c3baff", lil3="#f1f1fe", liltxt="#4b2fb0",
-    out="#b9c5c6", out2="#f3f5f5", outtxt="#7f9293",
+    dark="#274247", ink="#274247", grey="#5e787a", line="#cdd3d4", white="#ffffff",
+    plat="#f0f8f9", plat2="#c3dcdc",
+    green="#00824d", green2="#b6e8b8", green3="#ecfeed",
+    lil="#7e5ee8", lil2="#d2ceff", lil3="#f2f0ff", liltxt="#4b2fb0",
+    out="#b9c5c6", out2="#f3f5f5",
 )
 
 # Type ting -> (fyll, strek, tekst)
@@ -39,16 +41,19 @@ _fonts = {}
 def _font(size, weight):
     key = (size, weight)
     if key not in _fonts:
-        f = ImageFont.truetype(TTF, size)
-        try:
-            f.set_variation_by_axes([weight, 100])
-        except Exception:
-            pass
+        if weight >= 700:
+            f = ImageFont.truetype(TTF_HEAD, size)
+            try: f.set_variation_by_axes([700, 100])
+            except Exception: pass
+        else:
+            f = ImageFont.truetype(TTF, size)
+            try: f.set_variation_by_axes([weight, 100])
+            except Exception: pass
         _fonts[key] = f
     return _fonts[key]
 
 def tw(s, size=18, weight=400):
-    """Tekstbredde i px."""
+    """Tekstbredde i px. Fet tekst (700) er Roboto Bold, resten Open Sans."""
     return _font(size, weight).getlength(s)
 
 def wrap(s, width, size=18, weight=400):
@@ -94,7 +99,10 @@ class Fig:
         self.el = []
 
     # --- primitiver -----------------------------------------------------
-    def rect(self, x, y, w, h, fill="none", stroke="none", sw=1.5, rx=8, dash=None):
+    def rect(self, x, y, w, h, fill="none", stroke="none", sw=1, rx=2, dash=None):
+        """Profil: 2 px hjørneradius på flater, full radius bare for piller. 1 px rammer, 2 px for fokus."""
+        rx = rx if rx >= min(w, h) / 2 - 0.5 else 2
+        sw = 2 if sw >= 2 else 1
         d = f' stroke-dasharray="{dash}"' if dash else ""
         self.el.append(f'<rect x="{x:.1f}" y="{y:.1f}" width="{w:.1f}" height="{h:.1f}" rx="{rx}" '
                        f'fill="{fill}" stroke="{stroke}" stroke-width="{sw}"{d}/>')
@@ -108,7 +116,7 @@ class Fig:
         """s kan være str eller liste med linjer. y er grunnlinjen for første linje."""
         lines = s if isinstance(s, list) else [s]
         lh = lh or round(size * 1.3)
-        fam = family or FONT
+        fam = family or (HEAD if weight >= 700 else FONT)
         for i, ln in enumerate(lines):
             n = len(ln) - len(ln.lstrip(" "))
             sp = ' xml:space="preserve"' if n else ""
@@ -136,7 +144,7 @@ class Fig:
         p3 = (x - size*math.cos(a) - size*0.55*math.sin(a), y - size*math.sin(a) + size*0.55*math.cos(a))
         self.poly([p1, p2, p3], col)
 
-    def arrow(self, pts, col=None, sw=2.5, dash=None, start=False, end=True, hs=11):
+    def arrow(self, pts, col=None, sw=2, dash=None, start=False, end=True, hs=11):
         col = col or C["green"]
         pts = [tuple(p) for p in pts]
         # trekk linja litt inn så pilspissen ikke stikker ut
@@ -155,12 +163,12 @@ class Fig:
 
     # piltyper med fast betydning (samme i hele serien)
     def flow(self, pts, **k):   self.arrow(pts, C["green"], **k)                      # dataflyt
-    def access(self, pts, **k): self.arrow(pts, C["lil"], sw=2.2, **k)                # fast tilgang
-    def jit(self, pts, **k):    self.arrow(pts, C["lil"], sw=2.2, dash="7 5", **k)    # tidsavgrenset tilgang
-    def ctrl(self, pts, **k):   self.arrow(pts, C["dark"], sw=1.8, **k)               # styrer / godkjenner / konfigurerer
-    def share(self, pts, **k):  self.arrow(pts, C["green"], sw=2.2, dash="2 5", **k)  # deling (lesetilgang)
-    def backup(self, pts, **k): self.arrow(pts, C["green"], sw=2.2, dash="7 5", **k)  # sikkerhetskopi (manuelt)
-    def step(self, pts, **k):   self.arrow(pts, C["grey"], sw=1.8, **k)               # neste steg / rekkefølge
+    def access(self, pts, **k): self.arrow(pts, C["lil"], sw=2, **k)                # fast tilgang
+    def jit(self, pts, **k):    self.arrow(pts, C["lil"], sw=2, dash="7 5", **k)    # tidsavgrenset tilgang
+    def ctrl(self, pts, **k):   self.arrow(pts, C["dark"], sw=2, **k)               # styrer / godkjenner / konfigurerer
+    def share(self, pts, **k):  self.arrow(pts, C["green"], sw=2, dash="2 5", **k)  # deling (lesetilgang)
+    def backup(self, pts, **k): self.arrow(pts, C["green"], sw=2, dash="7 5", **k)  # sikkerhetskopi (manuelt)
+    def step(self, pts, **k):   self.arrow(pts, C["grey"], sw=2, **k)               # neste steg / rekkefølge
 
     def label_on(self, x, y, s, size=16, fill=None, weight=400, bg=C["white"]):
         """Tekst med hvit bakgrunn, for etiketter på piler."""
@@ -178,7 +186,7 @@ class Fig:
         return h + 4
 
     def box(self, x, y, w, h=None, kind="plat", title=None, body=None, dash=None, tsize=18, bsize=16,
-            pad=12, center=False, sw=1.5, rx=8, tfill=None, bfill=None, minh=0):
+            pad=12, center=False, sw=1, rx=2, tfill=None, bfill=None, minh=0):
         """Boks med tittel og brødtekst. h=None gir automatisk høyde. Returnerer høyden."""
         need = self.box_h(w, title, body, tsize, bsize, pad)
         h = max(h or 0, need, minh)
@@ -197,9 +205,9 @@ class Fig:
         fill, stroke, txt = KIND[kind]
         ry = min(10, h*0.14)
         d = (f"M{x},{y+ry} L{x},{y+h-ry} A{w/2},{ry} 0 0 0 {x+w},{y+h-ry} L{x+w},{y+ry}")
-        self.path(d + " Z", fill, stroke, 1.6, dash)
+        self.path(d + " Z", fill, stroke, 1, dash)
         self.el.append(f'<ellipse cx="{x+w/2:.1f}" cy="{y+ry:.1f}" rx="{w/2:.1f}" ry="{ry:.1f}" fill="{fill}" '
-                       f'stroke="{stroke}" stroke-width="1.6"' + (f' stroke-dasharray="{dash}"' if dash else "") + '/>')
+                       f'stroke="{stroke}" stroke-width="1"' + (f' stroke-dasharray="{dash}"' if dash else "") + '/>')
         L = wrap(label, w - 10, lsize, 700)
         S = wrap(sub, w - 12, ssize, 400) if sub else []
         llh, slh = round(lsize*1.2), round(ssize*1.25)
@@ -208,6 +216,11 @@ class Fig:
         self.text(x + w/2, top + lsize*0.85, L, lsize, 700, txt, "middle", lh=llh)
         if S:
             self.text(x + w/2, top + len(L)*llh + ssize*0.85, S, ssize, 400, C["grey"], "middle", lh=slh)
+
+    def notebox(self, x, y, w, h):
+        """Faktaboks: mørk 1 med 5 px grønn 4 aksentkant til venstre (som FactBox i designsystemet)."""
+        self.rect(x, y, w, h, C["plat"], "none", rx=2)
+        self.rect(x, y, 5, h, C["green"], "none", rx=0)
 
     def person(self, cx, cy, col=None, r=9):
         col = col or C["ink"]
@@ -222,7 +235,7 @@ class Fig:
 
     def marker(self, x, y, n, r=13):
         self.el.append(f'<circle cx="{x:.1f}" cy="{y:.1f}" r="{r}" fill="{C["dark"]}"/>')
-        self.text(x, y + 5.5, str(n), 16, 700, C["white"], "middle")
+        self.text(x, y + 5.5, str(n), 16, 700, C["white"], "middle", family=FONT)
 
     def chip(self, x, y, s, kind="white", size=16, dash=None, mono=False, pad=9, h=None):
         """Pille. Returnerer bredde."""
@@ -244,7 +257,7 @@ class Fig:
 
     def zone(self, x, y, w, h, title, kind="plat", sub=None, dash=None, tsize=18):
         fill, stroke, txt = KIND[kind]
-        self.rect(x, y, w, h, fill, stroke, 1.5, 12, dash)
+        self.rect(x, y, w, h, fill, stroke, 1, 2, dash)
         self.text(x + 14, y + 26, title, tsize, 700, txt)
         if sub:
             self.text(x + 14 + tw(title, tsize, 700) + 10, y + 26, sub, 16, 400, C["grey"])

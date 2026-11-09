@@ -64,8 +64,8 @@ def m12():
     f.text(X[2], ya + 32, "Statistikkteamet har ansvaret for sine kildedata", 16, 700, C["liltxt"])
 
     yn = ya + 76
-    f.rect(30, yn - 22, 940, 58, C["out2"], "none", rx=8)
-    f.para(46, yn, "Bli kjent med skjemadataene i testmiljøet først. Der er dataene fiktive og tilgangen mindre "
+    f.notebox(30, yn - 22, 940, 58)
+    f.para(50, yn, "Bli kjent med skjemadataene i testmiljøet først. Der er dataene fiktive og tilgangen mindre "
            "restriktiv. Tilgang i test og prod søkes om hver for seg.", 908, 16, 400, C["ink"])
     f.h = int(yn + 50 + 92)
     f.frame(["out", "role", "plat", "data", "flow", "step", "marker"],

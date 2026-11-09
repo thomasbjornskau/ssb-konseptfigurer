@@ -1,115 +1,116 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 791" width="1000" height="791">
   <rect x="0" y="0" width="1000" height="791" fill="#ffffff"/>
-  <rect x="30.0" y="16.0" width="620.0" height="400.0" rx="12" fill="#f1f1fe" stroke="#7d5fea" stroke-width="1.5"/>
-  <text x="44.0" y="42.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" fill="#4b2fb0" text-anchor="start">Team A deler</text>
-  <text x="171.7" y="42.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">eier delt-bøttene</text>
-  <path d="M52,160 L52,260 A85.0,10 0 0 0 222,260 L222,160 Z" fill="#ecfeed" stroke="#00824d" stroke-width="1.6"/>
-  <ellipse cx="137.0" cy="160.0" rx="85.0" ry="10.0" fill="#ecfeed" stroke="#00824d" stroke-width="1.6"/>
-  <text x="137.0" y="199.4" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" fill="#1e3a3f" text-anchor="middle">produkt</text>
+  <rect x="30.0" y="16.0" width="620.0" height="400.0" rx="2" fill="#f2f0ff" stroke="#7e5ee8" stroke-width="1"/>
+  <text x="44.0" y="42.0" font-family="Roboto, Arial, sans-serif" font-size="18" font-weight="700" fill="#4b2fb0" text-anchor="start">Team A deler</text>
+  <text x="161.3" y="42.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">eier delt-bøttene</text>
+  <path d="M52,160 L52,260 A85.0,10 0 0 0 222,260 L222,160 Z" fill="#ecfeed" stroke="#00824d" stroke-width="1"/>
+  <ellipse cx="137.0" cy="160.0" rx="85.0" ry="10.0" fill="#ecfeed" stroke="#00824d" stroke-width="1"/>
+  <text x="137.0" y="199.4" font-family="Roboto, Arial, sans-serif" font-size="17" font-weight="700" fill="#274247" text-anchor="middle">produkt</text>
   <text x="137.0" y="218.6" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="middle">pseudonymiserte</text>
   <text x="137.0" y="238.6" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="middle">personopplysninger</text>
-  <text x="52.0" y="138.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#5e787a" text-anchor="start">Produktbøtta</text>
-  <path d="M420,76 L420,156 A105.0,10 0 0 0 630,156 L630,76 Z" fill="#ecfeed" stroke="#00824d" stroke-width="1.6"/>
-  <ellipse cx="525.0" cy="76.0" rx="105.0" ry="10.0" fill="#ecfeed" stroke="#00824d" stroke-width="1.6"/>
-  <text x="525.0" y="115.5" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" fill="#1e3a3f" text-anchor="middle">delt-ameld</text>
+  <text x="52.0" y="138.0" font-family="Roboto, Arial, sans-serif" font-size="16" font-weight="700" fill="#5e787a" text-anchor="start">Produktbøtta</text>
+  <path d="M420,76 L420,156 A105.0,10 0 0 0 630,156 L630,76 Z" fill="#ecfeed" stroke="#00824d" stroke-width="1"/>
+  <ellipse cx="525.0" cy="76.0" rx="105.0" ry="10.0" fill="#ecfeed" stroke="#00824d" stroke-width="1"/>
+  <text x="525.0" y="115.5" font-family="Roboto, Arial, sans-serif" font-size="17" font-weight="700" fill="#274247" text-anchor="middle">delt-ameld</text>
   <text x="525.0" y="134.6" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="middle">type: standard</text>
-  <polyline points="222.0,190.0 300.0,190.0 300.0,116.0 411.2,116.0" fill="none" stroke="#00824d" stroke-width="2.5" stroke-linejoin="round"/>
+  <polyline points="222.0,190.0 300.0,190.0 300.0,116.0 411.2,116.0" fill="none" stroke="#00824d" stroke-width="2" stroke-linejoin="round"/>
   <polygon points="420.0,116.0 409.0,110.0 409.0,122.0" fill="#00824d" stroke="none" stroke-width="1"/>
-  <rect x="276.9" y="88.8" width="150.2" height="21.6" rx="4" fill="#ffffff" stroke="none" stroke-width="1.5"/>
+  <rect x="276.9" y="88.8" width="150.2" height="21.6" rx="2" fill="#ffffff" stroke="none" stroke-width="1"/>
   <text x="352.0" y="104.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="middle">teamet skriver selv</text>
-  <circle cx="630.0" cy="66.0" r="13" fill="#274246"/>
+  <circle cx="630.0" cy="66.0" r="13" fill="#274247"/>
   <text x="630.0" y="71.5" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">1</text>
-  <rect x="256.0" y="262.0" width="140.0" height="107.0" rx="8" fill="#eff8fa" stroke="#c4dddb" stroke-width="1.5"/>
-  <text x="266.0" y="286.4" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" fill="#1e3a3f" text-anchor="start">Delomaten</text>
+  <rect x="256.0" y="262.0" width="140.0" height="107.0" rx="2" fill="#f0f8f9" stroke="#c3dcdc" stroke-width="1"/>
+  <text x="266.0" y="286.4" font-family="Roboto, Arial, sans-serif" font-size="17" font-weight="700" fill="#274247" text-anchor="start">Delomaten</text>
   <text x="266.0" y="315.4" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">de-pseudo-</text>
   <text x="266.0" y="336.4" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">nymiserer</text>
   <text x="266.0" y="357.4" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">automatisk</text>
-  <polyline points="222.0,240.0 240.0,240.0 240.0,300.0 248.8,300.0" fill="none" stroke="#00824d" stroke-width="2.5" stroke-linejoin="round"/>
+  <polyline points="222.0,240.0 240.0,240.0 240.0,300.0 248.8,300.0" fill="none" stroke="#00824d" stroke-width="2" stroke-linejoin="round"/>
   <polygon points="256.0,300.0 247.0,295.1 247.0,304.9" fill="#00824d" stroke="none" stroke-width="1"/>
-  <path d="M420,260 L420,340 A105.0,10 0 0 0 630,340 L630,260 Z" fill="#ecfeed" stroke="#00824d" stroke-width="1.6"/>
-  <ellipse cx="525.0" cy="260.0" rx="105.0" ry="10.0" fill="#ecfeed" stroke="#00824d" stroke-width="1.6"/>
-  <text x="525.0" y="299.4" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" fill="#1e3a3f" text-anchor="middle">delt-ameld-pii</text>
+  <path d="M420,260 L420,340 A105.0,10 0 0 0 630,340 L630,260 Z" fill="#ecfeed" stroke="#00824d" stroke-width="1"/>
+  <ellipse cx="525.0" cy="260.0" rx="105.0" ry="10.0" fill="#ecfeed" stroke="#00824d" stroke-width="1"/>
+  <text x="525.0" y="299.4" font-family="Roboto, Arial, sans-serif" font-size="17" font-weight="700" fill="#274247" text-anchor="middle">delt-ameld-pii</text>
   <text x="525.0" y="318.6" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="middle">type: delomat</text>
-  <polyline points="396.0,300.0 412.8,300.0" fill="none" stroke="#00824d" stroke-width="2.5" stroke-linejoin="round"/>
+  <polyline points="396.0,300.0 412.8,300.0" fill="none" stroke="#00824d" stroke-width="2" stroke-linejoin="round"/>
   <polygon points="420.0,300.0 411.0,295.1 411.0,304.9" fill="#00824d" stroke="none" stroke-width="1"/>
   <path d="M609,367 L609,364 A5,5 0 0 1 619,364 L619,367" fill="none" stroke="#00824d" stroke-width="2"/>
-  <rect x="606.0" y="367.0" width="16.0" height="11.0" rx="2" fill="#00824d" stroke="none" stroke-width="1.5"/>
+  <rect x="606.0" y="367.0" width="16.0" height="11.0" rx="2" fill="#00824d" stroke="none" stroke-width="1"/>
   <text x="600.0" y="374.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="end">Team A har ikke tilgang</text>
-  <circle cx="630.0" cy="250.0" r="13" fill="#274246"/>
+  <circle cx="630.0" cy="250.0" r="13" fill="#274247"/>
   <text x="630.0" y="255.5" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">2</text>
-  <rect x="700.0" y="56.0" width="270.0" height="120.0" rx="12" fill="#f1f1fe" stroke="#7d5fea" stroke-width="1.5"/>
-  <text x="714.0" y="82.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" fill="#4b2fb0" text-anchor="start">Team B</text>
+  <rect x="700.0" y="56.0" width="270.0" height="120.0" rx="2" fill="#f2f0ff" stroke="#7e5ee8" stroke-width="1"/>
+  <text x="714.0" y="82.0" font-family="Roboto, Arial, sans-serif" font-size="18" font-weight="700" fill="#4b2fb0" text-anchor="start">Team B</text>
   <circle cx="732.0" cy="116.3" r="9" fill="#4b2fb0"/>
   <path d="M716.7,145.1 Q716.7,128 732,128 Q747.3,128 747.3,145.1 Z" fill="#4b2fb0" stroke="none" stroke-width="0"/>
   <text x="756.0" y="136.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="600" fill="#4b2fb0" text-anchor="start">developers</text>
-  <rect x="700.0" y="240.0" width="270.0" height="120.0" rx="12" fill="#f1f1fe" stroke="#7d5fea" stroke-width="1.5"/>
-  <text x="714.0" y="266.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" fill="#4b2fb0" text-anchor="start">Team C</text>
+  <rect x="700.0" y="240.0" width="270.0" height="120.0" rx="2" fill="#f2f0ff" stroke="#7e5ee8" stroke-width="1"/>
+  <text x="714.0" y="266.0" font-family="Roboto, Arial, sans-serif" font-size="18" font-weight="700" fill="#4b2fb0" text-anchor="start">Team C</text>
   <circle cx="732.0" cy="300.3" r="9" fill="#4b2fb0"/>
   <path d="M716.7,329.1 Q716.7,312 732,312 Q747.3,312 747.3,329.1 Z" fill="#4b2fb0" stroke="none" stroke-width="0"/>
   <text x="756.0" y="320.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="600" fill="#4b2fb0" text-anchor="start">developers</text>
-  <polyline points="630.0,116.0 692.8,116.0" fill="none" stroke="#00824d" stroke-width="2.2" stroke-linejoin="round" stroke-dasharray="2 5"/>
+  <polyline points="630.0,116.0 692.8,116.0" fill="none" stroke="#00824d" stroke-width="2" stroke-linejoin="round" stroke-dasharray="2 5"/>
   <polygon points="700.0,116.0 691.0,111.0 691.0,121.0" fill="#00824d" stroke="none" stroke-width="1"/>
-  <polyline points="630.0,300.0 692.8,300.0" fill="none" stroke="#00824d" stroke-width="2.2" stroke-linejoin="round" stroke-dasharray="2 5"/>
+  <polyline points="630.0,300.0 692.8,300.0" fill="none" stroke="#00824d" stroke-width="2" stroke-linejoin="round" stroke-dasharray="2 5"/>
   <polygon points="700.0,300.0 691.0,295.1 691.0,304.9" fill="#00824d" stroke="none" stroke-width="1"/>
   <text x="835.0" y="200.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="middle">Tilgang gis under sharedWith</text>
-  <circle cx="970.0" cy="56.0" r="13" fill="#274246"/>
+  <circle cx="970.0" cy="56.0" r="13" fill="#274247"/>
   <text x="970.0" y="61.5" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">3</text>
-  <text x="30.0" y="452.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" fill="#1e3a3f" text-anchor="start">Slik settes det opp, i teamets IaC-repo</text>
-  <rect x="30.0" y="468.0" width="220.0" height="133.0" rx="8" fill="#eff8fa" stroke="#c4dddb" stroke-width="1.5"/>
-  <text x="42.0" y="495.3" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" fill="#1e3a3f" text-anchor="start">Skru på feature</text>
+  <text x="30.0" y="452.0" font-family="Roboto, Arial, sans-serif" font-size="18" font-weight="700" fill="#274247" text-anchor="start">Slik settes det opp, i teamets IaC-repo</text>
+  <rect x="30.0" y="468.0" width="220.0" height="133.0" rx="2" fill="#f0f8f9" stroke="#c3dcdc" stroke-width="1"/>
+  <text x="42.0" y="495.3" font-family="Roboto, Arial, sans-serif" font-size="18" font-weight="700" fill="#274247" text-anchor="start">Skru på feature</text>
   <text x="42.0" y="524.3" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">shared-buckets i</text>
   <text x="42.0" y="545.3" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">projects.yaml. For</text>
   <text x="42.0" y="566.3" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">Delomaten også</text>
   <text x="42.0" y="587.3" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">delomaten</text>
-  <circle cx="34.0" cy="468.0" r="13" fill="#274246"/>
+  <circle cx="34.0" cy="468.0" r="13" fill="#274247"/>
   <text x="34.0" y="473.5" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">4</text>
-  <polyline points="250.0,534.5 263.6,534.5" fill="none" stroke="#5e787a" stroke-width="1.8" stroke-linejoin="round"/>
+  <polyline points="250.0,534.5 263.6,534.5" fill="none" stroke="#5e787a" stroke-width="2" stroke-linejoin="round"/>
   <polygon points="270.0,534.5 262.0,530.1 262.0,538.9" fill="#5e787a" stroke="none" stroke-width="1"/>
-  <rect x="270.0" y="468.0" width="220.0" height="133.0" rx="8" fill="#eff8fa" stroke="#c4dddb" stroke-width="1.5"/>
-  <text x="282.0" y="495.3" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" fill="#1e3a3f" text-anchor="start">Opprett bøtta</text>
+  <rect x="270.0" y="468.0" width="220.0" height="133.0" rx="2" fill="#f0f8f9" stroke="#c3dcdc" stroke-width="1"/>
+  <text x="282.0" y="495.3" font-family="Roboto, Arial, sans-serif" font-size="18" font-weight="700" fill="#274247" text-anchor="start">Opprett bøtta</text>
   <text x="282.0" y="524.3" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">Kortnavn og type i</text>
   <text x="282.0" y="545.3" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">buckets-shared.yaml</text>
-  <circle cx="274.0" cy="468.0" r="13" fill="#274246"/>
+  <circle cx="274.0" cy="468.0" r="13" fill="#274247"/>
   <text x="274.0" y="473.5" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">5</text>
-  <polyline points="490.0,534.5 503.6,534.5" fill="none" stroke="#5e787a" stroke-width="1.8" stroke-linejoin="round"/>
+  <polyline points="490.0,534.5 503.6,534.5" fill="none" stroke="#5e787a" stroke-width="2" stroke-linejoin="round"/>
   <polygon points="510.0,534.5 502.0,530.1 502.0,538.9" fill="#5e787a" stroke="none" stroke-width="1"/>
-  <rect x="510.0" y="468.0" width="220.0" height="133.0" rx="8" fill="#eff8fa" stroke="#c4dddb" stroke-width="1.5"/>
-  <text x="522.0" y="495.3" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" fill="#1e3a3f" text-anchor="start">Gi tilgang</text>
+  <rect x="510.0" y="468.0" width="220.0" height="133.0" rx="2" fill="#f0f8f9" stroke="#c3dcdc" stroke-width="1"/>
+  <text x="522.0" y="495.3" font-family="Roboto, Arial, sans-serif" font-size="18" font-weight="700" fill="#274247" text-anchor="start">Gi tilgang</text>
   <text x="522.0" y="524.3" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">Mottakende gruppe</text>
   <text x="522.0" y="545.3" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">under sharedWith i</text>
   <text x="522.0" y="566.3" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">samme fil</text>
-  <circle cx="514.0" cy="468.0" r="13" fill="#274246"/>
+  <circle cx="514.0" cy="468.0" r="13" fill="#274247"/>
   <text x="514.0" y="473.5" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">6</text>
-  <polyline points="730.0,534.5 743.6,534.5" fill="none" stroke="#5e787a" stroke-width="1.8" stroke-linejoin="round"/>
+  <polyline points="730.0,534.5 743.6,534.5" fill="none" stroke="#5e787a" stroke-width="2" stroke-linejoin="round"/>
   <polygon points="750.0,534.5 742.0,530.1 742.0,538.9" fill="#5e787a" stroke="none" stroke-width="1"/>
-  <rect x="750.0" y="468.0" width="220.0" height="133.0" rx="8" fill="#eff8fa" stroke="#c4dddb" stroke-width="1.5"/>
-  <text x="762.0" y="495.3" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" fill="#1e3a3f" text-anchor="start">Godkjenn og rull ut</text>
+  <rect x="750.0" y="468.0" width="220.0" height="133.0" rx="2" fill="#f0f8f9" stroke="#c3dcdc" stroke-width="1"/>
+  <text x="762.0" y="495.3" font-family="Roboto, Arial, sans-serif" font-size="18" font-weight="700" fill="#274247" text-anchor="start">Godkjenn og rull ut</text>
   <text x="762.0" y="524.3" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">data-admins godkjenner</text>
   <text x="762.0" y="545.3" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">PR-en, deretter atlantis</text>
   <text x="762.0" y="566.3" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">plan og apply</text>
-  <circle cx="754.0" cy="468.0" r="13" fill="#274246"/>
+  <circle cx="754.0" cy="468.0" r="13" fill="#274247"/>
   <text x="754.0" y="473.5" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">7</text>
-  <rect x="30.0" y="627.0" width="940.0" height="58.0" rx="8" fill="#f3f5f5" stroke="none" stroke-width="1.5"/>
-  <text x="46.0" y="649.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#1e3a3f" text-anchor="start">Delomaten brukes unntaksvis. Diskuter formålet med nærmeste leder og rådfør deg gjerne med personvernombudet.</text>
-  <text x="46.0" y="670.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#1e3a3f" text-anchor="start">Dataene må være dokumentert i Datadoc, også hvordan de er pseudonymisert.</text>
+  <rect x="30.0" y="627.0" width="940.0" height="58.0" rx="2" fill="#f0f8f9" stroke="none" stroke-width="1"/>
+  <rect x="30.0" y="627.0" width="5.0" height="58.0" rx="2" fill="#00824d" stroke="none" stroke-width="1"/>
+  <text x="50.0" y="649.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#274247" text-anchor="start">Delomaten brukes unntaksvis. Diskuter formålet med nærmeste leder og rådfør deg gjerne med personvernombudet.</text>
+  <text x="50.0" y="670.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#274247" text-anchor="start">Dataene må være dokumentert i Datadoc, også hvordan de er pseudonymisert.</text>
   <line x1="30.0" y1="703.0" x2="970.0" y2="703.0" stroke="#cdd3d4" stroke-width="1"/>
-  <rect x="32.0" y="717.0" width="24.0" height="16.0" rx="3" fill="#ecfeed" stroke="#00824d" stroke-width="1.3"/>
+  <rect x="32.0" y="717.0" width="24.0" height="16.0" rx="2" fill="#ecfeed" stroke="#00824d" stroke-width="1"/>
   <text x="66.0" y="731.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">Data</text>
-  <rect x="125.1" y="717.0" width="24.0" height="16.0" rx="3" fill="#eff8fa" stroke="#c4dddb" stroke-width="1.3"/>
+  <rect x="125.1" y="717.0" width="24.0" height="16.0" rx="2" fill="#f0f8f9" stroke="#c3dcdc" stroke-width="1"/>
   <text x="159.1" y="731.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">Plattform og tjenester</text>
-  <rect x="346.5" y="717.0" width="24.0" height="16.0" rx="3" fill="#f1f1fe" stroke="#7d5fea" stroke-width="1.3"/>
+  <rect x="346.5" y="717.0" width="24.0" height="16.0" rx="2" fill="#f2f0ff" stroke="#7e5ee8" stroke-width="1"/>
   <text x="380.5" y="731.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">Roller og team</text>
-  <polyline points="510.6,726.0 532.2,726.0" fill="none" stroke="#00824d" stroke-width="2.5" stroke-linejoin="round"/>
+  <polyline points="510.6,726.0 532.2,726.0" fill="none" stroke="#00824d" stroke-width="2" stroke-linejoin="round"/>
   <polygon points="538.6,726.0 530.6,721.6 530.6,730.4" fill="#00824d" stroke="none" stroke-width="1"/>
   <text x="546.6" y="731.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">Dataflyt</text>
-  <polyline points="626.8,726.0 648.4,726.0" fill="none" stroke="#00824d" stroke-width="2.2" stroke-linejoin="round" stroke-dasharray="2 5"/>
+  <polyline points="626.8,726.0 648.4,726.0" fill="none" stroke="#00824d" stroke-width="2" stroke-linejoin="round" stroke-dasharray="2 5"/>
   <polygon points="654.8,726.0 646.8,721.6 646.8,730.4" fill="#00824d" stroke="none" stroke-width="1"/>
   <text x="662.8" y="731.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">Deling (lesetilgang)</text>
-  <polyline points="825.1,726.0 846.7,726.0" fill="none" stroke="#5e787a" stroke-width="1.8" stroke-linejoin="round"/>
+  <polyline points="825.1,726.0 846.7,726.0" fill="none" stroke="#5e787a" stroke-width="2" stroke-linejoin="round"/>
   <polygon points="853.1,726.0 845.1,721.6 845.1,730.4" fill="#5e787a" stroke="none" stroke-width="1"/>
   <text x="861.1" y="731.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">Neste steg</text>
-  <circle cx="44.0" cy="751.0" r="10" fill="#274246"/>
+  <circle cx="44.0" cy="751.0" r="10" fill="#274247"/>
   <text x="44.0" y="756.5" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">1</text>
   <text x="66.0" y="757.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">Forklares i teksten</text>
-  <text x="970.0" y="779.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="end">Kilde: Dapla-manualen, Deling av data · Delomaten · Features · Utkast 03.11.2026</text>
+  <text x="970.0" y="779.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="end">Kilde: Dapla-manualen, Deling av data · Delomaten · Features · Utkast 09.11.2026</text>
 </svg>

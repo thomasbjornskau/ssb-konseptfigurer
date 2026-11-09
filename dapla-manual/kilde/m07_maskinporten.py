@@ -54,8 +54,8 @@ def m07():
         if i < 2: f.step([(x + bw, y + 14 + hh/2), (x + bw + gap, y + 14 + hh/2)], hs=8)
 
     yn = y + 14 + hh + 38
-    f.rect(30, yn - 22, 940, 58, C["out2"], "none", rx=8)
-    f.para(46, yn, "Med personlig bruker faller steg 1 og 2 bort: Keycloak-tokenet hentes for eksempel med AuthClient "
+    f.notebox(30, yn - 22, 940, 58)
+    f.para(50, yn, "Med personlig bruker faller steg 1 og 2 bort: Keycloak-tokenet hentes for eksempel med AuthClient "
            "i dapla-toolbelt, og personen må være autorisert i Guardian på forhånd.", 908, 16, 400, C["ink"])
 
     f.h = int(yn + 50 + 92)

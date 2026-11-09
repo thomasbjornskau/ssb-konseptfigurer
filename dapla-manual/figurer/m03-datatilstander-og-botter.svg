@@ -1,127 +1,126 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 816" width="1000" height="816">
-  <rect x="0" y="0" width="1000" height="816" fill="#ffffff"/>
-  <rect x="166.0" y="20.0" width="148.0" height="65.0" rx="8" fill="#b6e9b8" stroke="#00824d" stroke-width="1.5"/>
-  <text x="240.0" y="45.3" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" fill="#1e3a3f" text-anchor="middle">Kildedata</text>
-  <polyline points="314.0,52.5 319.8,52.5" fill="none" stroke="#00824d" stroke-width="2.2" stroke-linejoin="round"/>
-  <polygon points="327.0,52.5 318.0,47.5 318.0,57.5" fill="#00824d" stroke="none" stroke-width="1"/>
-  <rect x="327.0" y="20.0" width="148.0" height="65.0" rx="8" fill="#ecfeed" stroke="#00824d" stroke-width="1.5" stroke-dasharray="6 4"/>
-  <text x="401.0" y="45.3" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" fill="#1e3a3f" text-anchor="middle">Inndata</text>
-  <text x="401.0" y="105.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="middle">ikke obligatorisk</text>
-  <polyline points="475.0,52.5 480.8,52.5" fill="none" stroke="#00824d" stroke-width="2.2" stroke-linejoin="round"/>
-  <polygon points="488.0,52.5 479.0,47.5 479.0,57.5" fill="#00824d" stroke="none" stroke-width="1"/>
-  <rect x="488.0" y="20.0" width="148.0" height="65.0" rx="8" fill="#ecfeed" stroke="#00824d" stroke-width="1.5"/>
-  <text x="562.0" y="45.3" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" fill="#1e3a3f" text-anchor="middle">Klargjorte</text>
-  <text x="562.0" y="68.3" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" fill="#1e3a3f" text-anchor="middle">data</text>
-  <polyline points="636.0,52.5 641.8,52.5" fill="none" stroke="#00824d" stroke-width="2.2" stroke-linejoin="round"/>
-  <polygon points="649.0,52.5 640.0,47.5 640.0,57.5" fill="#00824d" stroke="none" stroke-width="1"/>
-  <rect x="649.0" y="20.0" width="148.0" height="65.0" rx="8" fill="#ecfeed" stroke="#00824d" stroke-width="1.5" stroke-dasharray="6 4"/>
-  <text x="723.0" y="45.3" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" fill="#1e3a3f" text-anchor="middle">Statistikk</text>
-  <text x="723.0" y="105.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="middle">ikke obligatorisk</text>
-  <polyline points="797.0,52.5 802.8,52.5" fill="none" stroke="#00824d" stroke-width="2.2" stroke-linejoin="round"/>
-  <polygon points="810.0,52.5 801.0,47.5 801.0,57.5" fill="#00824d" stroke="none" stroke-width="1"/>
-  <rect x="810.0" y="20.0" width="148.0" height="65.0" rx="8" fill="#ecfeed" stroke="#00824d" stroke-width="1.5"/>
-  <text x="884.0" y="45.3" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" fill="#1e3a3f" text-anchor="middle">Utdata</text>
-  <circle cx="473.0" cy="20.0" r="13" fill="#274246"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 809" width="1000" height="809">
+  <rect x="0" y="0" width="1000" height="809" fill="#ffffff"/>
+  <rect x="166.0" y="20.0" width="148.0" height="58.0" rx="2" fill="#b6e8b8" stroke="#00824d" stroke-width="1"/>
+  <text x="240.0" y="45.3" font-family="Roboto, Arial, sans-serif" font-size="18" font-weight="700" fill="#274247" text-anchor="middle">Kildedata</text>
+  <polyline points="314.0,49.0 319.8,49.0" fill="none" stroke="#00824d" stroke-width="2.2" stroke-linejoin="round"/>
+  <polygon points="327.0,49.0 318.0,44.0 318.0,54.0" fill="#00824d" stroke="none" stroke-width="1"/>
+  <rect x="327.0" y="20.0" width="148.0" height="58.0" rx="2" fill="#ecfeed" stroke="#00824d" stroke-width="1" stroke-dasharray="6 4"/>
+  <text x="401.0" y="45.3" font-family="Roboto, Arial, sans-serif" font-size="18" font-weight="700" fill="#274247" text-anchor="middle">Inndata</text>
+  <text x="401.0" y="98.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="middle">ikke obligatorisk</text>
+  <polyline points="475.0,49.0 480.8,49.0" fill="none" stroke="#00824d" stroke-width="2.2" stroke-linejoin="round"/>
+  <polygon points="488.0,49.0 479.0,44.0 479.0,54.0" fill="#00824d" stroke="none" stroke-width="1"/>
+  <rect x="488.0" y="20.0" width="148.0" height="58.0" rx="2" fill="#ecfeed" stroke="#00824d" stroke-width="1"/>
+  <text x="562.0" y="45.3" font-family="Roboto, Arial, sans-serif" font-size="18" font-weight="700" fill="#274247" text-anchor="middle">Klargjorte data</text>
+  <polyline points="636.0,49.0 641.8,49.0" fill="none" stroke="#00824d" stroke-width="2.2" stroke-linejoin="round"/>
+  <polygon points="649.0,49.0 640.0,44.0 640.0,54.0" fill="#00824d" stroke="none" stroke-width="1"/>
+  <rect x="649.0" y="20.0" width="148.0" height="58.0" rx="2" fill="#ecfeed" stroke="#00824d" stroke-width="1" stroke-dasharray="6 4"/>
+  <text x="723.0" y="45.3" font-family="Roboto, Arial, sans-serif" font-size="18" font-weight="700" fill="#274247" text-anchor="middle">Statistikk</text>
+  <text x="723.0" y="98.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="middle">ikke obligatorisk</text>
+  <polyline points="797.0,49.0 802.8,49.0" fill="none" stroke="#00824d" stroke-width="2.2" stroke-linejoin="round"/>
+  <polygon points="810.0,49.0 801.0,44.0 801.0,54.0" fill="#00824d" stroke="none" stroke-width="1"/>
+  <rect x="810.0" y="20.0" width="148.0" height="58.0" rx="2" fill="#ecfeed" stroke="#00824d" stroke-width="1"/>
+  <text x="884.0" y="45.3" font-family="Roboto, Arial, sans-serif" font-size="18" font-weight="700" fill="#274247" text-anchor="middle">Utdata</text>
+  <circle cx="473.0" cy="20.0" r="13" fill="#274247"/>
   <text x="473.0" y="25.5" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">1</text>
-  <text x="30.0" y="137.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#5e787a" text-anchor="start">Hva det er</text>
-  <rect x="166.0" y="119.0" width="148.0" height="103.0" rx="8" fill="#ffffff" stroke="#cdd3d4" stroke-width="1.5"/>
-  <text x="176.0" y="142.6" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">Slik dataene ble</text>
-  <text x="176.0" y="163.6" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">levert fra</text>
-  <text x="176.0" y="184.6" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">dataeier</text>
-  <rect x="327.0" y="119.0" width="148.0" height="103.0" rx="8" fill="#ffffff" stroke="#cdd3d4" stroke-width="1.5"/>
-  <text x="337.0" y="142.6" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">Kildedata i SSBs</text>
-  <text x="337.0" y="163.6" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">standard</text>
-  <text x="337.0" y="184.6" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">lagringsformat</text>
-  <rect x="488.0" y="119.0" width="148.0" height="103.0" rx="8" fill="#ffffff" stroke="#cdd3d4" stroke-width="1.5"/>
-  <text x="498.0" y="142.6" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">Beregnet, koblet</text>
-  <text x="498.0" y="163.6" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">og editert. Oftest</text>
-  <text x="498.0" y="184.6" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">enkelt-</text>
-  <text x="498.0" y="205.6" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">observasjoner</text>
-  <rect x="649.0" y="119.0" width="148.0" height="103.0" rx="8" fill="#ffffff" stroke="#cdd3d4" stroke-width="1.5"/>
-  <text x="659.0" y="142.6" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">Ofte aggregert</text>
-  <text x="659.0" y="163.6" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">eller estimert.</text>
-  <text x="659.0" y="184.6" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">Kan være</text>
-  <text x="659.0" y="205.6" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">konfidensiell</text>
-  <rect x="810.0" y="119.0" width="148.0" height="103.0" rx="8" fill="#ffffff" stroke="#cdd3d4" stroke-width="1.5"/>
-  <text x="820.0" y="142.6" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">Statistikk der</text>
-  <text x="820.0" y="163.6" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">konfidensialiteten</text>
-  <text x="820.0" y="184.6" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">er ivaretatt. Det</text>
-  <text x="820.0" y="205.6" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">som publiseres</text>
-  <text x="30.0" y="284.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#5e787a" text-anchor="start">Lagres i</text>
-  <path d="M166,254 L166,330 A74.0,10 0 0 0 314,330 L314,254 Z" fill="#b6e9b8" stroke="#00824d" stroke-width="1.6"/>
-  <ellipse cx="240.0" cy="254.0" rx="74.0" ry="10.0" fill="#b6e9b8" stroke="#00824d" stroke-width="1.6"/>
-  <text x="240.0" y="281.4" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" fill="#1e3a3f" text-anchor="middle">kilde</text>
-  <text x="240.0" y="300.6" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="middle">ssb-‹team›-data-</text>
-  <text x="240.0" y="320.6" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="middle">kilde-prod</text>
-  <path d="M327,254 L327,330 A315.5,10 0 0 0 958,330 L958,254 Z" fill="#ecfeed" stroke="#00824d" stroke-width="1.6"/>
-  <ellipse cx="642.5" cy="254.0" rx="315.5" ry="10.0" fill="#ecfeed" stroke="#00824d" stroke-width="1.6"/>
-  <text x="642.5" y="291.4" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" fill="#1e3a3f" text-anchor="middle">produkt</text>
-  <text x="642.5" y="310.6" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="middle">ssb-‹team›-data-produkt-prod, i mapper per statistikkprodukt og datatilstand</text>
-  <circle cx="954.0" cy="248.0" r="13" fill="#274246"/>
-  <text x="954.0" y="253.5" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">2</text>
-  <text x="30.0" y="388.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#5e787a" text-anchor="start">Hvem har</text>
-  <text x="30.0" y="408.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#5e787a" text-anchor="start">tilgang</text>
-  <rect x="166.0" y="362.0" width="148.0" height="61.0" rx="8" fill="#f1f1fe" stroke="#7d5fea" stroke-width="1.5"/>
-  <text x="176.0" y="385.6" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#4b2fb0" text-anchor="start">data-admins,</text>
-  <text x="176.0" y="406.6" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#4b2fb0" text-anchor="start">med JIT</text>
-  <rect x="327.0" y="362.0" width="631.0" height="44.0" rx="8" fill="#f1f1fe" stroke="#7d5fea" stroke-width="1.5"/>
-  <text x="337.0" y="385.6" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#4b2fb0" text-anchor="start">developers, fast tilgang (data-admins er normalt også developers)</text>
-  <circle cx="312.0" cy="362.0" r="13" fill="#274246"/>
-  <text x="312.0" y="367.5" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">3</text>
-  <text x="30.0" y="458.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#5e787a" text-anchor="start">Hva flytter</text>
-  <text x="30.0" y="478.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#5e787a" text-anchor="start">dataene</text>
-  <rect x="240.0" y="432.0" width="161.0" height="80.0" rx="8" fill="#eff8fa" stroke="#c4dddb" stroke-width="1.5"/>
-  <text x="248.0" y="453.6" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#1e3a3f" text-anchor="start">Kildomaten</text>
-  <text x="248.0" y="481.6" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">dataminimering og</text>
-  <text x="248.0" y="502.6" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">pseudonymisering</text>
-  <rect x="432.0" y="432.0" width="526.0" height="74.0" rx="8" fill="#eff8fa" stroke="#c4dddb" stroke-width="1.5"/>
-  <text x="440.0" y="453.6" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#1e3a3f" text-anchor="start">Teamets egen kode</text>
-  <text x="440.0" y="481.6" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">for eksempel i Dapla Lab, med koden lagret på GitHub</text>
-  <circle cx="399.0" cy="432.0" r="13" fill="#274246"/>
-  <text x="399.0" y="437.5" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">4</text>
-  <text x="30.0" y="554.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#5e787a" text-anchor="start">Metadata som</text>
-  <text x="30.0" y="574.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#5e787a" text-anchor="start">forventes</text>
-  <rect x="166.0" y="536.0" width="148.0" height="124.0" rx="8" fill="#ffffff" stroke="#cdd3d4" stroke-width="1.5"/>
-  <text x="176.0" y="559.6" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">Dataeier,</text>
-  <text x="176.0" y="580.6" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">område og tid.</text>
-  <text x="176.0" y="601.6" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">Om variabler:</text>
-  <text x="176.0" y="622.6" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">bare det</text>
-  <text x="176.0" y="643.6" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">dataeier leverer</text>
-  <rect x="327.0" y="536.0" width="148.0" height="124.0" rx="8" fill="#ffffff" stroke="#cdd3d4" stroke-width="1.5"/>
-  <text x="337.0" y="559.6" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">Som for</text>
-  <text x="337.0" y="580.6" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">kildedata</text>
-  <rect x="488.0" y="536.0" width="148.0" height="124.0" rx="8" fill="#ffffff" stroke="#cdd3d4" stroke-width="1.5"/>
-  <text x="498.0" y="559.6" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">Variabel-</text>
-  <text x="498.0" y="580.6" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">definisjoner og</text>
-  <text x="498.0" y="601.6" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">tiltak som har</text>
-  <text x="498.0" y="622.6" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">forbedret</text>
-  <text x="498.0" y="643.6" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">nøyaktigheten</text>
-  <rect x="649.0" y="536.0" width="148.0" height="124.0" rx="8" fill="#ffffff" stroke="#cdd3d4" stroke-width="1.5"/>
-  <text x="659.0" y="559.6" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">Variabel-</text>
-  <text x="659.0" y="580.6" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">definisjoner, og</text>
-  <text x="659.0" y="601.6" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">metoder og kode</text>
-  <text x="659.0" y="622.6" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">som er brukt</text>
-  <rect x="810.0" y="536.0" width="148.0" height="124.0" rx="8" fill="#ffffff" stroke="#cdd3d4" stroke-width="1.5"/>
-  <text x="820.0" y="559.6" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">Som for</text>
-  <text x="820.0" y="580.6" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">statistikk</text>
-  <path d="M488,674 L488,682 L958,682 L958,674" fill="none" stroke="#00824d" stroke-width="2"/>
-  <text x="723.0" y="706.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#00824d" text-anchor="middle">Dokumenteres i Datadoc (obligatorisk)</text>
-  <circle cx="960.0" cy="700.0" r="13" fill="#274246"/>
-  <text x="960.0" y="705.5" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">5</text>
-  <line x1="30.0" y1="728.0" x2="970.0" y2="728.0" stroke="#cdd3d4" stroke-width="1"/>
-  <rect x="32.0" y="742.0" width="24.0" height="16.0" rx="3" fill="#ecfeed" stroke="#00824d" stroke-width="1.3"/>
-  <text x="66.0" y="756.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">Data</text>
-  <rect x="125.1" y="742.0" width="24.0" height="16.0" rx="3" fill="#eff8fa" stroke="#c4dddb" stroke-width="1.3"/>
-  <text x="159.1" y="756.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">Plattform og tjenester</text>
-  <rect x="346.5" y="742.0" width="24.0" height="16.0" rx="3" fill="#f1f1fe" stroke="#7d5fea" stroke-width="1.3"/>
-  <text x="380.5" y="756.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">Roller og team</text>
-  <polyline points="510.6,751.0 532.2,751.0" fill="none" stroke="#00824d" stroke-width="2.5" stroke-linejoin="round"/>
-  <polygon points="538.6,751.0 530.6,746.6 530.6,755.4" fill="#00824d" stroke="none" stroke-width="1"/>
-  <text x="546.6" y="756.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">Dataflyt</text>
-  <rect x="628.8" y="742.0" width="24.0" height="16.0" rx="3" fill="#ffffff" stroke="#5e787a" stroke-width="1.3" stroke-dasharray="4 3"/>
-  <text x="662.8" y="756.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">Ikke obligatorisk</text>
-  <circle cx="44.0" cy="776.0" r="10" fill="#274246"/>
-  <text x="44.0" y="781.5" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">1</text>
-  <text x="66.0" y="782.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">Forklares i teksten</text>
-  <text x="970.0" y="804.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="end">Kilde: Dapla-manualen, Datatilstander · Hva er bøtter? · Kildomaten · Datadoc · Utkast 03.11.2026</text>
+  <text x="30.0" y="130.0" font-family="Roboto, Arial, sans-serif" font-size="16" font-weight="700" fill="#5e787a" text-anchor="start">Hva det er</text>
+  <rect x="166.0" y="112.0" width="148.0" height="103.0" rx="2" fill="#ffffff" stroke="#cdd3d4" stroke-width="1"/>
+  <text x="176.0" y="135.6" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">Slik dataene ble</text>
+  <text x="176.0" y="156.6" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">levert fra</text>
+  <text x="176.0" y="177.6" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">dataeier</text>
+  <rect x="327.0" y="112.0" width="148.0" height="103.0" rx="2" fill="#ffffff" stroke="#cdd3d4" stroke-width="1"/>
+  <text x="337.0" y="135.6" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">Kildedata i SSBs</text>
+  <text x="337.0" y="156.6" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">standard</text>
+  <text x="337.0" y="177.6" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">lagringsformat</text>
+  <rect x="488.0" y="112.0" width="148.0" height="103.0" rx="2" fill="#ffffff" stroke="#cdd3d4" stroke-width="1"/>
+  <text x="498.0" y="135.6" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">Beregnet, koblet</text>
+  <text x="498.0" y="156.6" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">og editert. Oftest</text>
+  <text x="498.0" y="177.6" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">enkelt-</text>
+  <text x="498.0" y="198.6" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">observasjoner</text>
+  <rect x="649.0" y="112.0" width="148.0" height="103.0" rx="2" fill="#ffffff" stroke="#cdd3d4" stroke-width="1"/>
+  <text x="659.0" y="135.6" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">Ofte aggregert</text>
+  <text x="659.0" y="156.6" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">eller estimert.</text>
+  <text x="659.0" y="177.6" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">Kan være</text>
+  <text x="659.0" y="198.6" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">konfidensiell</text>
+  <rect x="810.0" y="112.0" width="148.0" height="103.0" rx="2" fill="#ffffff" stroke="#cdd3d4" stroke-width="1"/>
+  <text x="820.0" y="135.6" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">Statistikk der</text>
+  <text x="820.0" y="156.6" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">konfidensialiteten</text>
+  <text x="820.0" y="177.6" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">er ivaretatt. Det</text>
+  <text x="820.0" y="198.6" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">som publiseres</text>
+  <text x="30.0" y="277.0" font-family="Roboto, Arial, sans-serif" font-size="16" font-weight="700" fill="#5e787a" text-anchor="start">Lagres i</text>
+  <path d="M166,247 L166,323 A74.0,10 0 0 0 314,323 L314,247 Z" fill="#b6e8b8" stroke="#00824d" stroke-width="1"/>
+  <ellipse cx="240.0" cy="247.0" rx="74.0" ry="10.0" fill="#b6e8b8" stroke="#00824d" stroke-width="1"/>
+  <text x="240.0" y="274.4" font-family="Roboto, Arial, sans-serif" font-size="17" font-weight="700" fill="#274247" text-anchor="middle">kilde</text>
+  <text x="240.0" y="293.6" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="middle">ssb-‹team›-data-</text>
+  <text x="240.0" y="313.6" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="middle">kilde-prod</text>
+  <path d="M327,247 L327,323 A315.5,10 0 0 0 958,323 L958,247 Z" fill="#ecfeed" stroke="#00824d" stroke-width="1"/>
+  <ellipse cx="642.5" cy="247.0" rx="315.5" ry="10.0" fill="#ecfeed" stroke="#00824d" stroke-width="1"/>
+  <text x="642.5" y="284.4" font-family="Roboto, Arial, sans-serif" font-size="17" font-weight="700" fill="#274247" text-anchor="middle">produkt</text>
+  <text x="642.5" y="303.6" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="middle">ssb-‹team›-data-produkt-prod, i mapper per statistikkprodukt og datatilstand</text>
+  <circle cx="954.0" cy="241.0" r="13" fill="#274247"/>
+  <text x="954.0" y="246.5" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">2</text>
+  <text x="30.0" y="381.0" font-family="Roboto, Arial, sans-serif" font-size="16" font-weight="700" fill="#5e787a" text-anchor="start">Hvem har</text>
+  <text x="30.0" y="401.0" font-family="Roboto, Arial, sans-serif" font-size="16" font-weight="700" fill="#5e787a" text-anchor="start">tilgang</text>
+  <rect x="166.0" y="355.0" width="148.0" height="61.0" rx="2" fill="#f2f0ff" stroke="#7e5ee8" stroke-width="1"/>
+  <text x="176.0" y="378.6" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#4b2fb0" text-anchor="start">data-admins,</text>
+  <text x="176.0" y="399.6" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#4b2fb0" text-anchor="start">med JIT</text>
+  <rect x="327.0" y="355.0" width="631.0" height="44.0" rx="2" fill="#f2f0ff" stroke="#7e5ee8" stroke-width="1"/>
+  <text x="337.0" y="378.6" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#4b2fb0" text-anchor="start">developers, fast tilgang (data-admins er normalt også developers)</text>
+  <circle cx="312.0" cy="355.0" r="13" fill="#274247"/>
+  <text x="312.0" y="360.5" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">3</text>
+  <text x="30.0" y="451.0" font-family="Roboto, Arial, sans-serif" font-size="16" font-weight="700" fill="#5e787a" text-anchor="start">Hva flytter</text>
+  <text x="30.0" y="471.0" font-family="Roboto, Arial, sans-serif" font-size="16" font-weight="700" fill="#5e787a" text-anchor="start">dataene</text>
+  <rect x="240.0" y="425.0" width="161.0" height="80.0" rx="2" fill="#f0f8f9" stroke="#c3dcdc" stroke-width="1"/>
+  <text x="248.0" y="446.6" font-family="Roboto, Arial, sans-serif" font-size="16" font-weight="700" fill="#274247" text-anchor="start">Kildomaten</text>
+  <text x="248.0" y="474.6" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">dataminimering og</text>
+  <text x="248.0" y="495.6" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">pseudonymisering</text>
+  <rect x="432.0" y="425.0" width="526.0" height="74.0" rx="2" fill="#f0f8f9" stroke="#c3dcdc" stroke-width="1"/>
+  <text x="440.0" y="446.6" font-family="Roboto, Arial, sans-serif" font-size="16" font-weight="700" fill="#274247" text-anchor="start">Teamets egen kode</text>
+  <text x="440.0" y="474.6" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">for eksempel i Dapla Lab, med koden lagret på GitHub</text>
+  <circle cx="399.0" cy="425.0" r="13" fill="#274247"/>
+  <text x="399.0" y="430.5" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">4</text>
+  <text x="30.0" y="547.0" font-family="Roboto, Arial, sans-serif" font-size="16" font-weight="700" fill="#5e787a" text-anchor="start">Metadata som</text>
+  <text x="30.0" y="567.0" font-family="Roboto, Arial, sans-serif" font-size="16" font-weight="700" fill="#5e787a" text-anchor="start">forventes</text>
+  <rect x="166.0" y="529.0" width="148.0" height="124.0" rx="2" fill="#ffffff" stroke="#cdd3d4" stroke-width="1"/>
+  <text x="176.0" y="552.6" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">Dataeier,</text>
+  <text x="176.0" y="573.6" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">område og tid.</text>
+  <text x="176.0" y="594.6" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">Om variabler:</text>
+  <text x="176.0" y="615.6" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">bare det</text>
+  <text x="176.0" y="636.6" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">dataeier leverer</text>
+  <rect x="327.0" y="529.0" width="148.0" height="124.0" rx="2" fill="#ffffff" stroke="#cdd3d4" stroke-width="1"/>
+  <text x="337.0" y="552.6" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">Som for</text>
+  <text x="337.0" y="573.6" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">kildedata</text>
+  <rect x="488.0" y="529.0" width="148.0" height="124.0" rx="2" fill="#ffffff" stroke="#cdd3d4" stroke-width="1"/>
+  <text x="498.0" y="552.6" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">Variabel-</text>
+  <text x="498.0" y="573.6" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">definisjoner og</text>
+  <text x="498.0" y="594.6" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">tiltak som har</text>
+  <text x="498.0" y="615.6" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">forbedret</text>
+  <text x="498.0" y="636.6" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">nøyaktigheten</text>
+  <rect x="649.0" y="529.0" width="148.0" height="124.0" rx="2" fill="#ffffff" stroke="#cdd3d4" stroke-width="1"/>
+  <text x="659.0" y="552.6" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">Variabel-</text>
+  <text x="659.0" y="573.6" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">definisjoner, og</text>
+  <text x="659.0" y="594.6" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">metoder og kode</text>
+  <text x="659.0" y="615.6" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">som er brukt</text>
+  <rect x="810.0" y="529.0" width="148.0" height="124.0" rx="2" fill="#ffffff" stroke="#cdd3d4" stroke-width="1"/>
+  <text x="820.0" y="552.6" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">Som for</text>
+  <text x="820.0" y="573.6" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">statistikk</text>
+  <path d="M488,667 L488,675 L958,675 L958,667" fill="none" stroke="#00824d" stroke-width="2"/>
+  <text x="723.0" y="699.0" font-family="Roboto, Arial, sans-serif" font-size="16" font-weight="700" fill="#00824d" text-anchor="middle">Dokumenteres i Datadoc (obligatorisk)</text>
+  <circle cx="960.0" cy="693.0" r="13" fill="#274247"/>
+  <text x="960.0" y="698.5" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">5</text>
+  <line x1="30.0" y1="721.0" x2="970.0" y2="721.0" stroke="#cdd3d4" stroke-width="1"/>
+  <rect x="32.0" y="735.0" width="24.0" height="16.0" rx="2" fill="#ecfeed" stroke="#00824d" stroke-width="1"/>
+  <text x="66.0" y="749.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">Data</text>
+  <rect x="125.1" y="735.0" width="24.0" height="16.0" rx="2" fill="#f0f8f9" stroke="#c3dcdc" stroke-width="1"/>
+  <text x="159.1" y="749.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">Plattform og tjenester</text>
+  <rect x="346.5" y="735.0" width="24.0" height="16.0" rx="2" fill="#f2f0ff" stroke="#7e5ee8" stroke-width="1"/>
+  <text x="380.5" y="749.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">Roller og team</text>
+  <polyline points="510.6,744.0 532.2,744.0" fill="none" stroke="#00824d" stroke-width="2" stroke-linejoin="round"/>
+  <polygon points="538.6,744.0 530.6,739.6 530.6,748.4" fill="#00824d" stroke="none" stroke-width="1"/>
+  <text x="546.6" y="749.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">Dataflyt</text>
+  <rect x="628.8" y="735.0" width="24.0" height="16.0" rx="2" fill="#ffffff" stroke="#5e787a" stroke-width="1" stroke-dasharray="4 3"/>
+  <text x="662.8" y="749.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">Ikke obligatorisk</text>
+  <circle cx="44.0" cy="769.0" r="10" fill="#274247"/>
+  <text x="44.0" y="774.5" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">1</text>
+  <text x="66.0" y="775.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">Forklares i teksten</text>
+  <text x="970.0" y="797.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="end">Kilde: Dapla-manualen, Datatilstander · Hva er bøtter? · Kildomaten · Datadoc · Utkast 09.11.2026</text>
 </svg>
