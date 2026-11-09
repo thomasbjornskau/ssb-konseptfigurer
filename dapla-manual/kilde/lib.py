@@ -159,6 +159,7 @@ class Fig:
     def jit(self, pts, **k):    self.arrow(pts, C["lil"], sw=2.2, dash="7 5", **k)    # tidsavgrenset tilgang
     def ctrl(self, pts, **k):   self.arrow(pts, C["dark"], sw=1.8, **k)               # styrer / godkjenner / konfigurerer
     def share(self, pts, **k):  self.arrow(pts, C["green"], sw=2.2, dash="2 5", **k)  # deling (lesetilgang)
+    def backup(self, pts, **k): self.arrow(pts, C["green"], sw=2.2, dash="7 5", **k)  # sikkerhetskopi (manuelt)
     def step(self, pts, **k):   self.arrow(pts, C["grey"], sw=1.8, **k)               # neste steg / rekkefølge
 
     def label_on(self, x, y, s, size=16, fill=None, weight=400, bg=C["white"]):
@@ -251,7 +252,7 @@ class Fig:
     # --- ramme: tegnforklaring og kildelinje ----------------------------
     LEG = {
         "flow": "Dataflyt", "access": "Fast tilgang", "jit": "Tidsavgrenset tilgang (JIT)",
-        "ctrl": "Styrer / godkjenner", "share": "Deling (lesetilgang)", "step": "Neste steg",
+        "ctrl": "Styrer / godkjenner", "share": "Deling (lesetilgang)", "backup": "Sikkerhetskopi", "step": "Neste steg",
         "plat": "Plattform og tjenester", "data": "Data", "role": "Roller og team",
         "out": "Utenfor Dapla", "dash": "Kan skrus på / valgfritt", "plan": "Planlagt",
         "marker": "Forklares i teksten",
@@ -267,7 +268,7 @@ class Fig:
             iw = 36 + tw(lab, 16) + 22
             if cx + iw > x + maxw:
                 cx = x; cy += 26
-            if it in ("flow", "access", "jit", "ctrl", "share", "step"):
+            if it in ("flow", "access", "jit", "ctrl", "share", "step", "backup"):
                 getattr(self, it)([(cx, cy-5), (cx+28, cy-5)], hs=8)
             elif it in ("plat", "data", "role", "out"):
                 f, s, _ = KIND[it]; self.rect(cx+2, cy-14, 24, 16, f, s, 1.3, 3)

@@ -41,7 +41,13 @@ Jeg har bare sett foilene i lav oppløsning, så listen er ikke uttømmende.
 | C5 | M10 | URL-en til testmiljøet i Dapla Lab er utelatt. Manualen nevner den, men teksten var avkortet der jeg leste. |
 | C6 | M12 | «For eksempel fra xml til et annet format» forenkler en fotnote om konvertering fra xml. |
 | C7 | M11 | «Ett team per gruppe som jobber med de samme dataene» er min forkortelse av manualens avsnitt om teamstruktur. |
+| C8 | M13 | At katalogen er felles for alle team, men at hvert team bare ser sine egne tabeller, bygger på «sentral katalog på Dapla» og «liste ut alle tabeller som tilhører teamet». Hvordan teamene er skilt i katalogen (for eksempel ett skjema per team) står ikke i manualen. |
+| C9 | M13 | Figuren sier ikke hvor endringsloggen (get_edits) lagres. Manualen er uklar: «slette editeringshistorikk og filene i teamets bøtte», men cleanup=False beholder «editeringshistorikk og selve datafilene i produktbøtta». |
+| C10 | M13 | Sikkerhetskopien er tegnet som en pil til teamets produktbøtte. Manualen sier at standardstien er `{data_path}/catalog-export`, men ikke hva data_path er. |
+| C11 | M13 | Små endringer kan ligge «inlinet» i katalogen til de flushes til Parquet. Det er utelatt for å holde hovedbudskapet rent: data i bøtta, metadata i katalogen. |
+| C12 | M13 | Steg B: manualen begrunner Parquedit-tilgangen under Avansert med bruk «sammen med andre løsninger som benytter Postgres». Det er uklart om steget alltid er nødvendig, og om det gjelder Parqueditor. |
+| C13 | M13 | At Parqueditor og Editeringsrammeverket går gjennom Python-pakken, er en forenkling. Manualen sier bare at de bruker Parquedit som lagringsløsning. |
 
 ## D. Navn brukt i figurene (begrepsliste)
 
-Dapla-team, Teamansvarlig, developers, data-admins, JIT-tilgang, prodmiljø, testmiljø, kildeprosjekt, standardprosjekt, kildebøtta, produktbøtta, tilsky, frasky, delt-bøtte (standard, delomat), IaC-repo, feature, Atlantis, Kildomaten, Delomaten, Transfer Service, bakke, sky, Dapla Lab, tjenestekatalog, tjenestekonfigurasjon, Mine tjenester, Datadoc, Vardef, Klass, variabelforekomst, datakatalog, Team SU-V, skjema, periode, pulje, utsending, Maskinporten, Maskinporten Guardian, M2M-teamet, Keycloak, Secret Manager, Samarbeidsportalen, MoveIT, Cloud_sync.
+Dapla-team, Teamansvarlig, developers, data-admins, JIT-tilgang, prodmiljø, testmiljø, kildeprosjekt, standardprosjekt, kildebøtta, produktbøtta, tilsky, frasky, delt-bøtte (standard, delomat), IaC-repo, feature, Atlantis, Kildomaten, Delomaten, Transfer Service, bakke, sky, Dapla Lab, tjenestekatalog, tjenestekonfigurasjon, Mine tjenester, Datadoc, Vardef, Klass, variabelforekomst, datakatalog, Team SU-V, skjema, periode, pulje, utsending, Maskinporten, Maskinporten Guardian, M2M-teamet, Keycloak, Secret Manager, Samarbeidsportalen, MoveIT, Cloud_sync, Parquedit, ssb-parquedit, Parqueditor, Parquedit-tabell, DuckLake, sentral katalog, Editeringsrammeverket.

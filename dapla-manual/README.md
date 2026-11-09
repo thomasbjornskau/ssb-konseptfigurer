@@ -1,6 +1,6 @@
 # Konseptfigurer for Dapla-manualen
 
-Tolv konseptfigurer til [Dapla-manualen](https://manual.dapla.ssb.no/statistikkere/), laget for manualens innholdskolonne. Innholdet er sjekket mot manualen, som er fasit. Avvik og tolkninger står i [KVALITETSSIKRING.md](KVALITETSSIKRING.md).
+Tretten konseptfigurer til [Dapla-manualen](https://manual.dapla.ssb.no/statistikkere/), laget for manualens innholdskolonne. Innholdet er sjekket mot manualen, som er fasit. Avvik og tolkninger står i [KVALITETSSIKRING.md](KVALITETSSIKRING.md).
 
 **Status:** Utkast 03.11.2026, ikke faglig kontrollert. Hver figur har kildelinje og dato i bunnteksten.
 
@@ -20,6 +20,7 @@ Tolv konseptfigurer til [Dapla-manualen](https://manual.dapla.ssb.no/statistikke
 | [M10](#m10-en-tjeneste-i-dapla-lab) | En tjeneste i Dapla Lab | [`m10-en-tjeneste-i-dapla-lab.svg`](figurer/m10-en-tjeneste-i-dapla-lab.svg) |
 | [M11](#m11-flytte-statistikkproduksjon-til-dapla) | Flytte statistikkproduksjon til Dapla | [`m11-flytte-statistikk-til-dapla.svg`](figurer/m11-flytte-statistikk-til-dapla.svg) |
 | [M12](#m12-altinn-3-fra-skjema-til-bøtte) | Altinn 3 fra skjema til bøtte | [`m12-altinn3-fra-skjema-til-botte.svg`](figurer/m12-altinn3-fra-skjema-til-botte.svg) |
+| [M13](#m13-parquedit) | Parquedit | [`m13-parquedit.svg`](figurer/m13-parquedit.svg) |
 
 ## Mappestruktur
 
@@ -276,3 +277,23 @@ Figurene er tegnet med Open Sans. Har ikke maskinen fonten, brukes Segoe UI elle
 **Alt-tekst:** Øverst hierarkiet skjema, periode, pulje og utsending, med utsendingstypene. Nederst flyten fra oppgavegiver via Altinn 3, Team SU-V og Transfer Service til teamets kildebøtte og videre til Kildomaten. SU-V har ansvaret for datafangsten, statistikkteamet for kildedataene.
 
 [SVG](figurer/m12-altinn3-fra-skjema-til-botte.svg) · [PNG](png/m12-altinn3-fra-skjema-til-botte.png) · [Til toppen](#konseptfigurer-for-dapla-manualen)
+
+---
+
+### M13 Parquedit
+
+![Parquedit](figurer/m13-parquedit.svg)
+
+**Side:** Parquedit (øverst, etter avsnittet om at tjenesten lagrer data i produktbøtta og metadata i en sentral katalog). Kan også brukes på Parqueditor-siden.  
+**Bildetekst:** Parquedit lagrer dataene i teamets produktbøtte og metadataene i en sentral katalog  
+**Markører:**
+
+1. Teamet jobber med Parquedit fra en tjeneste i Dapla Lab, startet som teamet og en tilgangsgruppe. Grensesnittet kan være Parqueditor, egen Python-kode eller et annet grensesnitt som Editeringsrammeverket.
+2. Alle grensesnittene går gjennom Python-pakken ssb-parquedit, som er bygget på DuckLake.
+3. Metadataene, altså hvilke tabeller som finnes, versjonene og hvilke filer en tabell består av, ligger i en sentral PostgreSQL-katalog som er felles for Dapla.
+4. Selve dataene ligger som Parquet-filer i teamets egen produktbøtte.
+5. Det tas ikke sentral sikkerhetskopi av katalogen. Teamet må selv eksportere den jevnlig med export_catalog().
+
+**Alt-tekst:** Til venstre tre grensesnitt i Dapla Lab: Parqueditor, Python-kode og andre grensesnitt som Editeringsrammeverket. Alle bruker Python-pakken ssb-parquedit. Pakken leser og skriver metadata i en sentral PostgreSQL-katalog som er felles for alle team, og data som Parquet-filer i teamets produktbøtte. En stiplet pil fra katalogen til teamet viser sikkerhetskopien teamet selv må ta med export_catalog(). Under står egenskapene Parquedit får fra DuckLake og tre steg før man starter.
+
+[SVG](figurer/m13-parquedit.svg) · [PNG](png/m13-parquedit.png) · [Til toppen](#konseptfigurer-for-dapla-manualen)
