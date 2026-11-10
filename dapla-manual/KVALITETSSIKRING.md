@@ -45,8 +45,7 @@ Jeg har bare sett foilene i lav oppløsning, så listen er ikke uttømmende.
 | C9 | M13 | Figuren sier ikke hvor endringsloggen (get_edits) lagres. Manualen er uklar: «slette editeringshistorikk og filene i teamets bøtte», men cleanup=False beholder «editeringshistorikk og selve datafilene i produktbøtta». |
 | C10 | M13 | Sikkerhetskopien er tegnet som en pil til teamets produktbøtte. Manualen sier at standardstien er `{data_path}/catalog-export`, men ikke hva data_path er. |
 | C11 | M13 | Små endringer kan ligge «inlinet» i katalogen til de flushes til Parquet. Det er utelatt for å holde hovedbudskapet rent: data i bøtta, metadata i katalogen. |
-| C12 | M13 | Steg B: manualen begrunner Parquedit-tilgangen under Avansert med bruk «sammen med andre løsninger som benytter Postgres». Det er uklart om steget alltid er nødvendig, og om det gjelder Parqueditor. |
-| C13 | M13 | At Parqueditor og Editeringsrammeverket går gjennom Python-pakken, er en forenkling. Manualen sier bare at de bruker Parquedit som lagringsløsning. |
+| C12 | M13 | At de grafiske grensesnittene (Parqueditor, Editeringsrammeverket, egne apper) går gjennom Python-pakken, er en forenkling. Manualen sier bare at de bruker Parquedit som lagringsløsning. |
 
 ## D. Navn brukt i figurene (begrepsliste)
 

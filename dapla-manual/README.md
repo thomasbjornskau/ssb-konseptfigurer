@@ -294,12 +294,12 @@ Figurene er tegnet med Roboto og Open Sans. Har ikke maskinen fontene, brukes Ar
 **Bildetekst:** Parquedit lagrer dataene i teamets produktbøtte og metadataene i en sentral katalog  
 **Markører:**
 
-1. Teamet jobber med Parquedit fra en tjeneste i Dapla Lab, startet som teamet og en tilgangsgruppe. Grensesnittet kan være Parqueditor, egen Python-kode eller et annet grensesnitt som Editeringsrammeverket.
+1. Teamet jobber med Parquedit fra en tjeneste i Dapla Lab, startet som teamet. Grensesnittet er enten en IDE (Jupyter, VS Code, RStudio eller Marimo) eller et grafisk grensesnitt (Parqueditor, Editeringsrammeverket eller en egenutviklet app).
 2. Alle grensesnittene går gjennom Python-pakken ssb-parquedit, som er bygget på DuckLake.
 3. Metadataene, altså hvilke tabeller som finnes, versjonene og hvilke filer en tabell består av, ligger i en sentral PostgreSQL-katalog som er felles for Dapla.
 4. Selve dataene ligger som Parquet-filer i teamets egen produktbøtte.
 5. Det tas ikke sentral sikkerhetskopi av katalogen. Teamet må selv eksportere den jevnlig med export_catalog().
 
-**Alt-tekst:** Til venstre tre grensesnitt i Dapla Lab: Parqueditor, Python-kode og andre grensesnitt som Editeringsrammeverket. Alle bruker Python-pakken ssb-parquedit. Pakken leser og skriver metadata i en sentral PostgreSQL-katalog som er felles for alle team, og data som Parquet-filer i teamets produktbøtte. En stiplet pil fra katalogen til teamet viser sikkerhetskopien teamet selv må ta med export_catalog(). Under står egenskapene Parquedit får fra DuckLake og tre steg før man starter.
+**Alt-tekst:** Til venstre to typer grensesnitt i Dapla Lab: IDE (Jupyter, VS Code, RStudio eller Marimo) og grafisk grensesnitt (Parqueditor, Editeringsrammeverket eller en egenutviklet app). Begge bruker Python-pakken ssb-parquedit. Pakken leser og skriver metadata i en sentral PostgreSQL-katalog som er felles for alle team, og data som Parquet-filer i teamets produktbøtte. En stiplet pil fra katalogen til teamet viser sikkerhetskopien teamet selv må ta med export_catalog().
 
 [SVG](figurer/m13-parquedit.svg) · [PNG](png/m13-parquedit.png) · [Til toppen](#konseptfigurer-for-dapla-manualen)
